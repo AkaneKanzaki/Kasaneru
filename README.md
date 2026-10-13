@@ -4,7 +4,7 @@
 that takes you from zero to JLPT N1, built with **Vite + React + TypeScript +
 Capacitor** — one codebase for Web and Android.
 
-**Local-first & open source:** no account, no backend, no tracking. All
+**Local & open source:** no account, no backend, no tracking. All
 content is bundled with the app and all progress stays on your device.
 Works fully offline.
 
