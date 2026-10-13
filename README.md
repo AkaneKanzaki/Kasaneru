@@ -115,8 +115,6 @@ only data transfer is a user-initiated backup file export.
   access/portability, **reset** (Profile → Reset all data) covers erasure —
   consistent with GDPR, CCPA/CPRA, LGPD, and Indonesia's PDP Law
   (UU No. 27/2022).
-- **Google Play Data Safety** (when publishing): declare *no data collected*,
-  *no data shared*. The app requests no sensitive permissions.
 
 - Exam scores are **estimates**, not official JLPT scaled scores.
 - Your data never leaves your device. Use Profile → Backup to move it
