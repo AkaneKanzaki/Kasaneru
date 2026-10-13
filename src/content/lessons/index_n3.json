@@ -1,0 +1,1180 @@
+{
+  "level": "N3",
+  "modules": {
+    "n3-m1": {
+      "lessons": "1-5",
+      "title_en": "N4 consolidation: foundations that must be automatic",
+      "title_id": "Konsolidasi N4: fondasi yang harus otomatis"
+    },
+    "n3-m2": {
+      "lessons": "6-10",
+      "title_en": "Formal register: the world of である",
+      "title_id": "Register formal: dunia である"
+    },
+    "n3-m3": {
+      "lessons": "11-15",
+      "title_en": "Resolve, effort, and compulsion",
+      "title_id": "Tekad, usaha, dan keterpaksaan"
+    },
+    "n3-m4": {
+      "lessons": "16-20",
+      "title_en": "Formal conditions and concessions",
+      "title_id": "Syarat dan konsesi formal"
+    },
+    "n3-m5": {
+      "lessons": "21-25",
+      "title_en": "How to say it: impressions, degree, and sounds",
+      "title_id": "Cara berkata: kesan, derajat, dan bunyi"
+    },
+    "n3-m6": {
+      "lessons": "26-30",
+      "title_en": "Time, opportunity, and business keigo (special module)",
+      "title_id": "Waktu, kesempatan, dan keigo bisnis (modul khusus)"
+    },
+    "n3-m7": {
+      "lessons": "31-35",
+      "title_en": "Dokkai I: from short to medium",
+      "title_id": "Dokkai I: dari pendek ke sedang"
+    },
+    "n3-m8": {
+      "lessons": "36-40",
+      "title_en": "Dokkai II and Choukai: long and fast",
+      "title_id": "Dokkai II & Choukai: panjang dan cepat"
+    },
+    "n3-m9": {
+      "lessons": "41-45",
+      "title_en": "Reading speed and listening stamina",
+      "title_id": "Kecepatan baca dan stamina dengar"
+    },
+    "n3-m10": {
+      "lessons": "46-50",
+      "title_en": "Full mock exam and final review",
+      "title_id": "Full mock exam dan review final"
+    }
+  },
+  "lessons": [
+    {
+      "n": 1,
+      "code": "L01",
+      "module": "n3-m1",
+      "title_en": "Automating N4: suffering passive and causative-passive",
+      "title_id": "Otomatiskan N4: pasif & kausatif-pasif",
+      "grammar": [
+        "受身迷惑 (pasif penderitaan)",
+        "使役受身 (kausatif-pasif)"
+      ],
+      "vocab_theme": "Politik, hukum, dan masyarakat",
+      "kanji": [
+        "権",
+        "利",
+        "義",
+        "務",
+        "制",
+        "度",
+        "革",
+        "命"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 2,
+      "code": "L02",
+      "module": "n3-m1",
+      "title_en": "〜させていただく and 〜ことになる",
+      "title_id": "〜させていただく & 〜ことになる",
+      "grammar": [
+        "〜させていただく",
+        "〜ことになる"
+      ],
+      "vocab_theme": "Politik, hukum, dan masyarakat",
+      "kanji": [
+        "党",
+        "派",
+        "律",
+        "規",
+        "則",
+        "条",
+        "項",
+        "訟"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 3,
+      "code": "L03",
+      "module": "n3-m1",
+      "title_en": "Strict conditions: 〜てからでないと",
+      "title_id": "Syarat keras: 〜てからでないと",
+      "grammar": [
+        "〜てからでないと",
+        "〜ないことには"
+      ],
+      "vocab_theme": "Politik, hukum, dan masyarakat",
+      "kanji": [
+        "罪",
+        "罰",
+        "刑",
+        "省",
+        "庁",
+        "官",
+        "僚",
+        "議"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 4,
+      "code": "L04",
+      "module": "n3-m1",
+      "title_en": "Subjective cause and effect",
+      "title_id": "Sebab-akibat subjektif",
+      "grammar": [
+        "〜ものだから",
+        "〜ことだから"
+      ],
+      "vocab_theme": "Politik, hukum, dan masyarakat",
+      "kanji": [
+        "挙",
+        "投",
+        "票",
+        "憲",
+        "民",
+        "族",
+        "衆",
+        "閣"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 5,
+      "code": "L05",
+      "module": "n3-m1",
+      "title_en": "Thanks to vs. because of",
+      "title_id": "Berkat vs. gara-gara",
+      "grammar": [
+        "〜おかげで",
+        "〜せいで",
+        "〜うちに"
+      ],
+      "vocab_theme": "Politik, hukum, dan masyarakat",
+      "kanji": [
+        "閥",
+        "拘",
+        "逮",
+        "訴",
+        "却",
+        "審",
+        "枠"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 6,
+      "code": "L06",
+      "module": "n3-m2",
+      "title_en": "Reading である (1)",
+      "title_id": "Membaca である (1)",
+      "grammar": [
+        "である体 (bentuk tulis formal)"
+      ],
+      "vocab_theme": "Ekonomi dan bisnis",
+      "kanji": [
+        "損",
+        "益",
+        "費",
+        "値",
+        "段",
+        "賃"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 7,
+      "code": "L07",
+      "module": "n3-m2",
+      "title_en": "Logical conjunctions: したがって・つまり",
+      "title_id": "Konjungsi logis: したがって・つまり",
+      "grammar": [
+        "したがって",
+        "つまり"
+      ],
+      "vocab_theme": "Ekonomi dan bisnis",
+      "kanji": [
+        "募",
+        "集",
+        "採",
+        "昇",
+        "降",
+        "増"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 8,
+      "code": "L08",
+      "module": "n3-m2",
+      "title_en": "ただし・なぜなら・すなわち",
+      "title_id": "ただし・なぜなら・すなわち",
+      "grammar": [
+        "ただし",
+        "なぜなら",
+        "すなわち"
+      ],
+      "vocab_theme": "Ekonomi dan bisnis",
+      "kanji": [
+        "減",
+        "拡",
+        "縮",
+        "倒",
+        "職",
+        "就"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 9,
+      "code": "L09",
+      "module": "n3-m2",
+      "title_en": "〜に対して and 〜に関して",
+      "title_id": "〜に対して & 〜に関して",
+      "grammar": [
+        "〜に対して",
+        "〜に関して"
+      ],
+      "vocab_theme": "Ekonomi dan bisnis",
+      "kanji": [
+        "率",
+        "額",
+        "余",
+        "裕",
+        "赤",
+        "借"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 10,
+      "code": "L10",
+      "module": "n3-m2",
+      "title_en": "Writing a formal paragraph",
+      "title_id": "Menulis paragraf formal",
+      "grammar": [
+        "〜について (tulis formal)",
+        "〜といった"
+      ],
+      "vocab_theme": "Ekonomi dan bisnis",
+      "kanji": [
+        "儲",
+        "賭",
+        "券",
+        "棚",
+        "卸"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 11,
+      "code": "L11",
+      "module": "n3-m3",
+      "title_en": "Trying hard: 〜ようとする",
+      "title_id": "Berusaha: 〜ようとする",
+      "grammar": [
+        "Volitional + とする",
+        "〜ようとする"
+      ],
+      "vocab_theme": "Waktu dan aksi",
+      "kanji": [
+        "暫",
+        "寸",
+        "刻",
+        "瞬",
+        "暮",
+        "暁",
+        "潮"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 12,
+      "code": "L12",
+      "module": "n3-m3",
+      "title_en": "Negative resolve: 〜まい",
+      "title_id": "Tekad negatif: 〜まい",
+      "grammar": [
+        "〜まい",
+        "〜ものなら"
+      ],
+      "vocab_theme": "Waktu dan aksi",
+      "kanji": [
+        "頻",
+        "繁",
+        "恒",
+        "暦",
+        "旬",
+        "旦"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 13,
+      "code": "L13",
+      "module": "n3-m3",
+      "title_en": "Having no choice: 〜ざるを得ない",
+      "title_id": "Terpaksa: 〜ざるを得ない",
+      "grammar": [
+        "〜ざるを得ない"
+      ],
+      "vocab_theme": "Waktu dan aksi",
+      "kanji": [
+        "漸",
+        "捗",
+        "滞",
+        "渋",
+        "峠",
+        "坂"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 14,
+      "code": "L14",
+      "module": "n3-m3",
+      "title_en": "Irresistible",
+      "title_id": "Tak tertahankan",
+      "grammar": [
+        "〜ないではいられない",
+        "〜てはいられない"
+      ],
+      "vocab_theme": "Waktu dan aksi",
+      "kanji": [
+        "帆",
+        "撫",
+        "揉",
+        "捻",
+        "掴",
+        "呑"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 15,
+      "code": "L15",
+      "module": "n3-m3",
+      "title_en": "Extremes and possibility: 〜てたまらない, 〜得る",
+      "title_id": "Sangat & mungkin: 〜てたまらない, 〜得る",
+      "grammar": [
+        "〜てたまらない",
+        "〜てしかたがない",
+        "〜得る/〜うる",
+        "〜かねる",
+        "〜がたい"
+      ],
+      "vocab_theme": "Waktu dan aksi",
+      "kanji": [
+        "噛",
+        "舐",
+        "嗜",
+        "慌",
+        "躊",
+        "溺"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 16,
+      "code": "L16",
+      "module": "n3-m4",
+      "title_en": "Supposing: 〜としたら/〜とすれば",
+      "title_id": "Andaikan: 〜としたら/〜とすれば",
+      "grammar": [
+        "〜としたら",
+        "〜とすれば"
+      ],
+      "vocab_theme": "Rumah, pakaian, dan makanan",
+      "kanji": [
+        "麺",
+        "餅",
+        "飴",
+        "煎",
+        "漬",
+        "腐",
+        "納",
+        "酵"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 17,
+      "code": "L17",
+      "module": "n3-m4",
+      "title_en": "Concession 1: 〜にしても/〜にせよ",
+      "title_id": "Konsesi 1: 〜にしても/〜にせよ",
+      "grammar": [
+        "〜にしても",
+        "〜にせよ",
+        "〜といっても"
+      ],
+      "vocab_theme": "Rumah, pakaian, dan makanan",
+      "kanji": [
+        "餡",
+        "襟",
+        "袖",
+        "裾",
+        "紺",
+        "袋",
+        "緋",
+        "朱"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 18,
+      "code": "L18",
+      "module": "n3-m4",
+      "title_en": "Concession 2: 〜とはいえ/〜ものの",
+      "title_id": "Konsesi 2: 〜とはいえ/〜ものの",
+      "grammar": [
+        "〜とはいえ",
+        "〜とはいうものの",
+        "〜ものの",
+        "〜ものを"
+      ],
+      "vocab_theme": "Rumah, pakaian, dan makanan",
+      "kanji": [
+        "漆",
+        "藍",
+        "藤",
+        "桃",
+        "棟",
+        "軒",
+        "塀"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 19,
+      "code": "L19",
+      "module": "n3-m4",
+      "title_en": "Since it is so: 〜からには/〜以上は",
+      "title_id": "Karena sudah: 〜からには/〜以上は",
+      "grammar": [
+        "〜からには",
+        "〜以上は",
+        "〜上は"
+      ],
+      "vocab_theme": "Rumah, pakaian, dan makanan",
+      "kanji": [
+        "垣",
+        "柵",
+        "欄",
+        "扉",
+        "障",
+        "襖",
+        "畳"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 20,
+      "code": "L20",
+      "module": "n3-m4",
+      "title_en": "Depending on: 〜次第",
+      "title_id": "Tergantung: 〜次第",
+      "grammar": [
+        "〜次第"
+      ],
+      "vocab_theme": "Rumah, pakaian, dan makanan",
+      "kanji": [
+        "柱",
+        "頬",
+        "顎",
+        "喉",
+        "拭",
+        "洒",
+        "濯"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 21,
+      "code": "L21",
+      "module": "n3-m5",
+      "title_en": "Impressions 1: 〜っぽい/〜がち/〜気味",
+      "title_id": "Kesan 1: 〜っぽい/〜がち/〜気味",
+      "grammar": [
+        "〜っぽい",
+        "〜がち",
+        "〜気味",
+        "〜げ"
+      ],
+      "vocab_theme": "Perasaan, sifat, dan konsep abstrak",
+      "kanji": [
+        "肌",
+        "胃",
+        "骨",
+        "臓",
+        "腰",
+        "唇",
+        "恨",
+        "悔",
+        "恥",
+        "惜"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 22,
+      "code": "L22",
+      "module": "n3-m5",
+      "title_en": "Pretending and signs: 〜ぶる/〜めく",
+      "title_id": "Berlagak & tanda: 〜ぶる/〜めく",
+      "grammar": [
+        "〜ぶる",
+        "〜めく"
+      ],
+      "vocab_theme": "Perasaan, sifat, dan konsep abstrak",
+      "kanji": [
+        "慕",
+        "慨",
+        "嘆",
+        "愁",
+        "憂",
+        "哀",
+        "歓",
+        "忍",
+        "耐"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 23,
+      "code": "L23",
+      "module": "n3-m5",
+      "title_en": "Full of and covered in: 〜だらけ/〜まみれ",
+      "title_id": "Penuh & berlumuran: 〜だらけ/〜まみれ",
+      "grammar": [
+        "〜だらけ",
+        "〜まみれ",
+        "〜ずくめ"
+      ],
+      "vocab_theme": "Perasaan, sifat, dan konsep abstrak",
+      "kanji": [
+        "賢",
+        "愚",
+        "敏",
+        "頑",
+        "丈",
+        "密",
+        "疎",
+        "粗",
+        "滑"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 24,
+      "code": "L24",
+      "module": "n3-m5",
+      "title_en": "Conclusions: 〜わけだ and friends",
+      "title_id": "Kesimpulan: 〜わけだ & co.",
+      "grammar": [
+        "〜わけだ",
+        "〜わけではない",
+        "〜わけがない",
+        "〜ものだ",
+        "〜ことだ"
+      ],
+      "vocab_theme": "Perasaan, sifat, dan konsep abstrak",
+      "kanji": [
+        "粘",
+        "鋭",
+        "脆",
+        "玄",
+        "幽",
+        "虚",
+        "慈",
+        "恵",
+        "覆"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 25,
+      "code": "L25",
+      "module": "n3-m5",
+      "title_en": "Sound words: giongo and gitaigo",
+      "title_id": "Bunyi bahasa: giongo & gitaigo",
+      "grammar": [
+        "Onomatope (giongo/gitaigo)",
+        "〜にすぎない",
+        "〜にほかならない"
+      ],
+      "vocab_theme": "Perasaan, sifat, dan konsep abstrak",
+      "kanji": [
+        "暴",
+        "襲",
+        "匿",
+        "群",
+        "憧",
+        "嫉",
+        "怯",
+        "惚",
+        "呆"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 26,
+      "code": "L26",
+      "module": "n3-m6",
+      "title_en": "Since, and right in the middle",
+      "title_id": "Sejak & tepat di tengah",
+      "grammar": [
+        "〜以来",
+        "〜最中に",
+        "〜ついでに"
+      ],
+      "vocab_theme": "Dokumen, kerja, dan keluarga",
+      "kanji": [
+        "訂",
+        "添",
+        "封",
+        "締",
+        "呈",
+        "捺"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 27,
+      "code": "L27",
+      "module": "n3-m6",
+      "title_en": "While, and no sooner: 〜がてら/〜や否や",
+      "title_id": "Sambil & begitu: 〜がてら/〜や否や",
+      "grammar": [
+        "〜がてら",
+        "〜かたわら",
+        "〜や否や",
+        "〜が早いか",
+        "〜なり"
+      ],
+      "vocab_theme": "Dokumen, kerja, dan keluarga",
+      "kanji": [
+        "契",
+        "印",
+        "証",
+        "頼",
+        "娯",
+        "婚"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 28,
+      "code": "L28",
+      "module": "n3-m6",
+      "title_en": "Made for whom: 〜向け/〜向き",
+      "title_id": "Untuk siapa: 〜向け/〜向き",
+      "grammar": [
+        "〜向け",
+        "〜向き"
+      ],
+      "vocab_theme": "Dokumen, kerja, dan keluarga",
+      "kanji": [
+        "葬",
+        "嫁",
+        "婿",
+        "妊",
+        "孤",
+        "遺"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 29,
+      "code": "L29",
+      "module": "n3-m6",
+      "title_en": "Business email formulas 1",
+      "title_id": "Formula email bisnis 1",
+      "grammar": [
+        "お手数ですが",
+        "恐縮ながら",
+        "丁重語 (bahasa sangat sopan)"
+      ],
+      "vocab_theme": "Dokumen, kerja, dan keluarga",
+      "kanji": [
+        "稼",
+        "賄",
+        "塾",
+        "奨",
+        "励",
+        "遵"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 30,
+      "code": "L30",
+      "module": "n3-m6",
+      "title_en": "Business email formulas 2",
+      "title_id": "Formula email bisnis 2",
+      "grammar": [
+        "〜させていただきたく存じます",
+        "ご検討のほど〜幸いです"
+      ],
+      "vocab_theme": "Dokumen, kerja, dan keluarga",
+      "kanji": [
+        "履",
+        "奉",
+        "捧",
+        "掲",
+        "載",
+        "充"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 31,
+      "code": "L31",
+      "module": "n3-m7",
+      "title_en": "Short texts: purpose and main idea",
+      "title_id": "短文: tujuan & gagasan utama",
+      "grammar": [
+        "〜につれて",
+        "〜にしたがって",
+        "Drill 短文"
+      ],
+      "vocab_theme": "Alam, cuaca, dan komunikasi",
+      "kanji": [
+        "猿",
+        "熊",
+        "虎",
+        "兎",
+        "蛇",
+        "蝶",
+        "蜂",
+        "蚊",
+        "鯨",
+        "亀"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 32,
+      "code": "L32",
+      "module": "n3-m7",
+      "title_en": "Medium texts: change and contrast",
+      "title_id": "中文: perubahan & kontras",
+      "grammar": [
+        "〜とともに",
+        "〜一方だ",
+        "〜一方で",
+        "Drill 中文"
+      ],
+      "vocab_theme": "Alam, cuaca, dan komunikasi",
+      "kanji": [
+        "松",
+        "竹",
+        "杉",
+        "柳",
+        "桑",
+        "梨",
+        "崖",
+        "峡",
+        "丘",
+        "岳"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 33,
+      "code": "L33",
+      "module": "n3-m7",
+      "title_en": "Aspect: 〜つつある and 〜っぱなし",
+      "title_id": "Aspek: 〜つつある & 〜っぱなし",
+      "grammar": [
+        "〜つつある",
+        "〜つつ(も)",
+        "〜ながらも",
+        "〜かけ",
+        "〜っぱなし"
+      ],
+      "vocab_theme": "Alam, cuaca, dan komunikasi",
+      "kanji": [
+        "峰",
+        "岬",
+        "湾",
+        "浜",
+        "滝",
+        "湧",
+        "訊",
+        "詫",
+        "喋",
+        "囁"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 34,
+      "code": "L34",
+      "module": "n3-m7",
+      "title_en": "Compound verbs 1: 〜きる/〜ぬく",
+      "title_id": "Verba majemuk 1: 〜きる/〜ぬく",
+      "grammar": [
+        "〜きる",
+        "〜ぬく"
+      ],
+      "vocab_theme": "Alam, cuaca, dan komunikasi",
+      "kanji": [
+        "吠",
+        "唸",
+        "嗅",
+        "匠",
+        "彫",
+        "弦",
+        "笛",
+        "鼓",
+        "雹",
+        "霞"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 35,
+      "code": "L35",
+      "module": "n3-m7",
+      "title_en": "Compound verbs 2: 〜通す/〜かける",
+      "title_id": "Verba majemuk 2: 〜通す/〜かける",
+      "grammar": [
+        "〜通す",
+        "〜かける"
+      ],
+      "vocab_theme": "Alam, cuaca, dan komunikasi",
+      "kanji": [
+        "露",
+        "霜",
+        "彗",
+        "瀬",
+        "洲",
+        "沖",
+        "崎",
+        "嵐",
+        "颯"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 36,
+      "code": "L36",
+      "module": "n3-m8",
+      "title_en": "Long texts 1: argument structure",
+      "title_id": "長文 1: struktur argumen",
+      "grammar": [
+        "〜をめぐって",
+        "〜にわたって",
+        "Strategi 長文"
+      ],
+      "vocab_theme": "Sains, medis, dan masyarakat",
+      "kanji": [
+        "診",
+        "療",
+        "症",
+        "麻",
+        "栓",
+        "磁",
+        "鍋",
+        "零",
+        "桁",
+        "艦",
+        "艇"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 37,
+      "code": "L37",
+      "module": "n3-m8",
+      "title_en": "Long texts 2: through and along with",
+      "title_id": "長文 2: melalui & seiring",
+      "grammar": [
+        "〜を通じて",
+        "〜に伴って",
+        "〜を機に"
+      ],
+      "vocab_theme": "Sains, medis, dan masyarakat",
+      "kanji": [
+        "蚕",
+        "蛍",
+        "蟹",
+        "蝉",
+        "桐",
+        "楓",
+        "椿",
+        "桂",
+        "鯛",
+        "鰹"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 38,
+      "code": "L38",
+      "module": "n3-m8",
+      "title_en": "Formal documents",
+      "title_id": "Dokumen formal",
+      "grammar": [
+        "〜を皮切りに",
+        "〜にかけては",
+        "〜に際して",
+        "〜を限りに",
+        "〜をもって"
+      ],
+      "vocab_theme": "Sains, medis, dan masyarakat",
+      "kanji": [
+        "鰯",
+        "鱈",
+        "鮎",
+        "鰻",
+        "鮭",
+        "鷹",
+        "鷲",
+        "梟",
+        "鶯",
+        "雉"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 39,
+      "code": "L39",
+      "module": "n3-m8",
+      "title_en": "As if: 〜んばかりに/〜かのようだ",
+      "title_id": "Seakan-akan: 〜んばかりに/〜かのようだ",
+      "grammar": [
+        "〜んばかりに",
+        "〜とばかりに",
+        "〜かのようだ"
+      ],
+      "vocab_theme": "Sains, medis, dan masyarakat",
+      "kanji": [
+        "鴨",
+        "燕",
+        "鷺",
+        "鶴",
+        "狐",
+        "狸",
+        "猪",
+        "仲",
+        "介",
+        "舶"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 40,
+      "code": "L40",
+      "module": "n3-m8",
+      "title_en": "Information retrieval: find it fast",
+      "title_id": "情報検索: temukan cepat",
+      "grammar": [
+        "Drill 情報検索"
+      ],
+      "vocab_theme": "Sains, medis, dan masyarakat",
+      "kanji": [
+        "桟",
+        "埠",
+        "釘",
+        "鎌",
+        "笠",
+        "籠",
+        "樽",
+        "壺",
+        "鎖",
+        "錠"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 41,
+      "code": "L41",
+      "module": "n3-m9",
+      "title_en": "Speed reading: articles and opinions",
+      "title_id": "Baca cepat: artikel & opini",
+      "grammar": [
+        "Drill retrieval",
+        "〜あまり",
+        "〜だけに"
+      ],
+      "vocab_theme": "Daur ulang topik ujian",
+      "kanji": [
+        "憶",
+        "慮",
+        "悟",
+        "認",
+        "閲"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 42,
+      "code": "L42",
+      "module": "n3-m9",
+      "title_en": "Speed reading: ideas vs. facts",
+      "title_id": "Baca cepat: gagasan vs. fakta",
+      "grammar": [
+        "〜どころか",
+        "〜ばかりか",
+        "〜くせに"
+      ],
+      "vocab_theme": "Daur ulang topik ujian",
+      "kanji": [
+        "監",
+        "旨",
+        "趣",
+        "吟",
+        "詠"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 43,
+      "code": "L43",
+      "module": "n3-m9",
+      "title_en": "Listening stamina (1)",
+      "title_id": "Stamina listening (1)",
+      "grammar": [
+        "Latihan play-once kecepatan penuh"
+      ],
+      "vocab_theme": "Daur ulang topik ujian",
+      "kanji": [
+        "遂",
+        "克",
+        "潜",
+        "避",
+        "免"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 44,
+      "code": "L44",
+      "module": "n3-m9",
+      "title_en": "Listening stamina (2): nuance distractors",
+      "title_id": "Stamina listening (2): distractor nuansa",
+      "grammar": [
+        "Opsi benar-kata-salah-maksud"
+      ],
+      "vocab_theme": "Daur ulang topik ujian",
+      "kanji": [
+        "拒",
+        "妨",
+        "阻",
+        "招",
+        "催"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 45,
+      "code": "L45",
+      "module": "n3-m9",
+      "title_en": "Half-mock and review",
+      "title_id": "Half-mock dan review",
+      "grammar": [
+        "Blok 70 menit bertiming"
+      ],
+      "vocab_theme": "Daur ulang topik ujian",
+      "kanji": [
+        "宴",
+        "替",
+        "換",
+        "模"
+      ],
+      "duration_min": 20
+    },
+    {
+      "n": 46,
+      "code": "L46",
+      "module": "n3-m10",
+      "title_en": "Full mock 1 (Study mode)",
+      "title_id": "Full mock 1 (mode Study)",
+      "grammar": [
+        "Semua seksi (mock)"
+      ],
+      "vocab_theme": "Sapuan akhir frekuensi tinggi",
+      "kanji": [
+        "極",
+        "至",
+        "亘"
+      ],
+      "duration_min": 20
+    },
+    {
+      "n": 47,
+      "code": "L47",
+      "module": "n3-m10",
+      "title_en": "Error clinic and repair",
+      "title_id": "Klinik kesalahan & perbaikan",
+      "grammar": [
+        "Titik lemah pribadi per strand"
+      ],
+      "vocab_theme": "Sapuan akhir frekuensi tinggi",
+      "kanji": [
+        "殆",
+        "頗",
+        "甚"
+      ],
+      "duration_min": 20
+    },
+    {
+      "n": 48,
+      "code": "L48",
+      "module": "n3-m10",
+      "title_en": "Full mock 2 (Real mode)",
+      "title_id": "Full mock 2 (mode Real)",
+      "grammar": [
+        "140 mnt, floors diterapkan"
+      ],
+      "vocab_theme": "Sapuan akhir frekuensi tinggi",
+      "kanji": [
+        "遭",
+        "墜",
+        "殉"
+      ],
+      "duration_min": 20
+    },
+    {
+      "n": 49,
+      "code": "L49",
+      "module": "n3-m10",
+      "title_en": "Full mock 3 (Real mode) + official anchor",
+      "title_id": "Full mock 3 (mode Real) + jangkar resmi",
+      "grammar": [
+        "Set contoh resmi sebagai benchmark"
+      ],
+      "vocab_theme": "Sapuan akhir frekuensi tinggi",
+      "kanji": [
+        "顕",
+        "彰",
+        "懲"
+      ],
+      "duration_min": 20
+    },
+    {
+      "n": 50,
+      "code": "L50",
+      "module": "n3-m10",
+      "title_en": "Readiness check and test-day plan",
+      "title_id": "Readiness check & rencana hari-H",
+      "grammar": [
+        "140 mnt, floors; sign-off"
+      ],
+      "vocab_theme": "Sapuan akhir frekuensi tinggi",
+      "kanji": [
+        "戒",
+        "赦"
+      ],
+      "duration_min": 20
+    }
+  ]
+}

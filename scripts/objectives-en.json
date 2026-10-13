@@ -1,0 +1,62 @@
+{
+ "N5": {
+  "M1": "Read and write all hiragana and katakana, recognize vowel sounds and sound contrasts, and greet and introduce yourself politely.",
+  "M2": "Build correct simple sentences about routines, locations, and possession, and understand the Japanese particle system.",
+  "M3": "Describe people and things with i/na-adjectives, express existence and location, count objects, and handle prices.",
+  "M4": "Talk about yesterday and last week by mastering the past tense of verbs, adjectives, and the copula.",
+  "M5": "Master the te-form — the most productive N5 pattern — for linking actions, requesting, asking permission, and ongoing activities.",
+  "M6": "Express reasons, contrast, comparisons of two or more things, and degree — patterns that turn simple sentences into connected speech.",
+  "M7": "Express wants, likes/dislikes, and ability, and master the dictionary form that underpins advanced patterns.",
+  "M8": "Handle rules and obligations, future plans, frequency, and the ta-form (plain past) for key N5 patterns.",
+  "M9": "Turn knowledge into exam performance: speed-reading for information, eliminating distractors, and keeping listening stamina.",
+  "M10": "Take a full N5 simulation in Real mode, analyze mistakes by category, and close gaps before the real exam."
+ },
+ "N4": {
+  "n4-m1": "Talk about ability with the potential form, link reasons with 〜し, do two things at once with 〜ながら, and consolidate 〜たり〜たりする.",
+  "n4-m2": "Handle giving–receiving actions (〜てあげる/くれる/もらう) and understand keigo: sonkeigo vs. kenjougo concepts, basic patterns, and the most common special verbs.",
+  "n4-m3": "Express intention with the volitional form and master the four conditionals (と/〜たら/〜ば/〜ても) with their nuances.",
+  "n4-m4": "Give advice (〜たほうがいい), distinguish preparation–state–accident (〜ておく/〜てある/〜てしまう), and express purpose and change of ability.",
+  "n4-m5": "Understand and use the passive (including the suffering passive and formal passive) as well as the causative and causative-passive in news and daily contexts.",
+  "n4-m6": "Use keigo correctly in real situations: taking/placing phone calls, writing simple business emails, and interacting at work.",
+  "n4-m7": "Express conjecture and impression with the right nuance: the two 〜そうだ, 〜みたい/〜らしい/〜ようだ, 〜はずだ, and 〜べきだ.",
+  "n4-m8": "Express degree (〜すぎる, 〜やすい/〜にくい), movement relative to the speaker (〜てくる/〜ていく), and precise time aspects (〜ところ, 〜たばかり, 〜ばかり, 〜うちに).",
+  "n4-m9": "Turn knowledge into exam performance at N4 difficulty: skimming mid-length texts, eliminating distractors, and surviving a full single-play listening section.",
+  "n4-m10": "Take a complete N4 mock in Real mode, review mistakes by category, and close remaining gaps before the real exam."
+ },
+ "N3": {
+  "n3-m1": "Automate the most error-prone N4 patterns (suffering passive, causative-passive, 〜ことにする/〜ことになる, 〜うちに) and master N3 transition patterns: 〜させていただく, hard conditions (〜てからでないと/〜ないことには), and cause-effect markers (〜ものだから/〜ことだから, 〜おかげで/〜せいで).",
+  "n3-m2": "Enter formal written Japanese: read and write である style, use logical conjunctions, and express formal relations between concepts (〜に対して, 〜に関して).",
+  "n3-m3": "Express resolve and effort (volitional + とする, 〜ようとする, 〜まい), conditional possibility (〜ものなら), and compulsion/irresistibility (〜ざるを得ない, 〜ないではいられない, 〜てはいられない, 〜てたまらない/〜てしかたがない, 〜得る, 〜かねる).",
+  "n3-m4": "Master formal conditionals and concession: 〜としたら/〜とすれば, the 〜にしても/〜にせよ/〜といっても/〜とはいえ family, and conditional-resolve markers (〜からには, 〜以上は, 〜上は, 〜次第).",
+  "n3-m5": "Express impression and degree precisely: suffixes 〜っぽい/〜がち/〜気味/〜げ, 〜ぶる/〜めく, 〜だらけ/〜まみれ/〜ずくめ, conclusion markers 〜わけだ/〜わけではない/〜わけがない, 〜ものだ/〜ことだ, and onomatopoeia (giongo/gitaigo) in narration.",
+  "n3-m6": "Master precise time expressions (〜以来, 〜最中に, 〜ついでに, 〜がてら/〜かたわら, 〜や否や/〜が早いか/〜なり, 〜向け/〜向き) and advanced business keigo for emails, documents, and formal work situations.",
+  "n3-m7": "Read 短文 and 中文 with strategy: gradual change (〜につれて/〜にしたがって/〜とともに), contrast (〜一方だ/〜一方で), ongoing aspect (〜つつある), and compound verbs (〜きる/〜ぬく/〜通す/〜かける).",
+  "n3-m8": "Conquer 長文, 情報検索, and opinion texts, plus full-speed listening: coverage (〜をめぐって/〜にわたって/〜を通じて/〜に伴って), document formality (〜を機に/〜を皮切りに/〜にかけては/〜に際して/〜を限りに/〜をもって), and simile style (〜んばかりに/〜とばかりに/〜かのようだ).",
+  "n3-m9": "Turn knowledge into exam performance at N3 difficulty: skimming long texts, eliminating nuanced distractors, and surviving a full-speed single-play listening section.",
+  "n3-m10": "Take a complete N3 mock in Real mode, review mistakes by category and strand, and close remaining gaps before the real exam."
+ },
+ "N2": {
+  "n2-m1": "Consolidate foundational N3 patterns (〜ざるを得ない, 〜わけだ, 〜ものだ) and master N2 limitation/essence expressions (〜にほかならない, 〜にすぎない, 〜に足る/〜に堪える, 〜甲斐がある), while forcing である-style production in every piece of writing.",
+  "n2-m2": "Master N2-level conjecture (〜おそれがある, 〜かねない, 〜に相違ない, 〜ほかない) and rhetorical denial (〜ものか), and consolidate the 〜っぽい/〜がち/〜気味 family from N3 at written-text depth.",
+  "n2-m3": "Master formal concession and conditions (〜にしろ/〜にせよ/〜であれ, 〜いかんにかかわらず/〜を問わず, 〜からして/〜からすると) — the core toolkit of N2 argumentation — with an N3 conditional review.",
+  "n2-m4": "Master irrepressible emotion (〜を禁じ得ない, 〜てやまない, 〜ずにはおかない) and as-if emphasis (〜んばかり/〜とばかり) — the patterns most often used as N2 distractors.",
+  "n2-m5": "Master manner/state expressions (〜なり〜なり, 〜かたわら, 〜そばから, 〜つつある) and appearance/impression (〜ざま, 〜ぶり, 〜じみる, 〜ともなく) — the grammar vocabulary that separates N2 from N3.",
+  "n2-m6": "Master formal written keigo: 謙譲語II (ご〜いただく, お〜申し上げる, 拝〜), document formulas (謹啓・敬具・記・以上), and complete business emails — as a life skill and exam material.",
+  "n2-m7": "Read newspaper Japanese: headline passives, news expressions (〜模様だ, 〜とのことだ, 〜ものとみられる), and party/source markers — the foundation for 長文 and 情報検索.",
+  "n2-m8": "Master formal conjunctions and logic markers (よって, ついては, 〜にして, 〜上での) — the cohesion toolkit of N2 texts — and read full argumentative essays.",
+  "n2-m9": "Turn knowledge into exam performance: skimming 長文, strategies for each N2 reading type (including 統合理解), and 50 minutes of single-play full-speed listening stamina.",
+  "n2-m10": "Take a complete N2 mock in Real mode, review mistakes by category and strand, and close remaining gaps before the real exam."
+ },
+ "N1": {
+  "n1-m1": "Recognize classical forms (〜ぬ, 〜ず, 〜き, 〜けり) for reading recognition — not production — and master full である style and classical rhetoric (体言止め, 倒置, 係り結び) as the foundation for literary and formal texts.",
+  "n1-m2": "Master ultra-formal written keigo and complete business letters: 拝啓〜敬具 structure, 謹んで, 恐れながら, social formulas, and ご〜いただく & お〜申し上げる — as a life skill and exam material.",
+  "n1-m3": "Build formal written arguments with purpose, conformity, and basis patterns: 〜べく/〜べくも, 〜んがため(に), 〜と相まって, 〜に即して, 〜に則って, 〜を踏まえて — then write a full argumentative essay.",
+  "n1-m4": "Distinguish near-synonyms through minimal contrast (〜にかこつけて, 〜にかまけて, 〜をよそに, 〜ならいざしらず, 〜はさておき, 〜はおろか, 〜もさることながら) and read short 社説 with author-stance comprehension.",
+  "n1-m5": "Read authentic 社説 and opinion columns (〜たりとも, 〜だに, 〜とは比べものにならない, 〜を余儀なくされる/させる, 〜の至り/〜の極み), compare two opposing texts, and write an argued response.",
+  "n1-m6": "Read literary criticism and essays with assertiveness/futility patterns (〜てはばからない/〜を憚らない, 〜も顧みず/〜をものともせず, 〜甲斐もなく, 〜たが最後), recognize literary style (inversion, ellipsis), and write a review.",
+  "n1-m7": "Master advanced near-synonyms (〜ようでは, 〜ようによっては, 〜まい/〜ずじまい) and use 四字熟語 correctly — meaning, reading, register, context — in formal writing.",
+  "n1-m8": "Understand abstract fast-paced lectures and panel discussions (implied meaning, speaker stance, 統合理解) and master advanced onomatopoeia as a literary rhetorical device.",
+  "n1-m9": "Turn knowledge into exam performance: timed skimming of long authentic texts, 主張理解 & 情報検索 strategies, eliminating near-synonym distractors, and 60 minutes of single-play listening stamina.",
+  "n1-m10": "Take two full N1 mocks in Real mode (170 minutes), review mistakes by category and strand, close remaining gaps, and complete the N1 readiness checklist."
+ }
+}

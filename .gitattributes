@@ -1,0 +1,14 @@
+# GitHub Linguist: jangan hitung file generated/konten di statistik bahasa.
+# Bar bahasa repo hanya mencerminkan kode sumber asli (TypeScript).
+
+# Generated / vendored
+android/ linguist-vendored
+dist/ linguist-vendored
+public/icons/*.png linguist-vendored
+package-lock.json linguist-vendored
+
+# Konten (pelajaran, kartu, soal, dokumen legal) — data, bukan kode
+src/content/ linguist-vendored
+
+# Dokumentasi
+*.md linguist-documentation

@@ -1,0 +1,162 @@
+// English strings (default language).
+export const en = {
+  appName: 'Kasaneru',
+  appTagline: 'Stacking knowledge layer by layer, from zero to N1.',
+  tagline: 'Learn Japanese from zero to JLPT',
+
+  // Setup (shown when Supabase is not configured)
+
+  // Auth
+
+  // Home
+  home: 'Home',
+  greeting: 'Hello',
+  continueLearning: 'Continue learning',
+  yourStreak: 'Daily streak',
+  days: 'days',
+  yourXp: 'Your XP',
+  pickActivity: 'Pick an activity',
+
+  // Kana
+  kana: 'Kana',
+  kanaTitle: 'Kana Practice',
+  hiragana: 'Hiragana',
+  katakana: 'Katakana',
+  tapToPractice: 'Tap a kana to practice',
+  mastered: 'Mastered',
+  kanaGrid: 'Grid',
+  kanaCards: 'Flashcards',
+  startQuiz: 'Start quiz',
+  kanaQuiz: 'Kana Quiz',
+  goodMorning: 'Good morning',
+  goodAfternoon: 'Good afternoon',
+  goodEvening: 'Good evening',
+  heroSubtitle: "Let's stack another layer today.",
+  reviewNow: 'Review now',
+  listen: 'Listen',
+  autoVoice: 'Auto voice',
+  guessMeaning: 'What does this mean?',
+  next: 'Next',
+  tapCorrectReading: 'Tap the correct reading',
+  resetKanaProgress: 'Reset kana progress',
+  resetKanaConfirm:
+    'Reset all kana quiz stats for the current script? This cannot be undone.',
+
+  // Level
+  level: 'Level',
+  selectStudyLevel: 'Select study level',
+
+  // Lessons
+  lessons: 'Lessons',
+  startLesson: 'Start lesson',
+  markComplete: 'Mark complete',
+  minutes: 'min',
+  completed: 'Completed',
+  unmarkComplete: 'Unmark complete',
+  lessonNotFound: 'Lesson not found.',
+  noLessons: 'No lessons yet. Lecturer content coming soon.',
+
+  // Flashcards
+  flashcards: 'Flashcards',
+  flashcardsTitle: 'Vocabulary Drill (SRS)',
+  flashcardsSubtitle: 'Guess the meaning, level up your words',
+  accuracy: 'accuracy',
+  showAnswer: 'Show answer',
+  startSession: 'Start session',
+  preparingCards: 'Preparing cards...',
+  sessionComplete: 'Session complete! Great job.',
+  again: 'Again',
+  hard: 'Hard',
+  good: 'Good',
+  easy: 'Easy',
+  noCardsDue: 'No cards due. Great job!',
+  cardsDue: 'cards due',
+
+  // Exam
+  exam: 'Exam',
+  examTitle: 'JLPT Mock Exam',
+  modeQuick: 'Quick',
+  modeQuickDesc: 'No timer, instant feedback',
+  modeStudy: 'Study',
+  modeStudyDesc: 'Full duration, pausable, review at the end',
+  modeReal: 'Real',
+  modeRealDesc: 'Exam-day simulation: strict timer, single-play audio',
+  startExam: 'Start exam',
+  examLevel: 'Exam level',
+  noApprovedQuestions: 'No approved questions for this level yet.',
+  submit: 'Submit',
+  nextQuestion: 'Next question',
+  previousQuestion: 'Previous',
+  timeLeft: 'Time left',
+  estimatedScore: 'This score is an estimate, not an official JLPT score',
+  passed: 'PASS',
+  failed: 'NOT YET PASS',
+  sectionKnowledge: 'Language Knowledge',
+  sectionReading: 'Reading',
+  sectionListening: 'Listening',
+
+  // Dashboard
+  myProgress: 'My learning progress',
+  dueNow: 'Due',
+
+  // Profile
+  profile: 'Profile',
+  targetLevel: 'Target level',
+  statsTitle: 'Your stats',
+
+
+  examHistory: 'Exam history',
+  invalidRecord: 'Invalid record',
+  playAudio: 'Play audio',
+  language: 'Language',
+  themeLabel: 'Theme',
+  themeLight: 'Light',
+  themeDark: 'Dark',
+  soundEffects: 'Sound effects',
+  soundOn: 'On',
+  soundOff: 'Off',
+  backupTitle: 'Backup & restore',
+  preferences: 'Preferences',
+  audio: 'Audio',
+  backupDesc:
+    'Your progress is stored on this device only. Export a backup file to keep it safe or move to another device.',
+  exportBackup: 'Export backup',
+  importBackup: 'Import backup',
+  importSuccess: 'Backup imported. The app will reload.',
+  importFailed: 'That file is not a valid Kasaneru backup.',
+  resetData: 'Reset all data',
+  resetDataDesc:
+    'Delete all progress on this device (XP, streak, lessons, SRS, exam history).',
+  resetConfirm: 'Delete ALL local data? This cannot be undone.',
+  dataReset: 'All local data has been reset.',
+  aboutTitle: 'About',
+  aboutText:
+    'Kasaneru — learn Japanese from zero to JLPT N1. Open source and offline-first: your data never leaves this device.',
+  version: 'Version',
+
+  privacyPolicy: 'Privacy Policy',
+  termsOfUse: 'Terms of Use',
+  back: 'Back',
+  githubRepo: 'GitHub repository',
+  // Generic
+  loading: 'Loading...',
+  retry: 'Try again',
+  errorGeneric: 'Something went wrong. Try again.',
+  save: 'Save',
+  cancel: 'Cancel',
+  // Onboarding (first run)
+  onboardWelcome: 'Welcome to Kasaneru',
+  onboardIntro: 'Stack your knowledge layer by layer, from zero to JLPT N1.',
+  onboardLessons: '248 step-by-step lessons',
+  onboardFlashcards: 'Smart flashcards with spaced repetition',
+  onboardExam: 'Realistic JLPT mock exams',
+  onboardName: 'What should we call you?',
+  onboardNamePlaceholder: 'Your name (optional)',
+  onboardTarget: 'Pick your target level',
+  onboardStart: 'Start learning',
+  onboardSkip: 'Skip',
+  onboardNext: 'Continue',
+};
+
+export type Strings = typeof en;
+export type Lang = 'en' | 'id';

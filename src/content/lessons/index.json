@@ -1,0 +1,2761 @@
+{
+ "levels": [
+  {
+   "id": "N5",
+   "modules": [
+    {
+     "id": "N5-M1",
+     "code": "M1",
+     "title_en": "Kana, sounds, and first exchanges",
+     "title_id": "Kana, bunyi, dan sapaan pertama",
+     "objective_id": "Membaca dan menulis seluruh hiragana dan katakana, mengenali bunyi vokal dan kontras bunyi, serta menyapa dan memperkenalkan diri dalam bentuk sopan.",
+     "objective_en": "Read and write all hiragana and katakana, recognize vowel sounds and sound contrasts, and greet and introduce yourself politely.",
+     "lessons": [
+      {
+       "id": "N5-L01",
+       "code": "L01",
+       "title_en": "Hello! Greetings and introductions",
+       "title_id": "Sapaan dan perkenalan",
+       "duration_min": 15,
+       "file": "n5/lesson-01.md",
+       "file_en": "n5/lesson-01.en.md"
+      },
+      {
+       "id": "N5-L02",
+       "code": "L02",
+       "title_en": "Hiragana 1: vowels and K/S/T rows",
+       "title_id": "Hiragana 1: vokal dan baris K/S/T",
+       "duration_min": 15,
+       "file": "n5/lesson-02.md",
+       "file_en": "n5/lesson-02.en.md"
+      },
+      {
+       "id": "N5-L03",
+       "code": "L03",
+       "title_en": "Hiragana 2: N/H/M/Y/R/W + dakuten",
+       "title_id": "Hiragana 2: baris N/H/M/Y/R/W + dakuten",
+       "duration_min": 15,
+       "file": "n5/lesson-03.md",
+       "file_en": "n5/lesson-03.en.md"
+      },
+      {
+       "id": "N5-L04",
+       "code": "L04",
+       "title_en": "Katakana and loanwords",
+       "title_id": "Katakana dan kata serapan",
+       "duration_min": 15,
+       "file": "n5/lesson-04.md",
+       "file_en": "n5/lesson-04.en.md"
+      },
+      {
+       "id": "N5-L05",
+       "code": "L05",
+       "title_en": "Numbers, ages, and phone numbers",
+       "title_id": "Angka, umur, dan nomor telepon",
+       "duration_min": 15,
+       "file": "n5/lesson-05.md",
+       "file_en": "n5/lesson-05.en.md"
+      },
+      {
+       "id": "N5-L06",
+       "code": "L06",
+       "title_en": "My name is…: self-introduction",
+       "title_id": "Perkenalan diri: nama saya…",
+       "duration_min": 15,
+       "file": "n5/lesson-06.md",
+       "file_en": "n5/lesson-06.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N5-M2",
+     "code": "M2",
+     "title_en": "Particles, verbs, and daily life",
+     "title_id": "Partikel, kata kerja, dan kehidupan sehari-hari",
+     "objective_id": "Menyusun kalimat sederhana yang benar tentang rutinitas, lokasi, dan kepemilikan, serta memahami sistem partikel Bahasa Jepang.",
+     "objective_en": "Build correct simple sentences about routines, locations, and possession, and understand the Japanese particle system.",
+     "lessons": [
+      {
+       "id": "N5-L07",
+       "code": "L07",
+       "title_en": "Particles は・が・を",
+       "title_id": "Partikel は・が・を",
+       "duration_min": 15,
+       "file": "n5/lesson-07.md",
+       "file_en": "n5/lesson-07.en.md"
+      },
+      {
+       "id": "N5-L08",
+       "code": "L08",
+       "title_en": "Verbs and the ます form",
+       "title_id": "Kata kerja dan bentuk ます",
+       "duration_min": 15,
+       "file": "n5/lesson-08.md",
+       "file_en": "n5/lesson-08.en.md"
+      },
+      {
+       "id": "N5-L09",
+       "code": "L09",
+       "title_en": "Time and daily routine",
+       "title_id": "Waktu dan rutinitas harian",
+       "duration_min": 15,
+       "file": "n5/lesson-09.md",
+       "file_en": "n5/lesson-09.en.md"
+      },
+      {
+       "id": "N5-L10",
+       "code": "L10",
+       "title_en": "Places: に・へ・で",
+       "title_id": "Tempat: に・へ・で",
+       "duration_min": 15,
+       "file": "n5/lesson-10.md",
+       "file_en": "n5/lesson-10.en.md"
+      },
+      {
+       "id": "N5-L11",
+       "code": "L11",
+       "title_en": "Inviting: ませんか・ましょう",
+       "title_id": "Mengajak: ませんか・ましょう",
+       "duration_min": 15,
+       "file": "n5/lesson-11.md",
+       "file_en": "n5/lesson-11.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N5-M3",
+     "code": "M3",
+     "title_en": "Describing, existing, and counting",
+     "title_id": "Mendeskripsikan, keberadaan, dan menghitung",
+     "objective_id": "Mendeskripsikan orang dan benda dengan kata sifat-i/na, menyatakan keberadaan dan lokasi, menghitung benda, dan menangani harga.",
+     "objective_en": "Describe people and things with i/na-adjectives, express existence and location, count objects, and handle prices.",
+     "lessons": [
+      {
+       "id": "N5-L12",
+       "code": "L12",
+       "title_en": "i-Adjectives",
+       "title_id": "Kata sifat-i",
+       "duration_min": 15,
+       "file": "n5/lesson-12.md",
+       "file_en": "n5/lesson-12.en.md"
+      },
+      {
+       "id": "N5-L13",
+       "code": "L13",
+       "title_en": "na-Adjectives",
+       "title_id": "Kata sifat-na",
+       "duration_min": 15,
+       "file": "n5/lesson-13.md",
+       "file_en": "n5/lesson-13.en.md"
+      },
+      {
+       "id": "N5-L14",
+       "code": "L14",
+       "title_en": "There is / there are: あります・います",
+       "title_id": "Ada: あります・います",
+       "duration_min": 15,
+       "file": "n5/lesson-14.md",
+       "file_en": "n5/lesson-14.en.md"
+      },
+      {
+       "id": "N5-L15",
+       "code": "L15",
+       "title_en": "Counting and counters",
+       "title_id": "Menghitung dan counter",
+       "duration_min": 15,
+       "file": "n5/lesson-15.md",
+       "file_en": "n5/lesson-15.en.md"
+      },
+      {
+       "id": "N5-L16",
+       "code": "L16",
+       "title_en": "Shopping: prices and requests",
+       "title_id": "Belanja: harga dan permintaan",
+       "duration_min": 15,
+       "file": "n5/lesson-16.md",
+       "file_en": "n5/lesson-16.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N5-M4",
+     "code": "M4",
+     "title_en": "Past time and narration",
+     "title_id": "Waktu lampau dan bercerita",
+     "objective_id": "Bercerita tentang kemarin dan minggu lalu dengan menguasai bentuk lampau kata kerja, kata sifat, dan kopula.",
+     "objective_en": "Talk about yesterday and last week by mastering the past tense of verbs, adjectives, and the copula.",
+     "lessons": [
+      {
+       "id": "N5-L17",
+       "code": "L17",
+       "title_en": "Past verbs: ました",
+       "title_id": "Kata kerja lampau: ました",
+       "duration_min": 15,
+       "file": "n5/lesson-17.md",
+       "file_en": "n5/lesson-17.en.md"
+      },
+      {
+       "id": "N5-L18",
+       "code": "L18",
+       "title_en": "Past adjectives and です",
+       "title_id": "Kata sifat lampau dan でした",
+       "duration_min": 15,
+       "file": "n5/lesson-18.md",
+       "file_en": "n5/lesson-18.en.md"
+      },
+      {
+       "id": "N5-L19",
+       "code": "L19",
+       "title_en": "My weekend: narration",
+       "title_id": "Akhir pekanku: bercerita",
+       "duration_min": 15,
+       "file": "n5/lesson-19.md",
+       "file_en": "n5/lesson-19.en.md"
+      },
+      {
+       "id": "N5-L20",
+       "code": "L20",
+       "title_en": "Weather and seasons",
+       "title_id": "Cuaca dan musim",
+       "duration_min": 15,
+       "file": "n5/lesson-20.md",
+       "file_en": "n5/lesson-20.en.md"
+      },
+      {
+       "id": "N5-L21",
+       "code": "L21",
+       "title_en": "Before and after",
+       "title_id": "Sebelum dan sesudah",
+       "duration_min": 15,
+       "file": "n5/lesson-21.md",
+       "file_en": "n5/lesson-21.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N5-M5",
+     "code": "M5",
+     "title_en": "The te-form: connecting, requesting, and sequencing",
+     "title_id": "Bentuk-te: menghubungkan, meminta, mengurutkan",
+     "objective_id": "Menguasai bentuk-te — pola paling produktif di N5 — untuk merangkai aksi, meminta, memohon izin, dan menyatakan kegiatan berlangsung.",
+     "objective_en": "Master the te-form — the most productive N5 pattern — for linking actions, requesting, asking permission, and ongoing activities.",
+     "lessons": [
+      {
+       "id": "N5-L22",
+       "code": "L22",
+       "title_en": "The te-form (1): formation",
+       "title_id": "Bentuk-te (1): pembentukan",
+       "duration_min": 15,
+       "file": "n5/lesson-22.md",
+       "file_en": "n5/lesson-22.en.md"
+      },
+      {
+       "id": "N5-L23",
+       "code": "L23",
+       "title_en": "The te-form (2): sequencing actions",
+       "title_id": "Bentuk-te (2): merangkai aksi",
+       "duration_min": 15,
+       "file": "n5/lesson-23.md",
+       "file_en": "n5/lesson-23.en.md"
+      },
+      {
+       "id": "N5-L24",
+       "code": "L24",
+       "title_en": "Requests: 〜てください",
+       "title_id": "Permintaan: 〜てください",
+       "duration_min": 15,
+       "file": "n5/lesson-24.md",
+       "file_en": "n5/lesson-24.en.md"
+      },
+      {
+       "id": "N5-L25",
+       "code": "L25",
+       "title_en": "Permission and rules: 〜てもいい / 〜てはいけない",
+       "title_id": "Izin dan larangan",
+       "duration_min": 15,
+       "file": "n5/lesson-25.md",
+       "file_en": "n5/lesson-25.en.md"
+      },
+      {
+       "id": "N5-L26",
+       "code": "L26",
+       "title_en": "Right now: 〜ています",
+       "title_id": "Sedang berlangsung: 〜ています",
+       "duration_min": 15,
+       "file": "n5/lesson-26.md",
+       "file_en": "n5/lesson-26.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N5-M6",
+     "code": "M6",
+     "title_en": "Reasons, contrast, and comparison",
+     "title_id": "Alasan, kontras, dan perbandingan",
+     "objective_id": "Menyatakan alasan, kontras, perbandingan dua/lebih hal, dan derajat — pola yang mengubah kalimat sederhana menjadi tuturan tersambung.",
+     "objective_en": "Express reasons, contrast, comparisons of two or more things, and degree — patterns that turn simple sentences into connected speech.",
+     "lessons": [
+      {
+       "id": "N5-L27",
+       "code": "L27",
+       "title_en": "Reasons: 〜から",
+       "title_id": "Alasan: 〜から",
+       "duration_min": 15,
+       "file": "n5/lesson-27.md",
+       "file_en": "n5/lesson-27.en.md"
+      },
+      {
+       "id": "N5-L28",
+       "code": "L28",
+       "title_en": "But…: 〜が / 〜けど",
+       "title_id": "Tetapi…: 〜が / 〜けど",
+       "duration_min": 15,
+       "file": "n5/lesson-28.md",
+       "file_en": "n5/lesson-28.en.md"
+      },
+      {
+       "id": "N5-L29",
+       "code": "L29",
+       "title_en": "Comparing two and three things",
+       "title_id": "Membandingkan dua dan tiga hal",
+       "duration_min": 15,
+       "file": "n5/lesson-29.md",
+       "file_en": "n5/lesson-29.en.md"
+      },
+      {
+       "id": "N5-L30",
+       "code": "L30",
+       "title_en": "Too much: 〜すぎます; how to: 〜方",
+       "title_id": "Terlalu: 〜すぎます; cara: 〜方",
+       "duration_min": 15,
+       "file": "n5/lesson-30.md",
+       "file_en": "n5/lesson-30.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N5-M7",
+     "code": "M7",
+     "title_en": "Desire, preference, and ability",
+     "title_id": "Keinginan, kesukaan, dan kemampuan",
+     "objective_id": "Menyatakan keinginan, suka/tidak suka, kemampuan, serta menguasai bentuk kamus yang menjadi fondasi pola lanjutan.",
+     "objective_en": "Express wants, likes/dislikes, and ability, and master the dictionary form that underpins advanced patterns.",
+     "lessons": [
+      {
+       "id": "N5-L31",
+       "code": "L31",
+       "title_en": "Dictionary form",
+       "title_id": "Bentuk kamus",
+       "duration_min": 15,
+       "file": "n5/lesson-31.md",
+       "file_en": "n5/lesson-31.en.md"
+      },
+      {
+       "id": "N5-L32",
+       "code": "L32",
+       "title_en": "I want to…: 〜たい",
+       "title_id": "Ingin melakukan: 〜たい",
+       "duration_min": 15,
+       "file": "n5/lesson-32.md",
+       "file_en": "n5/lesson-32.en.md"
+      },
+      {
+       "id": "N5-L33",
+       "code": "L33",
+       "title_en": "I want this: 〜がほしい; likes and dislikes",
+       "title_id": "Ingin memiliki & suka/tidak suka",
+       "duration_min": 15,
+       "file": "n5/lesson-33.md",
+       "file_en": "n5/lesson-33.en.md"
+      },
+      {
+       "id": "N5-L34",
+       "code": "L34",
+       "title_en": "I can…: 〜ことができる",
+       "title_id": "Bisa…: 〜ことができる",
+       "duration_min": 15,
+       "file": "n5/lesson-34.md",
+       "file_en": "n5/lesson-34.en.md"
+      },
+      {
+       "id": "N5-L35",
+       "code": "L35",
+       "title_en": "Hobbies talk",
+       "title_id": "Bicara tentang hobi",
+       "duration_min": 15,
+       "file": "n5/lesson-35.md",
+       "file_en": "n5/lesson-35.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N5-M8",
+     "code": "M8",
+     "title_en": "Obligation, permission, plans, and frequency",
+     "title_id": "Kewajiban, izin, rencana, dan frekuensi",
+     "objective_id": "Menangani aturan dan kewajiban, rencana masa depan, frekuensi, dan bentuk-ta (lampau biasa) untuk pola-pola kunci N5.",
+     "objective_en": "Handle rules and obligations, future plans, frequency, and the ta-form (plain past) for key N5 patterns.",
+     "lessons": [
+      {
+       "id": "N5-L36",
+       "code": "L36",
+       "title_en": "Must and need not",
+       "title_id": "Harus dan tidak harus",
+       "duration_min": 15,
+       "file": "n5/lesson-36.md",
+       "file_en": "n5/lesson-36.en.md"
+      },
+      {
+       "id": "N5-L37",
+       "code": "L37",
+       "title_en": "Ta-form: plain past",
+       "title_id": "Bentuk-ta: lampau biasa",
+       "duration_min": 15,
+       "file": "n5/lesson-37.md",
+       "file_en": "n5/lesson-37.en.md"
+      },
+      {
+       "id": "N5-L38",
+       "code": "L38",
+       "title_en": "Have you ever…?: 〜たことがある",
+       "title_id": "Pernah…?: 〜たことがある",
+       "duration_min": 15,
+       "file": "n5/lesson-38.md",
+       "file_en": "n5/lesson-38.en.md"
+      },
+      {
+       "id": "N5-L39",
+       "code": "L39",
+       "title_en": "Plans: 〜つもり・予定",
+       "title_id": "Rencana: 〜つもり・予定",
+       "duration_min": 15,
+       "file": "n5/lesson-39.md",
+       "file_en": "n5/lesson-39.en.md"
+      },
+      {
+       "id": "N5-L40",
+       "code": "L40",
+       "title_en": "Frequency and duration",
+       "title_id": "Frekuensi dan durasi",
+       "duration_min": 15,
+       "file": "n5/lesson-40.md",
+       "file_en": "n5/lesson-40.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N5-M9",
+     "code": "M9",
+     "title_en": "Reading speed and listening stamina",
+     "title_id": "Kecepatan membaca dan stamina mendengar",
+     "objective_id": "Mengubah pengetahuan menjadi performa ujian: membaca cepat mencari informasi, menyingkirkan pengecoh, dan menjaga stamina mendengar.",
+     "objective_en": "Turn knowledge into exam performance: speed-reading for information, eliminating distractors, and keeping listening stamina.",
+     "lessons": [
+      {
+       "id": "N5-L41",
+       "code": "L41",
+       "title_en": "Reading fast: notices and messages",
+       "title_id": "Membaca cepat: pengumuman dan pesan",
+       "duration_min": 15,
+       "file": "n5/lesson-41.md",
+       "file_en": "n5/lesson-41.en.md"
+      },
+      {
+       "id": "N5-L42",
+       "code": "L42",
+       "title_en": "Reading fast: main idea",
+       "title_id": "Membaca cepat: gagasan utama",
+       "duration_min": 15,
+       "file": "n5/lesson-42.md",
+       "file_en": "n5/lesson-42.en.md"
+      },
+      {
+       "id": "N5-L43",
+       "code": "L43",
+       "title_en": "Listening stamina (1)",
+       "title_id": "Stamina mendengar (1)",
+       "duration_min": 15,
+       "file": "n5/lesson-43.md",
+       "file_en": "n5/lesson-43.en.md"
+      },
+      {
+       "id": "N5-L44",
+       "code": "L44",
+       "title_en": "Listening stamina (2): distractors",
+       "title_id": "Stamina mendengar (2): pengecoh",
+       "duration_min": 15,
+       "file": "n5/lesson-44.md",
+       "file_en": "n5/lesson-44.en.md"
+      },
+      {
+       "id": "N5-L45",
+       "code": "L45",
+       "title_en": "Half-mock and review",
+       "title_id": "Setengah simulasi dan review",
+       "duration_min": 20,
+       "file": "n5/lesson-45.md",
+       "file_en": "n5/lesson-45.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N5-M10",
+     "code": "M10",
+     "title_en": "Full mock exams and final review",
+     "title_id": "Simulasi ujian dan review akhir",
+     "objective_id": "Mengerjakan simulasi N5 penuh dalam mode Real, menganalisis kesalahan per kategori, dan menutup celah sebelum ujian sesungguhnya.",
+     "objective_en": "Take a full N5 simulation in Real mode, analyze mistakes by category, and close gaps before the real exam.",
+     "lessons": [
+      {
+       "id": "N5-L46",
+       "code": "L46",
+       "title_en": "Full mock 1 (Study mode)",
+       "title_id": "Simulasi penuh 1 (mode Study)",
+       "duration_min": 20,
+       "file": "n5/lesson-46.md",
+       "file_en": "n5/lesson-46.en.md"
+      },
+      {
+       "id": "N5-L47",
+       "code": "L47",
+       "title_en": "Error clinic and repair",
+       "title_id": "Klinik kesalahan dan perbaikan",
+       "duration_min": 15,
+       "file": "n5/lesson-47.md",
+       "file_en": "n5/lesson-47.en.md"
+      },
+      {
+       "id": "N5-L48",
+       "code": "L48",
+       "title_en": "Full mock 2 (Real mode) + readiness check",
+       "title_id": "Simulasi penuh 2 (mode Real) + cek kesiapan",
+       "duration_min": 20,
+       "file": "n5/lesson-48.md",
+       "file_en": "n5/lesson-48.en.md"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "N4",
+   "modules": [
+    {
+     "id": "N4-n4-m1",
+     "code": "n4-m1",
+     "title_en": "Potential form, 〜し, and 〜ながら",
+     "title_id": "Bentuk potensial, 〜し, dan 〜ながら",
+     "objective_id": "Membicarakan kemampuan dengan bentuk potensial, merangkai alasan dengan 〜し, melakukan dua hal sekaligus dengan 〜ながら, dan mengonsolidasikan 〜たり〜たりする.",
+     "objective_en": "Talk about ability with the potential form, link reasons with 〜し, do two things at once with 〜ながら, and consolidate 〜たり〜たりする.",
+     "lessons": [
+      {
+       "id": "N4-L01",
+       "code": "L01",
+       "title_en": "Can do it! Potential form (1)",
+       "title_id": "Bisa! Bentuk potensial (1)",
+       "duration_min": 15,
+       "file": "n4/lesson-01.md",
+       "file_en": "n4/lesson-01.en.md"
+      },
+      {
+       "id": "N4-L02",
+       "code": "L02",
+       "title_en": "Potential form (2)",
+       "title_id": "Bentuk potensial (2)",
+       "duration_min": 15,
+       "file": "n4/lesson-02.md",
+       "file_en": "n4/lesson-02.en.md"
+      },
+      {
+       "id": "N4-L03",
+       "code": "L03",
+       "title_en": "While…: 〜ながら",
+       "title_id": "Sambil…: 〜ながら",
+       "duration_min": 15,
+       "file": "n4/lesson-03.md",
+       "file_en": "n4/lesson-03.en.md"
+      },
+      {
+       "id": "N4-L04",
+       "code": "L04",
+       "title_en": "Listing reasons: 〜し",
+       "title_id": "Alasan berderet: 〜し",
+       "duration_min": 15,
+       "file": "n4/lesson-04.md",
+       "file_en": "n4/lesson-04.en.md"
+      },
+      {
+       "id": "N4-L05",
+       "code": "L05",
+       "title_en": "Sometimes this, sometimes that: 〜たり〜たり",
+       "title_id": "Kadang ini kadang itu: 〜たり〜たり",
+       "duration_min": 15,
+       "file": "n4/lesson-05.md",
+       "file_en": "n4/lesson-05.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N4-n4-m2",
+     "code": "n4-m2",
+     "title_en": "Giving, receiving, and keigo foundations",
+     "title_id": "Memberi, menerima, dan fondasi keigo",
+     "objective_id": "Menangani aksi memberi–menerima (〜てあげる/くれる/もらう) dan memahami sistem keigo: konsep sonkeigo vs. kenjougo, pola dasar, dan kata kerja khusus yang paling sering muncul.",
+     "objective_en": "Handle giving–receiving actions (〜てあげる/くれる/もらう) and understand keigo: sonkeigo vs. kenjougo concepts, basic patterns, and the most common special verbs.",
+     "lessons": [
+      {
+       "id": "N4-L06",
+       "code": "L06",
+       "title_en": "Giving: 〜てあげる",
+       "title_id": "Memberi: 〜てあげる",
+       "duration_min": 15,
+       "file": "n4/lesson-06.md",
+       "file_en": "n4/lesson-06.en.md"
+      },
+      {
+       "id": "N4-L07",
+       "code": "L07",
+       "title_en": "Receiving: 〜てくれる",
+       "title_id": "Menerima: 〜てくれる",
+       "duration_min": 15,
+       "file": "n4/lesson-07.md",
+       "file_en": "n4/lesson-07.en.md"
+      },
+      {
+       "id": "N4-L08",
+       "code": "L08",
+       "title_en": "Asking favors: 〜てもらう",
+       "title_id": "Meminta: 〜てもらう",
+       "duration_min": 15,
+       "file": "n4/lesson-08.md",
+       "file_en": "n4/lesson-08.en.md"
+      },
+      {
+       "id": "N4-L09",
+       "code": "L09",
+       "title_en": "Keigo 1: honoring vs. humbling",
+       "title_id": "Keigo 1: menghormati vs. merendah",
+       "duration_min": 15,
+       "file": "n4/lesson-09.md",
+       "file_en": "n4/lesson-09.en.md"
+      },
+      {
+       "id": "N4-L10",
+       "code": "L10",
+       "title_en": "Keigo 2: お〜になる & お〜する",
+       "title_id": "Keigo 2: お〜になる & お〜する",
+       "duration_min": 15,
+       "file": "n4/lesson-10.md",
+       "file_en": "n4/lesson-10.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N4-n4-m3",
+     "code": "n4-m3",
+     "title_en": "Volitional and conditionals",
+     "title_id": "Volitional dan kondisional",
+     "objective_id": "Menyatakan niat dengan bentuk volitional dan menguasai empat kondisional (と/〜たら/〜ば/〜ても) beserta nuansa masing-masing.",
+     "objective_en": "Express intention with the volitional form and master the four conditionals (と/〜たら/〜ば/〜ても) with their nuances.",
+     "lessons": [
+      {
+       "id": "N4-L11",
+       "code": "L11",
+       "title_en": "Let's…: the volitional form",
+       "title_id": "Ayo…: bentuk volitional",
+       "duration_min": 15,
+       "file": "n4/lesson-11.md",
+       "file_en": "n4/lesson-11.en.md"
+      },
+      {
+       "id": "N4-L12",
+       "code": "L12",
+       "title_en": "Plans: 〜つもり & 〜とおもいます",
+       "title_id": "Rencana: 〜つもり & 〜とおもいます",
+       "duration_min": 15,
+       "file": "n4/lesson-12.md",
+       "file_en": "n4/lesson-12.en.md"
+      },
+      {
+       "id": "N4-L13",
+       "code": "L13",
+       "title_en": "If…: と & 〜たら",
+       "title_id": "Kalau…: と & 〜たら",
+       "duration_min": 15,
+       "file": "n4/lesson-13.md",
+       "file_en": "n4/lesson-13.en.md"
+      },
+      {
+       "id": "N4-L14",
+       "code": "L14",
+       "title_en": "〜ば & 〜ても",
+       "title_id": "〜ば & 〜ても",
+       "duration_min": 15,
+       "file": "n4/lesson-14.md",
+       "file_en": "n4/lesson-14.en.md"
+      },
+      {
+       "id": "N4-L15",
+       "code": "L15",
+       "title_en": "Maybe: 〜かもしれない",
+       "title_id": "Mungkin: 〜かもしれない",
+       "duration_min": 15,
+       "file": "n4/lesson-15.md",
+       "file_en": "n4/lesson-15.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N4-n4-m4",
+     "code": "n4-m4",
+     "title_en": "Advice, preparation, and purpose",
+     "title_id": "Saran, persiapan, dan tujuan",
+     "objective_id": "Memberi saran (〜たほうがいい), membedakan persiapan–keadaan–ketidaksengajaan (〜ておく/〜てある/〜てしまう), dan menyatakan tujuan serta perubahan kemampuan.",
+     "objective_en": "Give advice (〜たほうがいい), distinguish preparation–state–accident (〜ておく/〜てある/〜てしまう), and express purpose and change of ability.",
+     "lessons": [
+      {
+       "id": "N4-L16",
+       "code": "L16",
+       "title_en": "Advice: 〜たほうがいい",
+       "title_id": "Saran: 〜たほうがいい",
+       "duration_min": 15,
+       "file": "n4/lesson-16.md",
+       "file_en": "n4/lesson-16.en.md"
+      },
+      {
+       "id": "N4-L17",
+       "code": "L17",
+       "title_en": "Prepare first: 〜ておく & 〜てある",
+       "title_id": "Siapkan dulu: 〜ておく & 〜てある",
+       "duration_min": 15,
+       "file": "n4/lesson-17.md",
+       "file_en": "n4/lesson-17.en.md"
+      },
+      {
+       "id": "N4-L18",
+       "code": "L18",
+       "title_en": "Done and gone: 〜てしまう",
+       "title_id": "Terlanjur: 〜てしまう",
+       "duration_min": 15,
+       "file": "n4/lesson-18.md",
+       "file_en": "n4/lesson-18.en.md"
+      },
+      {
+       "id": "N4-L19",
+       "code": "L19",
+       "title_en": "Whether…: 〜かどうか & 〜という",
+       "title_id": "Apakah…: 〜かどうか & 〜という",
+       "duration_min": 15,
+       "file": "n4/lesson-19.md",
+       "file_en": "n4/lesson-19.en.md"
+      },
+      {
+       "id": "N4-L20",
+       "code": "L20",
+       "title_en": "In order to: 〜ために & 〜ようになる",
+       "title_id": "Agar: 〜ために & 〜ようになる",
+       "duration_min": 15,
+       "file": "n4/lesson-20.md",
+       "file_en": "n4/lesson-20.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N4-n4-m5",
+     "code": "n4-m5",
+     "title_en": "Passive and causative",
+     "title_id": "Pasif dan kausatif",
+     "objective_id": "Memahami dan memakai pasif (termasuk pasif penderitaan dan pasif formal) serta kausatif dan kausatif-pasif dalam konteks berita dan kehidupan sehari-hari.",
+     "objective_en": "Understand and use the passive (including the suffering passive and formal passive) as well as the causative and causative-passive in news and daily contexts.",
+     "lessons": [
+      {
+       "id": "N4-L21",
+       "code": "L21",
+       "title_en": "Passive (1): form and meaning",
+       "title_id": "Pasif (1): bentuk dan makna",
+       "duration_min": 15,
+       "file": "n4/lesson-21.md",
+       "file_en": "n4/lesson-21.en.md"
+      },
+      {
+       "id": "N4-L22",
+       "code": "L22",
+       "title_en": "Passive (2): the suffering passive",
+       "title_id": "Pasif (2): pasif penderitaan",
+       "duration_min": 15,
+       "file": "n4/lesson-22.md",
+       "file_en": "n4/lesson-22.en.md"
+      },
+      {
+       "id": "N4-L23",
+       "code": "L23",
+       "title_en": "Formal passive: 〜によって",
+       "title_id": "Pasif formal: 〜によって",
+       "duration_min": 15,
+       "file": "n4/lesson-23.md",
+       "file_en": "n4/lesson-23.en.md"
+      },
+      {
+       "id": "N4-L24",
+       "code": "L24",
+       "title_en": "Causative: 〜させる",
+       "title_id": "Kausatif: 〜させる",
+       "duration_min": 15,
+       "file": "n4/lesson-24.md",
+       "file_en": "n4/lesson-24.en.md"
+      },
+      {
+       "id": "N4-L25",
+       "code": "L25",
+       "title_en": "Causative-passive & 〜ずに",
+       "title_id": "Kausatif-pasif & 〜ずに",
+       "duration_min": 15,
+       "file": "n4/lesson-25.md",
+       "file_en": "n4/lesson-25.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N4-n4-m6",
+     "code": "n4-m6",
+     "title_en": "Applied keigo: phone, email, and business",
+     "title_id": "Keigo terapan: telepon, email, dan bisnis",
+     "objective_id": "Memakai keigo secara tepat dalam situasi nyata: menerima/menempatkan telepon, menulis email bisnis sederhana, dan berinteraksi di lingkungan kerja.",
+     "objective_en": "Use keigo correctly in real situations: taking/placing phone calls, writing simple business emails, and interacting at work.",
+     "lessons": [
+      {
+       "id": "N4-L26",
+       "code": "L26",
+       "title_en": "Sonkeigo: special verbs",
+       "title_id": "Sonkeigo: kata kerja khusus",
+       "duration_min": 15,
+       "file": "n4/lesson-26.md",
+       "file_en": "n4/lesson-26.en.md"
+      },
+      {
+       "id": "N4-L27",
+       "code": "L27",
+       "title_en": "Kenjougo: special verbs",
+       "title_id": "Kenjougo: kata kerja khusus",
+       "duration_min": 15,
+       "file": "n4/lesson-27.md",
+       "file_en": "n4/lesson-27.en.md"
+      },
+      {
+       "id": "N4-L28",
+       "code": "L28",
+       "title_en": "〜てくださる & 〜ていただく",
+       "title_id": "〜てくださる & 〜ていただく",
+       "duration_min": 15,
+       "file": "n4/lesson-28.md",
+       "file_en": "n4/lesson-28.en.md"
+      },
+      {
+       "id": "N4-L29",
+       "code": "L29",
+       "title_en": "Keigo on the phone",
+       "title_id": "Keigo di telepon",
+       "duration_min": 15,
+       "file": "n4/lesson-29.md",
+       "file_en": "n4/lesson-29.en.md"
+      },
+      {
+       "id": "N4-L30",
+       "code": "L30",
+       "title_en": "Keigo in email and business",
+       "title_id": "Keigo di email dan bisnis",
+       "duration_min": 15,
+       "file": "n4/lesson-30.md",
+       "file_en": "n4/lesson-30.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N4-n4-m7",
+     "code": "n4-m7",
+     "title_en": "Conjecture, impressions, and feelings",
+     "title_id": "Dugaan, kesan, dan perasaan",
+     "objective_id": "Mengungkapkan dugaan dan kesan dengan nuansa yang tepat: membedakan 〜そうだ ganda, 〜みたい/〜らしい/〜ようだ, 〜はずだ, dan 〜べきだ.",
+     "objective_en": "Express conjecture and impression with the right nuance: the two 〜そうだ, 〜みたい/〜らしい/〜ようだ, 〜はずだ, and 〜べきだ.",
+     "lessons": [
+      {
+       "id": "N4-L31",
+       "code": "L31",
+       "title_en": "It looks…: 〜そうだ (appearance)",
+       "title_id": "Kelihatannya: 〜そうだ",
+       "duration_min": 15,
+       "file": "n4/lesson-31.md",
+       "file_en": "n4/lesson-31.en.md"
+      },
+      {
+       "id": "N4-L32",
+       "code": "L32",
+       "title_en": "I heard…: 〜そうだ (hearsay)",
+       "title_id": "Katanya: 〜そうだ",
+       "duration_min": 15,
+       "file": "n4/lesson-32.md",
+       "file_en": "n4/lesson-32.en.md"
+      },
+      {
+       "id": "N4-L33",
+       "code": "L33",
+       "title_en": "〜みたい & 〜らしい",
+       "title_id": "〜みたい & 〜らしい",
+       "duration_min": 15,
+       "file": "n4/lesson-33.md",
+       "file_en": "n4/lesson-33.en.md"
+      },
+      {
+       "id": "N4-L34",
+       "code": "L34",
+       "title_en": "〜ようだ & 〜はずだ",
+       "title_id": "〜ようだ & 〜はずだ",
+       "duration_min": 15,
+       "file": "n4/lesson-34.md",
+       "file_en": "n4/lesson-34.en.md"
+      },
+      {
+       "id": "N4-L35",
+       "code": "L35",
+       "title_en": "Should: 〜べきだ",
+       "title_id": "Seharusnya: 〜べきだ",
+       "duration_min": 15,
+       "file": "n4/lesson-35.md",
+       "file_en": "n4/lesson-35.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N4-n4-m8",
+     "code": "n4-m8",
+     "title_en": "Degree, direction of movement, and aspect",
+     "title_id": "Derajat, arah gerak, dan aspek",
+     "objective_id": "Menyatakan derajat (〜すぎる, 〜やすい/〜にくい), arah gerak relatif pembicara (〜てくる/〜ていく), dan aspek waktu yang presisi (〜ところ, 〜たばかり, 〜ばかり, 〜うちに).",
+     "objective_en": "Express degree (〜すぎる, 〜やすい/〜にくい), movement relative to the speaker (〜てくる/〜ていく), and precise time aspects (〜ところ, 〜たばかり, 〜ばかり, 〜うちに).",
+     "lessons": [
+      {
+       "id": "N4-L36",
+       "code": "L36",
+       "title_en": "Too much: 〜すぎる",
+       "title_id": "Terlalu: 〜すぎる",
+       "duration_min": 15,
+       "file": "n4/lesson-36.md",
+       "file_en": "n4/lesson-36.en.md"
+      },
+      {
+       "id": "N4-L37",
+       "code": "L37",
+       "title_en": "Easy & hard: 〜やすい/〜にくい",
+       "title_id": "Mudah & sulit: 〜やすい/〜にくい",
+       "duration_min": 15,
+       "file": "n4/lesson-37.md",
+       "file_en": "n4/lesson-37.en.md"
+      },
+      {
+       "id": "N4-L38",
+       "code": "L38",
+       "title_en": "How to & direction: 〜方, 〜てくる/〜ていく",
+       "title_id": "Cara & arah: 〜方, 〜てくる/〜ていく",
+       "duration_min": 15,
+       "file": "n4/lesson-38.md",
+       "file_en": "n4/lesson-38.en.md"
+      },
+      {
+       "id": "N4-L39",
+       "code": "L39",
+       "title_en": "Just…: 〜ところ & 〜たばかり",
+       "title_id": "Pas…: 〜ところ & 〜たばかり",
+       "duration_min": 15,
+       "file": "n4/lesson-39.md",
+       "file_en": "n4/lesson-39.en.md"
+      },
+      {
+       "id": "N4-L40",
+       "code": "L40",
+       "title_en": "Only… & while…: 〜ばかり, 〜うちに",
+       "title_id": "Hanya… & selagi…: 〜ばかり, 〜うちに",
+       "duration_min": 15,
+       "file": "n4/lesson-40.md",
+       "file_en": "n4/lesson-40.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N4-n4-m9",
+     "code": "n4-m9",
+     "title_en": "Reading speed and listening stamina",
+     "title_id": "Kecepatan membaca dan stamina mendengar",
+     "objective_id": "Mengubah pengetahuan menjadi performa ujian pada tingkat kesulitan N4: skimming teks sedang, mengeliminasi distractor, dan bertahan mendengar seksi penuh yang diputar sekali.",
+     "objective_en": "Turn knowledge into exam performance at N4 difficulty: skimming mid-length texts, eliminating distractors, and surviving a full single-play listening section.",
+     "lessons": [
+      {
+       "id": "N4-L41",
+       "code": "L41",
+       "title_en": "Fast reading: notices & emails",
+       "title_id": "Baca cepat: pengumuman & email",
+       "duration_min": 15,
+       "file": "n4/lesson-41.md",
+       "file_en": "n4/lesson-41.en.md"
+      },
+      {
+       "id": "N4-L42",
+       "code": "L42",
+       "title_en": "Fast reading: main idea",
+       "title_id": "Baca cepat: gagasan utama",
+       "duration_min": 15,
+       "file": "n4/lesson-42.md",
+       "file_en": "n4/lesson-42.en.md"
+      },
+      {
+       "id": "N4-L43",
+       "code": "L43",
+       "title_en": "Listening stamina (1)",
+       "title_id": "Stamina listening (1)",
+       "duration_min": 15,
+       "file": "n4/lesson-43.md",
+       "file_en": "n4/lesson-43.en.md"
+      },
+      {
+       "id": "N4-L44",
+       "code": "L44",
+       "title_en": "Listening stamina (2): distractors",
+       "title_id": "Stamina listening (2): distractor",
+       "duration_min": 15,
+       "file": "n4/lesson-44.md",
+       "file_en": "n4/lesson-44.en.md"
+      },
+      {
+       "id": "N4-L45",
+       "code": "L45",
+       "title_en": "Half-mock and review",
+       "title_id": "Half-mock dan review",
+       "duration_min": 20,
+       "file": "n4/lesson-45.md",
+       "file_en": "n4/lesson-45.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N4-n4-m10",
+     "code": "n4-m10",
+     "title_en": "Full mock exams and final review",
+     "title_id": "Simulasi ujian dan review akhir",
+     "objective_id": "Mengikuti mock N4 lengkap dalam mode Real, mereview kesalahan per kategori, dan menutup celah tersisa sebelum ujian sesungguhnya.",
+     "objective_en": "Take a complete N4 mock in Real mode, review mistakes by category, and close remaining gaps before the real exam.",
+     "lessons": [
+      {
+       "id": "N4-L46",
+       "code": "L46",
+       "title_en": "Full mock 1 (Study mode)",
+       "title_id": "Full mock 1 (mode Study)",
+       "duration_min": 20,
+       "file": "n4/lesson-46.md",
+       "file_en": "n4/lesson-46.en.md"
+      },
+      {
+       "id": "N4-L47",
+       "code": "L47",
+       "title_en": "Error clinic and repair",
+       "title_id": "Klinik kesalahan & perbaikan",
+       "duration_min": 15,
+       "file": "n4/lesson-47.md",
+       "file_en": "n4/lesson-47.en.md"
+      },
+      {
+       "id": "N4-L48",
+       "code": "L48",
+       "title_en": "Full mock 2 (Real mode)",
+       "title_id": "Full mock 2 (mode Real)",
+       "duration_min": 20,
+       "file": "n4/lesson-48.md",
+       "file_en": "n4/lesson-48.en.md"
+      },
+      {
+       "id": "N4-L49",
+       "code": "L49",
+       "title_en": "Full mock 3 (Real mode) + official anchor",
+       "title_id": "Full mock 3 (mode Real) + jangkar resmi",
+       "duration_min": 20,
+       "file": "n4/lesson-49.md",
+       "file_en": "n4/lesson-49.en.md"
+      },
+      {
+       "id": "N4-L50",
+       "code": "L50",
+       "title_en": "Readiness check & exam-day plan",
+       "title_id": "Readiness check & rencana hari-H",
+       "duration_min": 20,
+       "file": "n4/lesson-50.md",
+       "file_en": "n4/lesson-50.en.md"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "N3",
+   "modules": [
+    {
+     "id": "N3-n3-m1",
+     "code": "n3-m1",
+     "title_en": "N4 consolidation: foundations that must be automatic",
+     "title_id": "Konsolidasi N4: fondasi yang harus otomatis",
+     "objective_id": "Mengotomatiskan pola N4 yang paling rawan error (pasif penderitaan, kausatif-pasif, 〜ことにする/〜ことになる, 〜うちに) dan menguasai pola transisi N3: 〜させていただく, syarat keras (〜てからでないと/〜ないことには), dan penanda sebab-akibat (〜ものだから/〜ことだから, 〜おかげで/〜せいで).",
+     "objective_en": "Automate the most error-prone N4 patterns (suffering passive, causative-passive, 〜ことにする/〜ことになる, 〜うちに) and master N3 transition patterns: 〜させていただく, hard conditions (〜てからでないと/〜ないことには), and cause-effect markers (〜ものだから/〜ことだから, 〜おかげで/〜せいで).",
+     "lessons": [
+      {
+       "id": "N3-L01",
+       "code": "L01",
+       "title_en": "Automating N4: suffering passive and causative-passive",
+       "title_id": "Otomatiskan N4: pasif & kausatif-pasif",
+       "duration_min": 15,
+       "file": "n3/lesson-01.md",
+       "file_en": "n3/lesson-01.en.md"
+      },
+      {
+       "id": "N3-L02",
+       "code": "L02",
+       "title_en": "〜させていただく and 〜ことになる",
+       "title_id": "〜させていただく & 〜ことになる",
+       "duration_min": 15,
+       "file": "n3/lesson-02.md",
+       "file_en": "n3/lesson-02.en.md"
+      },
+      {
+       "id": "N3-L03",
+       "code": "L03",
+       "title_en": "Strict conditions: 〜てからでないと",
+       "title_id": "Syarat keras: 〜てからでないと",
+       "duration_min": 15,
+       "file": "n3/lesson-03.md",
+       "file_en": "n3/lesson-03.en.md"
+      },
+      {
+       "id": "N3-L04",
+       "code": "L04",
+       "title_en": "Subjective cause and effect",
+       "title_id": "Sebab-akibat subjektif",
+       "duration_min": 15,
+       "file": "n3/lesson-04.md",
+       "file_en": "n3/lesson-04.en.md"
+      },
+      {
+       "id": "N3-L05",
+       "code": "L05",
+       "title_en": "Thanks to vs. because of",
+       "title_id": "Berkat vs. gara-gara",
+       "duration_min": 15,
+       "file": "n3/lesson-05.md",
+       "file_en": "n3/lesson-05.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N3-n3-m2",
+     "code": "n3-m2",
+     "title_en": "Formal register: the world of である",
+     "title_id": "Register formal: dunia である",
+     "objective_id": "Memasuki bahasa tulis formal: membaca dan menulis である体, memakai konjungsi logis, dan menyatakan hubungan formal antar konsep (〜に対して, 〜に関して).",
+     "objective_en": "Enter formal written Japanese: read and write である style, use logical conjunctions, and express formal relations between concepts (〜に対して, 〜に関して).",
+     "lessons": [
+      {
+       "id": "N3-L06",
+       "code": "L06",
+       "title_en": "Reading である (1)",
+       "title_id": "Membaca である (1)",
+       "duration_min": 15,
+       "file": "n3/lesson-06.md",
+       "file_en": "n3/lesson-06.en.md"
+      },
+      {
+       "id": "N3-L07",
+       "code": "L07",
+       "title_en": "Logical conjunctions: したがって・つまり",
+       "title_id": "Konjungsi logis: したがって・つまり",
+       "duration_min": 15,
+       "file": "n3/lesson-07.md",
+       "file_en": "n3/lesson-07.en.md"
+      },
+      {
+       "id": "N3-L08",
+       "code": "L08",
+       "title_en": "ただし・なぜなら・すなわち",
+       "title_id": "ただし・なぜなら・すなわち",
+       "duration_min": 15,
+       "file": "n3/lesson-08.md",
+       "file_en": "n3/lesson-08.en.md"
+      },
+      {
+       "id": "N3-L09",
+       "code": "L09",
+       "title_en": "〜に対して and 〜に関して",
+       "title_id": "〜に対して & 〜に関して",
+       "duration_min": 15,
+       "file": "n3/lesson-09.md",
+       "file_en": "n3/lesson-09.en.md"
+      },
+      {
+       "id": "N3-L10",
+       "code": "L10",
+       "title_en": "Writing a formal paragraph",
+       "title_id": "Menulis paragraf formal",
+       "duration_min": 15,
+       "file": "n3/lesson-10.md",
+       "file_en": "n3/lesson-10.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N3-n3-m3",
+     "code": "n3-m3",
+     "title_en": "Resolve, effort, and compulsion",
+     "title_id": "Tekad, usaha, dan keterpaksaan",
+     "objective_id": "Mengungkapkan tekad dan usaha (volitional + とする, 〜ようとする, 〜まい), kemungkinan bersyarat (〜ものなら), dan keterpaksaan/ketidaktertahanan (〜ざるを得ない, 〜ないではいられない, 〜てはいられない, 〜てたまらない/〜てしかたがない, 〜得る, 〜かねる).",
+     "objective_en": "Express resolve and effort (volitional + とする, 〜ようとする, 〜まい), conditional possibility (〜ものなら), and compulsion/irresistibility (〜ざるを得ない, 〜ないではいられない, 〜てはいられない, 〜てたまらない/〜てしかたがない, 〜得る, 〜かねる).",
+     "lessons": [
+      {
+       "id": "N3-L11",
+       "code": "L11",
+       "title_en": "Trying hard: 〜ようとする",
+       "title_id": "Berusaha: 〜ようとする",
+       "duration_min": 15,
+       "file": "n3/lesson-11.md",
+       "file_en": "n3/lesson-11.en.md"
+      },
+      {
+       "id": "N3-L12",
+       "code": "L12",
+       "title_en": "Negative resolve: 〜まい",
+       "title_id": "Tekad negatif: 〜まい",
+       "duration_min": 15,
+       "file": "n3/lesson-12.md",
+       "file_en": "n3/lesson-12.en.md"
+      },
+      {
+       "id": "N3-L13",
+       "code": "L13",
+       "title_en": "Having no choice: 〜ざるを得ない",
+       "title_id": "Terpaksa: 〜ざるを得ない",
+       "duration_min": 15,
+       "file": "n3/lesson-13.md",
+       "file_en": "n3/lesson-13.en.md"
+      },
+      {
+       "id": "N3-L14",
+       "code": "L14",
+       "title_en": "Irresistible",
+       "title_id": "Tak tertahankan",
+       "duration_min": 15,
+       "file": "n3/lesson-14.md",
+       "file_en": "n3/lesson-14.en.md"
+      },
+      {
+       "id": "N3-L15",
+       "code": "L15",
+       "title_en": "Extremes and possibility: 〜てたまらない, 〜得る",
+       "title_id": "Sangat & mungkin: 〜てたまらない, 〜得る",
+       "duration_min": 15,
+       "file": "n3/lesson-15.md",
+       "file_en": "n3/lesson-15.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N3-n3-m4",
+     "code": "n3-m4",
+     "title_en": "Formal conditions and concessions",
+     "title_id": "Syarat dan konsesi formal",
+     "objective_id": "Menguasai kondisional formal dan konsesi: 〜としたら/〜とすれば, keluarga 〜にしても/〜にせよ/〜といっても/〜とはいえ, serta penanda tekad bersyarat (〜からには, 〜以上は, 〜上は, 〜次第).",
+     "objective_en": "Master formal conditionals and concession: 〜としたら/〜とすれば, the 〜にしても/〜にせよ/〜といっても/〜とはいえ family, and conditional-resolve markers (〜からには, 〜以上は, 〜上は, 〜次第).",
+     "lessons": [
+      {
+       "id": "N3-L16",
+       "code": "L16",
+       "title_en": "Supposing: 〜としたら/〜とすれば",
+       "title_id": "Andaikan: 〜としたら/〜とすれば",
+       "duration_min": 15,
+       "file": "n3/lesson-16.md",
+       "file_en": "n3/lesson-16.en.md"
+      },
+      {
+       "id": "N3-L17",
+       "code": "L17",
+       "title_en": "Concession 1: 〜にしても/〜にせよ",
+       "title_id": "Konsesi 1: 〜にしても/〜にせよ",
+       "duration_min": 15,
+       "file": "n3/lesson-17.md",
+       "file_en": "n3/lesson-17.en.md"
+      },
+      {
+       "id": "N3-L18",
+       "code": "L18",
+       "title_en": "Concession 2: 〜とはいえ/〜ものの",
+       "title_id": "Konsesi 2: 〜とはいえ/〜ものの",
+       "duration_min": 15,
+       "file": "n3/lesson-18.md",
+       "file_en": "n3/lesson-18.en.md"
+      },
+      {
+       "id": "N3-L19",
+       "code": "L19",
+       "title_en": "Since it is so: 〜からには/〜以上は",
+       "title_id": "Karena sudah: 〜からには/〜以上は",
+       "duration_min": 15,
+       "file": "n3/lesson-19.md",
+       "file_en": "n3/lesson-19.en.md"
+      },
+      {
+       "id": "N3-L20",
+       "code": "L20",
+       "title_en": "Depending on: 〜次第",
+       "title_id": "Tergantung: 〜次第",
+       "duration_min": 15,
+       "file": "n3/lesson-20.md",
+       "file_en": "n3/lesson-20.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N3-n3-m5",
+     "code": "n3-m5",
+     "title_en": "How to say it: impressions, degree, and sounds",
+     "title_id": "Cara berkata: kesan, derajat, dan bunyi",
+     "objective_id": "Mengungkapkan kesan dan derajat dengan presisi: akhiran 〜っぽい/〜がち/〜気味/〜げ, 〜ぶる/〜めく, 〜だらけ/〜まみれ/〜ずくめ, penanda kesimpulan 〜わけだ/〜わけではない/〜わけがない, 〜ものだ/〜ことだ, serta onomatope (giongo/gitaigo) dalam narasi.",
+     "objective_en": "Express impression and degree precisely: suffixes 〜っぽい/〜がち/〜気味/〜げ, 〜ぶる/〜めく, 〜だらけ/〜まみれ/〜ずくめ, conclusion markers 〜わけだ/〜わけではない/〜わけがない, 〜ものだ/〜ことだ, and onomatopoeia (giongo/gitaigo) in narration.",
+     "lessons": [
+      {
+       "id": "N3-L21",
+       "code": "L21",
+       "title_en": "Impressions 1: 〜っぽい/〜がち/〜気味",
+       "title_id": "Kesan 1: 〜っぽい/〜がち/〜気味",
+       "duration_min": 15,
+       "file": "n3/lesson-21.md",
+       "file_en": "n3/lesson-21.en.md"
+      },
+      {
+       "id": "N3-L22",
+       "code": "L22",
+       "title_en": "Pretending and signs: 〜ぶる/〜めく",
+       "title_id": "Berlagak & tanda: 〜ぶる/〜めく",
+       "duration_min": 15,
+       "file": "n3/lesson-22.md",
+       "file_en": "n3/lesson-22.en.md"
+      },
+      {
+       "id": "N3-L23",
+       "code": "L23",
+       "title_en": "Full of and covered in: 〜だらけ/〜まみれ",
+       "title_id": "Penuh & berlumuran: 〜だらけ/〜まみれ",
+       "duration_min": 15,
+       "file": "n3/lesson-23.md",
+       "file_en": "n3/lesson-23.en.md"
+      },
+      {
+       "id": "N3-L24",
+       "code": "L24",
+       "title_en": "Conclusions: 〜わけだ and friends",
+       "title_id": "Kesimpulan: 〜わけだ & co.",
+       "duration_min": 15,
+       "file": "n3/lesson-24.md",
+       "file_en": "n3/lesson-24.en.md"
+      },
+      {
+       "id": "N3-L25",
+       "code": "L25",
+       "title_en": "Sound words: giongo and gitaigo",
+       "title_id": "Bunyi bahasa: giongo & gitaigo",
+       "duration_min": 15,
+       "file": "n3/lesson-25.md",
+       "file_en": "n3/lesson-25.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N3-n3-m6",
+     "code": "n3-m6",
+     "title_en": "Time, opportunity, and business keigo (special module)",
+     "title_id": "Waktu, kesempatan, dan keigo bisnis (modul khusus)",
+     "objective_id": "Menguasai ungkapan waktu yang presisi (〜以来, 〜最中に, 〜ついでに, 〜がてら/〜かたわら, 〜や否や/〜が早いか/〜なり, 〜向け/〜向き) dan keigo bisnis lanjutan untuk email, dokumen, dan situasi kerja formal.",
+     "objective_en": "Master precise time expressions (〜以来, 〜最中に, 〜ついでに, 〜がてら/〜かたわら, 〜や否や/〜が早いか/〜なり, 〜向け/〜向き) and advanced business keigo for emails, documents, and formal work situations.",
+     "lessons": [
+      {
+       "id": "N3-L26",
+       "code": "L26",
+       "title_en": "Since, and right in the middle",
+       "title_id": "Sejak & tepat di tengah",
+       "duration_min": 15,
+       "file": "n3/lesson-26.md",
+       "file_en": "n3/lesson-26.en.md"
+      },
+      {
+       "id": "N3-L27",
+       "code": "L27",
+       "title_en": "While, and no sooner: 〜がてら/〜や否や",
+       "title_id": "Sambil & begitu: 〜がてら/〜や否や",
+       "duration_min": 15,
+       "file": "n3/lesson-27.md",
+       "file_en": "n3/lesson-27.en.md"
+      },
+      {
+       "id": "N3-L28",
+       "code": "L28",
+       "title_en": "Made for whom: 〜向け/〜向き",
+       "title_id": "Untuk siapa: 〜向け/〜向き",
+       "duration_min": 15,
+       "file": "n3/lesson-28.md",
+       "file_en": "n3/lesson-28.en.md"
+      },
+      {
+       "id": "N3-L29",
+       "code": "L29",
+       "title_en": "Business email formulas 1",
+       "title_id": "Formula email bisnis 1",
+       "duration_min": 15,
+       "file": "n3/lesson-29.md",
+       "file_en": "n3/lesson-29.en.md"
+      },
+      {
+       "id": "N3-L30",
+       "code": "L30",
+       "title_en": "Business email formulas 2",
+       "title_id": "Formula email bisnis 2",
+       "duration_min": 15,
+       "file": "n3/lesson-30.md",
+       "file_en": "n3/lesson-30.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N3-n3-m7",
+     "code": "n3-m7",
+     "title_en": "Dokkai I: from short to medium",
+     "title_id": "Dokkai I: dari pendek ke sedang",
+     "objective_id": "Membaca 短文 dan 中文 dengan strategi: perubahan bertahap (〜につれて/〜にしたがって/〜とともに), kontras (〜一方だ/〜一方で), aspek berlangsung (〜つつある), dan verba majemuk (〜きる/〜ぬく/〜通す/〜かける).",
+     "objective_en": "Read 短文 and 中文 with strategy: gradual change (〜につれて/〜にしたがって/〜とともに), contrast (〜一方だ/〜一方で), ongoing aspect (〜つつある), and compound verbs (〜きる/〜ぬく/〜通す/〜かける).",
+     "lessons": [
+      {
+       "id": "N3-L31",
+       "code": "L31",
+       "title_en": "Short texts: purpose and main idea",
+       "title_id": "短文: tujuan & gagasan utama",
+       "duration_min": 15,
+       "file": "n3/lesson-31.md",
+       "file_en": "n3/lesson-31.en.md"
+      },
+      {
+       "id": "N3-L32",
+       "code": "L32",
+       "title_en": "Medium texts: change and contrast",
+       "title_id": "中文: perubahan & kontras",
+       "duration_min": 15,
+       "file": "n3/lesson-32.md",
+       "file_en": "n3/lesson-32.en.md"
+      },
+      {
+       "id": "N3-L33",
+       "code": "L33",
+       "title_en": "Aspect: 〜つつある and 〜っぱなし",
+       "title_id": "Aspek: 〜つつある & 〜っぱなし",
+       "duration_min": 15,
+       "file": "n3/lesson-33.md",
+       "file_en": "n3/lesson-33.en.md"
+      },
+      {
+       "id": "N3-L34",
+       "code": "L34",
+       "title_en": "Compound verbs 1: 〜きる/〜ぬく",
+       "title_id": "Verba majemuk 1: 〜きる/〜ぬく",
+       "duration_min": 15,
+       "file": "n3/lesson-34.md",
+       "file_en": "n3/lesson-34.en.md"
+      },
+      {
+       "id": "N3-L35",
+       "code": "L35",
+       "title_en": "Compound verbs 2: 〜通す/〜かける",
+       "title_id": "Verba majemuk 2: 〜通す/〜かける",
+       "duration_min": 15,
+       "file": "n3/lesson-35.md",
+       "file_en": "n3/lesson-35.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N3-n3-m8",
+     "code": "n3-m8",
+     "title_en": "Dokkai II and Choukai: long and fast",
+     "title_id": "Dokkai II & Choukai: panjang dan cepat",
+     "objective_id": "Menaklukkan 長文, 情報検索, dan teks opini, plus listening berkecepatan alami penuh: cakupan (〜をめぐって/〜にわたって/〜を通じて/〜に伴って), formalitas dokumen (〜を機に/〜を皮切りに/〜にかけては/〜に際して/〜を限りに/〜をもって), dan gaya perumpamaan (〜んばかりに/〜とばかりに/〜かのようだ).",
+     "objective_en": "Conquer 長文, 情報検索, and opinion texts, plus full-speed listening: coverage (〜をめぐって/〜にわたって/〜を通じて/〜に伴って), document formality (〜を機に/〜を皮切りに/〜にかけては/〜に際して/〜を限りに/〜をもって), and simile style (〜んばかりに/〜とばかりに/〜かのようだ).",
+     "lessons": [
+      {
+       "id": "N3-L36",
+       "code": "L36",
+       "title_en": "Long texts 1: argument structure",
+       "title_id": "長文 1: struktur argumen",
+       "duration_min": 15,
+       "file": "n3/lesson-36.md",
+       "file_en": "n3/lesson-36.en.md"
+      },
+      {
+       "id": "N3-L37",
+       "code": "L37",
+       "title_en": "Long texts 2: through and along with",
+       "title_id": "長文 2: melalui & seiring",
+       "duration_min": 15,
+       "file": "n3/lesson-37.md",
+       "file_en": "n3/lesson-37.en.md"
+      },
+      {
+       "id": "N3-L38",
+       "code": "L38",
+       "title_en": "Formal documents",
+       "title_id": "Dokumen formal",
+       "duration_min": 15,
+       "file": "n3/lesson-38.md",
+       "file_en": "n3/lesson-38.en.md"
+      },
+      {
+       "id": "N3-L39",
+       "code": "L39",
+       "title_en": "As if: 〜んばかりに/〜かのようだ",
+       "title_id": "Seakan-akan: 〜んばかりに/〜かのようだ",
+       "duration_min": 15,
+       "file": "n3/lesson-39.md",
+       "file_en": "n3/lesson-39.en.md"
+      },
+      {
+       "id": "N3-L40",
+       "code": "L40",
+       "title_en": "Information retrieval: find it fast",
+       "title_id": "情報検索: temukan cepat",
+       "duration_min": 15,
+       "file": "n3/lesson-40.md",
+       "file_en": "n3/lesson-40.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N3-n3-m9",
+     "code": "n3-m9",
+     "title_en": "Reading speed and listening stamina",
+     "title_id": "Kecepatan baca dan stamina dengar",
+     "objective_id": "Mengubah pengetahuan menjadi performa ujian pada tingkat kesulitan N3: skimming teks panjang, mengeliminasi distractor bernuansa, dan bertahan mendengar seksi penuh berkecepatan alami yang diputar sekali.",
+     "objective_en": "Turn knowledge into exam performance at N3 difficulty: skimming long texts, eliminating nuanced distractors, and surviving a full-speed single-play listening section.",
+     "lessons": [
+      {
+       "id": "N3-L41",
+       "code": "L41",
+       "title_en": "Speed reading: articles and opinions",
+       "title_id": "Baca cepat: artikel & opini",
+       "duration_min": 15,
+       "file": "n3/lesson-41.md",
+       "file_en": "n3/lesson-41.en.md"
+      },
+      {
+       "id": "N3-L42",
+       "code": "L42",
+       "title_en": "Speed reading: ideas vs. facts",
+       "title_id": "Baca cepat: gagasan vs. fakta",
+       "duration_min": 15,
+       "file": "n3/lesson-42.md",
+       "file_en": "n3/lesson-42.en.md"
+      },
+      {
+       "id": "N3-L43",
+       "code": "L43",
+       "title_en": "Listening stamina (1)",
+       "title_id": "Stamina listening (1)",
+       "duration_min": 15,
+       "file": "n3/lesson-43.md",
+       "file_en": "n3/lesson-43.en.md"
+      },
+      {
+       "id": "N3-L44",
+       "code": "L44",
+       "title_en": "Listening stamina (2): nuance distractors",
+       "title_id": "Stamina listening (2): distractor nuansa",
+       "duration_min": 15,
+       "file": "n3/lesson-44.md",
+       "file_en": "n3/lesson-44.en.md"
+      },
+      {
+       "id": "N3-L45",
+       "code": "L45",
+       "title_en": "Half-mock and review",
+       "title_id": "Half-mock dan review",
+       "duration_min": 20,
+       "file": "n3/lesson-45.md",
+       "file_en": "n3/lesson-45.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N3-n3-m10",
+     "code": "n3-m10",
+     "title_en": "Full mock exam and final review",
+     "title_id": "Full mock exam dan review final",
+     "objective_id": "Mengikuti mock N3 lengkap dalam mode Real, mereview kesalahan per kategori dan per strand, dan menutup celah tersisa sebelum ujian sesungguhnya.",
+     "objective_en": "Take a complete N3 mock in Real mode, review mistakes by category and strand, and close remaining gaps before the real exam.",
+     "lessons": [
+      {
+       "id": "N3-L46",
+       "code": "L46",
+       "title_en": "Full mock 1 (Study mode)",
+       "title_id": "Full mock 1 (mode Study)",
+       "duration_min": 20,
+       "file": "n3/lesson-46.md",
+       "file_en": "n3/lesson-46.en.md"
+      },
+      {
+       "id": "N3-L47",
+       "code": "L47",
+       "title_en": "Error clinic and repair",
+       "title_id": "Klinik kesalahan & perbaikan",
+       "duration_min": 20,
+       "file": "n3/lesson-47.md",
+       "file_en": "n3/lesson-47.en.md"
+      },
+      {
+       "id": "N3-L48",
+       "code": "L48",
+       "title_en": "Full mock 2 (Real mode)",
+       "title_id": "Full mock 2 (Real mode)",
+       "duration_min": 20,
+       "file": "n3/lesson-48.md",
+       "file_en": "n3/lesson-48.en.md"
+      },
+      {
+       "id": "N3-L49",
+       "code": "L49",
+       "title_en": "Full mock 3 (Real mode) + official anchor",
+       "title_id": "Full mock 3 (mode Real) + jangkar resmi",
+       "duration_min": 20,
+       "file": "n3/lesson-49.md",
+       "file_en": "n3/lesson-49.en.md"
+      },
+      {
+       "id": "N3-L50",
+       "code": "L50",
+       "title_en": "Readiness check and test-day plan",
+       "title_id": "Readiness check & rencana hari-H",
+       "duration_min": 20,
+       "file": "n3/lesson-50.md",
+       "file_en": "n3/lesson-50.en.md"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "N2",
+   "modules": [
+    {
+     "id": "N2-n2-m1",
+     "code": "n2-m1",
+     "title_en": "Limits, essence & full である体",
+     "title_id": "Batasan, hakikat, dan である体 penuh",
+     "objective_id": "Mengonsolidasikan pola N3 yang menjadi fondasi (〜ざるを得ない, 〜わけだ, 〜ものだ) dan menguasai ungkapan batasan/hakikat khas N2 (〜にほかならない, 〜にすぎない, 〜に足る/〜に堪える, 〜甲斐がある), sambil memaksa produksi である体 dalam setiap tulisan.",
+     "objective_en": "Consolidate foundational N3 patterns (〜ざるを得ない, 〜わけだ, 〜ものだ) and master N2 limitation/essence expressions (〜にほかならない, 〜にすぎない, 〜に足る/〜に堪える, 〜甲斐がある), while forcing である-style production in every piece of writing.",
+     "lessons": [
+      {
+       "id": "N2-L01",
+       "code": "L01",
+       "title_en": "Not merely: 〜にほかならない and 〜にすぎない",
+       "title_id": "Bukan sekadar: 〜にほかならない/〜にすぎない",
+       "duration_min": 15,
+       "file": "n2/lesson-01.md",
+       "file_en": "n2/lesson-01.en.md"
+      },
+      {
+       "id": "N2-L02",
+       "code": "L02",
+       "title_en": "Worthy or not: 〜に足る and 〜に足りない",
+       "title_id": "Layak atau tidak: 〜に足る/〜に足りない",
+       "duration_min": 15,
+       "file": "n2/lesson-02.md",
+       "file_en": "n2/lesson-02.en.md"
+      },
+      {
+       "id": "N2-L03",
+       "code": "L03",
+       "title_en": "Standing the test: 〜に堪える and 〜に堪えない",
+       "title_id": "Tahan uji: 〜に堪える/〜に堪えない",
+       "duration_min": 15,
+       "file": "n2/lesson-03.md",
+       "file_en": "n2/lesson-03.en.md"
+      },
+      {
+       "id": "N2-L04",
+       "code": "L04",
+       "title_en": "Worth the effort: 〜甲斐がある and 〜甲斐がない",
+       "title_id": "Ada gunanya: 〜甲斐がある/〜甲斐がない",
+       "duration_min": 15,
+       "file": "n2/lesson-04.md",
+       "file_en": "n2/lesson-04.en.md"
+      },
+      {
+       "id": "N2-L05",
+       "code": "L05",
+       "title_en": "Certain, no doubt: 〜に決まっている and 〜に違いない",
+       "title_id": "Pasti, tanpa ragu: 〜に決まっている/〜に違いない",
+       "duration_min": 15,
+       "file": "n2/lesson-05.md",
+       "file_en": "n2/lesson-05.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N2-n2-m2",
+     "code": "n2-m2",
+     "title_en": "Expectation, possibility & judgment",
+     "title_id": "Dugaan, kemungkinan, dan penilaian",
+     "objective_id": "Menguasai dugaan tingkat N2 (〜おそれがある, 〜かねない, 〜に相違ない, 〜ほかない) dan penolakan retoris (〜ものか), serta mengonsolidasikan keluarga 〜っぽい/〜がち/〜気味 dari N3 pada kedalaman teks tulis.",
+     "objective_en": "Master N2-level conjecture (〜おそれがある, 〜かねない, 〜に相違ない, 〜ほかない) and rhetorical denial (〜ものか), and consolidate the 〜っぽい/〜がち/〜気味 family from N3 at written-text depth.",
+     "lessons": [
+      {
+       "id": "N2-L06",
+       "code": "L06",
+       "title_en": "Feared to happen: 〜おそれがある",
+       "title_id": "Dikhawatirkan terjadi: 〜おそれがある",
+       "duration_min": 15,
+       "file": "n2/lesson-06.md",
+       "file_en": "n2/lesson-06.en.md"
+      },
+      {
+       "id": "N2-L07",
+       "code": "L07",
+       "title_en": "It could happen: 〜かねない",
+       "title_id": "Bisa saja terjadi: 〜かねない",
+       "duration_min": 15,
+       "file": "n2/lesson-07.md",
+       "file_en": "n2/lesson-07.en.md"
+      },
+      {
+       "id": "N2-L08",
+       "code": "L08",
+       "title_en": "As if!: 〜ものか and 〜もんか",
+       "title_id": "Mana mungkin: 〜ものか/〜もんか",
+       "duration_min": 15,
+       "file": "n2/lesson-08.md",
+       "file_en": "n2/lesson-08.en.md"
+      },
+      {
+       "id": "N2-L09",
+       "code": "L09",
+       "title_en": "Beyond doubt: 〜に相違ない",
+       "title_id": "Tak diragukan: 〜に相違ない",
+       "duration_min": 15,
+       "file": "n2/lesson-09.md",
+       "file_en": "n2/lesson-09.en.md"
+      },
+      {
+       "id": "N2-L10",
+       "code": "L10",
+       "title_en": "No other way: 〜ほかない and 〜よりほかない",
+       "title_id": "Tak ada jalan lain: 〜ほかない/〜よりほかない",
+       "duration_min": 15,
+       "file": "n2/lesson-10.md",
+       "file_en": "n2/lesson-10.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N2-n2-m3",
+     "code": "n2-m3",
+     "title_en": "Formal conditions, concession & viewpoint",
+     "title_id": "Syarat, konsesi, dan sudut pandang formal",
+     "objective_id": "Menguasai konsesi dan syarat tingkat formal (〜にしろ/〜にせよ/〜であれ, 〜いかんにかかわらず/〜を問わず, 〜からして/〜からすると) — perangkat utama argumen N2 — beserta review kondisional N3.",
+     "objective_en": "Master formal concession and conditions (〜にしろ/〜にせよ/〜であれ, 〜いかんにかかわらず/〜を問わず, 〜からして/〜からすると) — the core toolkit of N2 argumentation — with an N3 conditional review.",
+     "lessons": [
+      {
+       "id": "N2-L11",
+       "code": "L11",
+       "title_en": "Concession: 〜にしろ・〜にせよ・〜であれ",
+       "title_id": "Sekalipun: 〜にしろ/〜にせよ/〜であれ",
+       "duration_min": 15,
+       "file": "n2/lesson-11.md",
+       "file_en": "n2/lesson-11.en.md"
+      },
+      {
+       "id": "N2-L12",
+       "code": "L12",
+       "title_en": "Depending on: 〜いかん",
+       "title_id": "Tergantung: 〜いかん",
+       "duration_min": 15,
+       "file": "n2/lesson-12.md",
+       "file_en": "n2/lesson-12.en.md"
+      },
+      {
+       "id": "N2-L13",
+       "code": "L13",
+       "title_en": "Regardless of: 〜を問わず・〜にかかわらず・〜によらず",
+       "title_id": "Tanpa memandang: 〜を問わず/〜にかかわらず",
+       "duration_min": 15,
+       "file": "n2/lesson-13.md",
+       "file_en": "n2/lesson-13.en.md"
+      },
+      {
+       "id": "N2-L14",
+       "code": "L14",
+       "title_en": "Judging from: 〜からして・〜からすると",
+       "title_id": "Dilihat dari: 〜からして/〜からすると",
+       "duration_min": 15,
+       "file": "n2/lesson-14.md",
+       "file_en": "n2/lesson-14.en.md"
+      },
+      {
+       "id": "N2-L15",
+       "code": "L15",
+       "title_en": "Formal concession: 〜といえども",
+       "title_id": "Konsesi formal: review + 〜といえども",
+       "duration_min": 15,
+       "file": "n2/lesson-15.md",
+       "file_en": "n2/lesson-15.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N2-n2-m4",
+     "code": "n2-m4",
+     "title_en": "Irresistible emotion & emphasis",
+     "title_id": "Emosi tak tertahankan dan penekanan",
+     "objective_id": "Menguasai ungkapan emosi yang tak dapat ditahan (〜を禁じ得ない, 〜てやまない, 〜ずにはおかない) dan penekanan seakan-akan (〜んばかり/〜とばかり) — pola yang paling sering menjadi distractor N2.",
+     "objective_en": "Master irrepressible emotion (〜を禁じ得ない, 〜てやまない, 〜ずにはおかない) and as-if emphasis (〜んばかり/〜とばかり) — the patterns most often used as N2 distractors.",
+     "lessons": [
+      {
+       "id": "N2-L16",
+       "code": "L16",
+       "title_en": "Irresistible feelings: 〜をきんじえない",
+       "title_id": "Tak tertahankan: 〜を禁じ得ない",
+       "duration_min": 15,
+       "file": "n2/lesson-16.md",
+       "file_en": "n2/lesson-16.en.md"
+      },
+      {
+       "id": "N2-L17",
+       "code": "L17",
+       "title_en": "Unceasing feelings: 〜てやまない",
+       "title_id": "Terus menghantui: 〜てやまない",
+       "duration_min": 15,
+       "file": "n2/lesson-17.md",
+       "file_en": "n2/lesson-17.en.md"
+      },
+      {
+       "id": "N2-L18",
+       "code": "L18",
+       "title_en": "Bound to happen: 〜ずにはおかない",
+       "title_id": "Pasti akan: 〜ずにはおかない",
+       "duration_min": 15,
+       "file": "n2/lesson-18.md",
+       "file_en": "n2/lesson-18.en.md"
+      },
+      {
+       "id": "N2-L19",
+       "code": "L19",
+       "title_en": "As if 1: 〜んばかり",
+       "title_id": "Seakan-akan 1: 〜んばかり",
+       "duration_min": 15,
+       "file": "n2/lesson-19.md",
+       "file_en": "n2/lesson-19.en.md"
+      },
+      {
+       "id": "N2-L20",
+       "code": "L20",
+       "title_en": "As if saying: 〜とばかり",
+       "title_id": "Seakan-akan 2: 〜とばかり",
+       "duration_min": 15,
+       "file": "n2/lesson-20.md",
+       "file_en": "n2/lesson-20.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N2-n2-m5",
+     "code": "n2-m5",
+     "title_en": "Manner, state & impression",
+     "title_id": "Cara, keadaan, dan kesan",
+     "objective_id": "Menguasai ungkapan cara/keadaan (〜なり〜なり, 〜かたわら, 〜そばから, 〜つつある) dan kesan/penampilan (〜ざま, 〜ぶり, 〜じみる, 〜ともなく) — kosakata grammar yang membedakan N2 dari N3.",
+     "objective_en": "Master manner/state expressions (〜なり〜なり, 〜かたわら, 〜そばから, 〜つつある) and appearance/impression (〜ざま, 〜ぶり, 〜じみる, 〜ともなく) — the grammar vocabulary that separates N2 from N3.",
+     "lessons": [
+      {
+       "id": "N2-L21",
+       "code": "L21",
+       "title_en": "Either…or: 〜なり〜なり",
+       "title_id": "Entah-entah: 〜なり〜なり",
+       "duration_min": 15,
+       "file": "n2/lesson-21.md",
+       "file_en": "n2/lesson-21.en.md"
+      },
+      {
+       "id": "N2-L22",
+       "code": "L22",
+       "title_en": "On the side: 〜かたわら",
+       "title_id": "Di samping itu: 〜かたわら",
+       "duration_min": 15,
+       "file": "n2/lesson-22.md",
+       "file_en": "n2/lesson-22.en.md"
+      },
+      {
+       "id": "N2-L23",
+       "code": "L23",
+       "title_en": "No sooner…than: 〜そばから",
+       "title_id": "Begitu… langsung: 〜そばから",
+       "duration_min": 15,
+       "file": "n2/lesson-23.md",
+       "file_en": "n2/lesson-23.en.md"
+      },
+      {
+       "id": "N2-L24",
+       "code": "L24",
+       "title_en": "In progress: 〜つつある",
+       "title_id": "Sedang berlangsung: 〜つつある",
+       "duration_min": 15,
+       "file": "n2/lesson-24.md",
+       "file_en": "n2/lesson-24.en.md"
+      },
+      {
+       "id": "N2-L25",
+       "code": "L25",
+       "title_en": "Looks and impressions: 〜ざま・〜ぶり・〜じみる",
+       "title_id": "Penampilan & kesan: 〜ざま/〜ぶり/〜じみる",
+       "duration_min": 15,
+       "file": "n2/lesson-25.md",
+       "file_en": "n2/lesson-25.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N2-n2-m6",
+     "code": "n2-m6",
+     "title_en": "Formal business keigo: documents & email",
+     "title_id": "Keigo bisnis formal: dokumen dan email",
+     "objective_id": "Menguasai keigo tulis formal: 謙譲語II (ご〜いただく, お〜申し上げる, 拝〜), formula dokumen (謹啓・敬具・記・以上), dan email bisnis lengkap — sebagai skill hidup sekaligus materi ujian.",
+     "objective_en": "Master formal written keigo: 謙譲語II (ご〜いただく, お〜申し上げる, 拝〜), document formulas (謹啓・敬具・記・以上), and complete business emails — as a life skill and exam material.",
+     "lessons": [
+      {
+       "id": "N2-L26",
+       "code": "L26",
+       "title_en": "Receiving humbly: ご〜いただく",
+       "title_id": "Menerima dengan hormat: ご〜いただく",
+       "duration_min": 15,
+       "file": "n2/lesson-26.md",
+       "file_en": "n2/lesson-26.en.md"
+      },
+      {
+       "id": "N2-L27",
+       "code": "L27",
+       "title_en": "Formal humility: お〜申し上げる・拝〜",
+       "title_id": "Merendah formal: お〜申し上げる/拝〜",
+       "duration_min": 15,
+       "file": "n2/lesson-27.md",
+       "file_en": "n2/lesson-27.en.md"
+      },
+      {
+       "id": "N2-L28",
+       "code": "L28",
+       "title_en": "Business email 1: structure and 謹啓/敬具",
+       "title_id": "Email bisnis 1: struktur & 謹啓/敬具",
+       "duration_min": 15,
+       "file": "n2/lesson-28.md",
+       "file_en": "n2/lesson-28.en.md"
+      },
+      {
+       "id": "N2-L29",
+       "code": "L29",
+       "title_en": "Business email 2: 記/以上 and 丁重語",
+       "title_id": "Email bisnis 2: 記/以上 & 丁重語",
+       "duration_min": 15,
+       "file": "n2/lesson-29.md",
+       "file_en": "n2/lesson-29.en.md"
+      },
+      {
+       "id": "N2-L30",
+       "code": "L30",
+       "title_en": "Formal phone calls and meetings: role-play",
+       "title_id": "Telepon & rapat formal: role-play",
+       "duration_min": 15,
+       "file": "n2/lesson-30.md",
+       "file_en": "n2/lesson-30.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N2-n2-m7",
+     "code": "n2-m7",
+     "title_en": "Newspaper Japanese 1: headlines & reports",
+     "title_id": "Bahasa koran 1: headline dan kabar",
+     "objective_id": "Membaca bahasa koran: pasif headline, ungkapan kabar (〜模様だ, 〜とのことだ, 〜ものとみられる), dan penanda pihak/sumber — fondasi untuk 長文 dan 情報検索.",
+     "objective_en": "Read newspaper Japanese: headline passives, news expressions (〜模様だ, 〜とのことだ, 〜ものとみられる), and party/source markers — the foundation for 長文 and 情報検索.",
+     "lessons": [
+      {
+       "id": "N2-L31",
+       "code": "L31",
+       "title_en": "Newspaper passive headlines",
+       "title_id": "Headline pasif: 受身 koran",
+       "duration_min": 15,
+       "file": "n2/lesson-31.md",
+       "file_en": "n2/lesson-31.en.md"
+      },
+      {
+       "id": "N2-L32",
+       "code": "L32",
+       "title_en": "Hearsay: 〜模様だ and 〜とのことだ",
+       "title_id": "Kabarnya: 〜模様だ/〜とのことだ",
+       "duration_min": 15,
+       "file": "n2/lesson-32.md",
+       "file_en": "n2/lesson-32.en.md"
+      },
+      {
+       "id": "N2-L33",
+       "code": "L33",
+       "title_en": "Considered and designated: 〜ものとみられる",
+       "title_id": "Dianggap & ditetapkan: 〜ものとみられる",
+       "duration_min": 15,
+       "file": "n2/lesson-33.md",
+       "file_en": "n2/lesson-33.en.md"
+      },
+      {
+       "id": "N2-L34",
+       "code": "L34",
+       "title_en": "Citing parties and sources in the news",
+       "title_id": "Pihak & sumber: 〜方/によると",
+       "duration_min": 15,
+       "file": "n2/lesson-34.md",
+       "file_en": "n2/lesson-34.en.md"
+      },
+      {
+       "id": "N2-L35",
+       "code": "L35",
+       "title_en": "Reading the newspaper: full 800-character article",
+       "title_id": "Baca koran: artikel penuh 800 aksara",
+       "duration_min": 20,
+       "file": "n2/lesson-35.md",
+       "file_en": "n2/lesson-35.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N2-n2-m8",
+     "code": "n2-m8",
+     "title_en": "Formal logic & conjunctions",
+     "title_id": "Logika formal dan konjungsi",
+     "objective_id": "Menguasai konjungsi dan penanda logika formal (よって, ついては, 〜にして, 〜上での) — perangkat kohesi teks N2 — dan membaca esai argumentatif penuh.",
+     "objective_en": "Master formal conjunctions and logic markers (よって, ついては, 〜にして, 〜上での) — the cohesion toolkit of N2 texts — and read full argumentative essays.",
+     "lessons": [
+      {
+       "id": "N2-L36",
+       "code": "L36",
+       "title_en": "Therefore: よって and したがって",
+       "title_id": "Oleh karena itu: よって/したがって",
+       "duration_min": 15,
+       "file": "n2/lesson-36.md",
+       "file_en": "n2/lesson-36.en.md"
+      },
+      {
+       "id": "N2-L37",
+       "code": "L37",
+       "title_en": "Regarding: ついては",
+       "title_id": "Mengenai: ついては",
+       "duration_min": 15,
+       "file": "n2/lesson-37.md",
+       "file_en": "n2/lesson-37.en.md"
+      },
+      {
+       "id": "N2-L38",
+       "code": "L38",
+       "title_en": "At once and even: 〜にして",
+       "title_id": "Sekaligus & bahkan: 〜にして",
+       "duration_min": 15,
+       "file": "n2/lesson-38.md",
+       "file_en": "n2/lesson-38.en.md"
+      },
+      {
+       "id": "N2-L39",
+       "code": "L39",
+       "title_en": "In terms of: 〜上での and 〜上では",
+       "title_id": "Dalam hal: 〜上での/〜上では",
+       "duration_min": 15,
+       "file": "n2/lesson-39.md",
+       "file_en": "n2/lesson-39.en.md"
+      },
+      {
+       "id": "N2-L40",
+       "code": "L40",
+       "title_en": "Argumentative essay: 長文・主張理解 drill",
+       "title_id": "Esai argumen: drill 長文・主張理解",
+       "duration_min": 20,
+       "file": "n2/lesson-40.md",
+       "file_en": "n2/lesson-40.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N2-n2-m9",
+     "code": "n2-m9",
+     "title_en": "Reading speed & listening stamina",
+     "title_id": "Kecepatan baca dan stamina dengar",
+     "objective_id": "Mengubah pengetahuan menjadi performa ujian: skimming 長文, strategi tiap tipe reading N2 (termasuk 統合理解), dan stamina listening 50 menit play-once pada kecepatan alami penuh.",
+     "objective_en": "Turn knowledge into exam performance: skimming 長文, strategies for each N2 reading type (including 統合理解), and 50 minutes of single-play full-speed listening stamina.",
+     "lessons": [
+      {
+       "id": "N2-L41",
+       "code": "L41",
+       "title_en": "Opinion reading: finding the author's view",
+       "title_id": "Membaca opini: temukan pendapat penulis",
+       "duration_min": 20,
+       "file": "n2/lesson-41.md",
+       "file_en": "n2/lesson-41.en.md"
+      },
+      {
+       "id": "N2-L42",
+       "code": "L42",
+       "title_en": "Information retrieval: speed drill",
+       "title_id": "Pencarian informasi: drill cepat",
+       "duration_min": 20,
+       "file": "n2/lesson-42.md",
+       "file_en": "n2/lesson-42.en.md"
+      },
+      {
+       "id": "N2-L43",
+       "code": "L43",
+       "title_en": "Integrated comprehension: two texts",
+       "title_id": "Pemahaman terpadu: dua teks, dua pendapat",
+       "duration_min": 20,
+       "file": "n2/lesson-43.md",
+       "file_en": "n2/lesson-43.en.md"
+      },
+      {
+       "id": "N2-L44",
+       "code": "L44",
+       "title_en": "Listening stamina: 50 minutes, one play",
+       "title_id": "Stamina mendengar: 50 menit putar-sekali",
+       "duration_min": 20,
+       "file": "n2/lesson-44.md",
+       "file_en": "n2/lesson-44.en.md"
+      },
+      {
+       "id": "N2-L45",
+       "code": "L45",
+       "title_en": "Half-mock: a timed 105-minute block",
+       "title_id": "Half-mock: blok 105 menit berwaktu",
+       "duration_min": 20,
+       "file": "n2/lesson-45.md",
+       "file_en": "n2/lesson-45.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N2-n2-m10",
+     "code": "n2-m10",
+     "title_en": "Full mock exam & final review",
+     "title_id": "Full mock exam dan review final",
+     "objective_id": "Mengikuti mock N2 lengkap dalam mode Real, mereview kesalahan per kategori dan strand, dan menutup celah tersisa sebelum ujian sesungguhnya.",
+     "objective_en": "Take a complete N2 mock in Real mode, review mistakes by category and strand, and close remaining gaps before the real exam.",
+     "lessons": [
+      {
+       "id": "N2-L46",
+       "code": "L46",
+       "title_en": "Full mock 1 (Study mode)",
+       "title_id": "Full mock 1 (mode Study)",
+       "duration_min": 20,
+       "file": "n2/lesson-46.md",
+       "file_en": "n2/lesson-46.en.md"
+      },
+      {
+       "id": "N2-L47",
+       "code": "L47",
+       "title_en": "Error clinic and repair",
+       "title_id": "Klinik kesalahan & perbaikan",
+       "duration_min": 20,
+       "file": "n2/lesson-47.md",
+       "file_en": "n2/lesson-47.en.md"
+      },
+      {
+       "id": "N2-L48",
+       "code": "L48",
+       "title_en": "Full mock 2 (Real mode)",
+       "title_id": "Full mock 2 (mode Real)",
+       "duration_min": 20,
+       "file": "n2/lesson-48.md",
+       "file_en": "n2/lesson-48.en.md"
+      },
+      {
+       "id": "N2-L49",
+       "code": "L49",
+       "title_en": "Full mock 3 (Real mode) + official benchmark",
+       "title_id": "Full mock 3 (mode Real) + jangkar resmi",
+       "duration_min": 20,
+       "file": "n2/lesson-49.md",
+       "file_en": "n2/lesson-49.en.md"
+      },
+      {
+       "id": "N2-L50",
+       "code": "L50",
+       "title_en": "Readiness check & exam-day plan",
+       "title_id": "Cek kesiapan & rencana hari-H",
+       "duration_min": 20,
+       "file": "n2/lesson-50.md",
+       "file_en": "n2/lesson-50.en.md"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "N1",
+   "modules": [
+    {
+     "id": "N1-n1-m1",
+     "code": "n1-m1",
+     "title_en": "Classical forms for reading recognition",
+     "title_id": "Bentuk klasik untuk pengenalan bacaan",
+     "objective_id": "Mengenali bentuk klasik (〜ぬ, 〜ず, 〜き, 〜けり) untuk pengenalan bacaan — bukan produksi — serta menguasai である体 penuh dan retorika klasik (体言止め, 倒置, 係り結び) sebagai fondasi membaca teks sastra dan formal.",
+     "objective_en": "Recognize classical forms (〜ぬ, 〜ず, 〜き, 〜けり) for reading recognition — not production — and master full である style and classical rhetoric (体言止め, 倒置, 係り結び) as the foundation for literary and formal texts.",
+     "lessons": [
+      {
+       "id": "N1-L01",
+       "code": "L01",
+       "title_en": "Classical forms I: 〜ぬ and 〜ず",
+       "title_id": "Bentuk klasik I: 〜ぬ・〜ず",
+       "duration_min": 15,
+       "file": "n1/lesson-01.md",
+       "file_en": "n1/lesson-01.en.md"
+      },
+      {
+       "id": "N1-L02",
+       "code": "L02",
+       "title_en": "Classical forms II: 〜き and 〜けり",
+       "title_id": "Bentuk klasik II: 〜き・〜けり",
+       "duration_min": 15,
+       "file": "n1/lesson-02.md",
+       "file_en": "n1/lesson-02.en.md"
+      },
+      {
+       "id": "N1-L03",
+       "code": "L03",
+       "title_en": "Full である体 & 体言止め",
+       "title_id": "である体 penuh & 体言止め",
+       "duration_min": 15,
+       "file": "n1/lesson-03.md",
+       "file_en": "n1/lesson-03.en.md"
+      },
+      {
+       "id": "N1-L04",
+       "code": "L04",
+       "title_en": "Classical rhetoric: 倒置 & 係り結び",
+       "title_id": "Retorika klasik: 倒置 & 係り結び",
+       "duration_min": 15,
+       "file": "n1/lesson-04.md",
+       "file_en": "n1/lesson-04.en.md"
+      },
+      {
+       "id": "N1-L05",
+       "code": "L05",
+       "title_en": "Reading glossed classical texts",
+       "title_id": "Membaca klasik berglosa",
+       "duration_min": 15,
+       "file": "n1/lesson-05.md",
+       "file_en": "n1/lesson-05.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N1-n1-m2",
+     "code": "n1-m2",
+     "title_en": "Ultra-formal keigo & complete business letters",
+     "title_id": "Keigo ultra-formal & surat bisnis lengkap",
+     "objective_id": "Menguasai keigo ultra-formal tulis dan surat bisnis lengkap: struktur 拝啓〜敬具, 謹んで, 恐れながら, 社交辞令, serta ご〜いただく & お〜申し上げる — sebagai skill hidup sekaligus materi ujian.",
+     "objective_en": "Master ultra-formal written keigo and complete business letters: 拝啓〜敬具 structure, 謹んで, 恐れながら, social formulas, and ご〜いただく & お〜申し上げる — as a life skill and exam material.",
+     "lessons": [
+      {
+       "id": "N1-L06",
+       "code": "L06",
+       "title_en": "Business letters: 拝啓 to 敬具",
+       "title_id": "Surat bisnis: 拝啓〜敬具",
+       "duration_min": 15,
+       "file": "n1/lesson-06.md",
+       "file_en": "n1/lesson-06.en.md"
+      },
+      {
+       "id": "N1-L07",
+       "code": "L07",
+       "title_en": "謹んで & 恐れながら",
+       "title_id": "謹んで & 恐れながら",
+       "duration_min": 15,
+       "file": "n1/lesson-07.md",
+       "file_en": "n1/lesson-07.en.md"
+      },
+      {
+       "id": "N1-L08",
+       "code": "L08",
+       "title_en": "社交辞令 & letter closings",
+       "title_id": "社交辞令 & penutup surat",
+       "duration_min": 15,
+       "file": "n1/lesson-08.md",
+       "file_en": "n1/lesson-08.en.md"
+      },
+      {
+       "id": "N1-L09",
+       "code": "L09",
+       "title_en": "ご〜いただく & お〜申し上げる",
+       "title_id": "ご〜いただく & お〜申し上げる",
+       "duration_min": 15,
+       "file": "n1/lesson-09.md",
+       "file_en": "n1/lesson-09.en.md"
+      },
+      {
+       "id": "N1-L10",
+       "code": "L10",
+       "title_en": "Writing a complete business letter",
+       "title_id": "Menulis surat bisnis lengkap",
+       "duration_min": 15,
+       "file": "n1/lesson-10.md",
+       "file_en": "n1/lesson-10.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N1-n1-m3",
+     "code": "n1-m3",
+     "title_en": "Formal argument grammar",
+     "title_id": "Grammar argumen formal",
+     "objective_id": "Membangun argumen formal tertulis dengan pola tujuan, kesesuaian, dan dasar pertimbangan: 〜べく/〜べくも, 〜んがため(に), 〜と相まって, 〜に即して, 〜に則って, 〜を踏まえて — lalu menulis esai argumen penuh.",
+     "objective_en": "Build formal written arguments with purpose, conformity, and basis patterns: 〜べく/〜べくも, 〜んがため(に), 〜と相まって, 〜に即して, 〜に則って, 〜を踏まえて — then write a full argumentative essay.",
+     "lessons": [
+      {
+       "id": "N1-L11",
+       "code": "L11",
+       "title_en": "〜べく & 〜べくも",
+       "title_id": "〜べく・〜べくも",
+       "duration_min": 15,
+       "file": "n1/lesson-11.md",
+       "file_en": "n1/lesson-11.en.md"
+      },
+      {
+       "id": "N1-L12",
+       "code": "L12",
+       "title_en": "〜んがため(に) & 〜と相まって",
+       "title_id": "〜んがため(に) & 〜と相まって",
+       "duration_min": 15,
+       "file": "n1/lesson-12.md",
+       "file_en": "n1/lesson-12.en.md"
+      },
+      {
+       "id": "N1-L13",
+       "code": "L13",
+       "title_en": "〜に即して & 〜に則って",
+       "title_id": "〜に即して・〜に則って",
+       "duration_min": 15,
+       "file": "n1/lesson-13.md",
+       "file_en": "n1/lesson-13.en.md"
+      },
+      {
+       "id": "N1-L14",
+       "code": "L14",
+       "title_en": "〜を踏まえて & 〜を前提に",
+       "title_id": "〜を踏まえて & 〜を前提に",
+       "duration_min": 15,
+       "file": "n1/lesson-14.md",
+       "file_en": "n1/lesson-14.en.md"
+      },
+      {
+       "id": "N1-L15",
+       "code": "L15",
+       "title_en": "Writing an argumentative essay",
+       "title_id": "Menulis esai argumen",
+       "duration_min": 15,
+       "file": "n1/lesson-15.md",
+       "file_en": "n1/lesson-15.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N1-n1-m4",
+     "code": "n1-m4",
+     "title_en": "Near-synonym nuance I & first editorials",
+     "title_id": "Nuansa near-synonym I & 社説 pertama",
+     "objective_id": "Membedakan near-synonym lewat kontras minimal (〜にかこつけて, 〜にかまけて, 〜をよそに, 〜ならいざしらず, 〜はさておき, 〜はおろか, 〜もさることながら) dan membaca 社説 pendek dengan pemahaman sikap penulis.",
+     "objective_en": "Distinguish near-synonyms through minimal contrast (〜にかこつけて, 〜にかまけて, 〜をよそに, 〜ならいざしらず, 〜はさておき, 〜はおろか, 〜もさることながら) and read short 社説 with author-stance comprehension.",
+     "lessons": [
+      {
+       "id": "N1-L16",
+       "code": "L16",
+       "title_en": "〜にかこつけて & 〜にかまけて",
+       "title_id": "〜にかこつけて・〜にかまけて",
+       "duration_min": 15,
+       "file": "n1/lesson-16.md",
+       "file_en": "n1/lesson-16.en.md"
+      },
+      {
+       "id": "N1-L17",
+       "code": "L17",
+       "title_en": "〜をよそに & 〜ならいざしらず",
+       "title_id": "〜をよそに & 〜ならいざしらず",
+       "duration_min": 15,
+       "file": "n1/lesson-17.md",
+       "file_en": "n1/lesson-17.en.md"
+      },
+      {
+       "id": "N1-L18",
+       "code": "L18",
+       "title_en": "〜はさておき & 〜はおろか",
+       "title_id": "〜はさておき・〜はおろか",
+       "duration_min": 15,
+       "file": "n1/lesson-18.md",
+       "file_en": "n1/lesson-18.en.md"
+      },
+      {
+       "id": "N1-L19",
+       "code": "L19",
+       "title_en": "〜もさることながら & near-synonyms",
+       "title_id": "〜もさることながら & near-synonym",
+       "duration_min": 15,
+       "file": "n1/lesson-19.md",
+       "file_en": "n1/lesson-19.en.md"
+      },
+      {
+       "id": "N1-L20",
+       "code": "L20",
+       "title_en": "First 社説 (editorial)",
+       "title_id": "社説 pertama",
+       "duration_min": 15,
+       "file": "n1/lesson-20.md",
+       "file_en": "n1/lesson-20.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N1-n1-m5",
+     "code": "n1-m5",
+     "title_en": "Authentic dokkai: editorials & opinion",
+     "title_id": "Dokkai autentik: 社説 & opini",
+     "objective_id": "Membaca 社説 dan kolom opini autentik (〜たりとも, 〜だに, 〜とは比べものにならない, 〜を余儀なくされる/させる, 〜の至り/〜の極み), membandingkan dua teks berseberangan, dan menulis tanggapan berargumen.",
+     "objective_en": "Read authentic 社説 and opinion columns (〜たりとも, 〜だに, 〜とは比べものにならない, 〜を余儀なくされる/させる, 〜の至り/〜の極み), compare two opposing texts, and write an argued response.",
+     "lessons": [
+      {
+       "id": "N1-L21",
+       "code": "L21",
+       "title_en": "〜たりとも & 〜だに",
+       "title_id": "〜たりとも & 〜だに",
+       "duration_min": 15,
+       "file": "n1/lesson-21.md",
+       "file_en": "n1/lesson-21.en.md"
+      },
+      {
+       "id": "N1-L22",
+       "code": "L22",
+       "title_en": "〜とは比べものにならない",
+       "title_id": "〜とは比べものにならない",
+       "duration_min": 15,
+       "file": "n1/lesson-22.md",
+       "file_en": "n1/lesson-22.en.md"
+      },
+      {
+       "id": "N1-L23",
+       "code": "L23",
+       "title_en": "〜を余儀なくされる & 〜を余儀なくさせる",
+       "title_id": "〜を余儀なくされる・させる",
+       "duration_min": 15,
+       "file": "n1/lesson-23.md",
+       "file_en": "n1/lesson-23.en.md"
+      },
+      {
+       "id": "N1-L24",
+       "code": "L24",
+       "title_en": "〜の至り & 〜の極み",
+       "title_id": "〜の至り・〜の極み",
+       "duration_min": 15,
+       "file": "n1/lesson-24.md",
+       "file_en": "n1/lesson-24.en.md"
+      },
+      {
+       "id": "N1-L25",
+       "code": "L25",
+       "title_en": "Comparing two opposing editorials",
+       "title_id": "比較: dua 社説 berseberangan",
+       "duration_min": 15,
+       "file": "n1/lesson-25.md",
+       "file_en": "n1/lesson-25.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N1-n1-m6",
+     "code": "n1-m6",
+     "title_en": "Literary criticism & essays",
+     "title_id": "Kritik sastra & esai",
+     "objective_id": "Membaca kritik sastra dan esai dengan pola ketegasan dan kesia-siaan (〜てはばからない/〜を憚らない, 〜も顧みず/〜をものともせず, 〜甲斐もなく, 〜たが最後), mengenali gaya sastra (inversi, elipsis), dan menulis resensi.",
+     "objective_en": "Read literary criticism and essays with assertiveness/futility patterns (〜てはばからない/〜を憚らない, 〜も顧みず/〜をものともせず, 〜甲斐もなく, 〜たが最後), recognize literary style (inversion, ellipsis), and write a review.",
+     "lessons": [
+      {
+       "id": "N1-L26",
+       "code": "L26",
+       "title_en": "〜てはばからない & 〜を憚らない",
+       "title_id": "〜てはばからない・〜を憚らない",
+       "duration_min": 15,
+       "file": "n1/lesson-26.md",
+       "file_en": "n1/lesson-26.en.md"
+      },
+      {
+       "id": "N1-L27",
+       "code": "L27",
+       "title_en": "〜も顧みず & 〜をものともせず",
+       "title_id": "〜も顧みず・〜をものともせず",
+       "duration_min": 15,
+       "file": "n1/lesson-27.md",
+       "file_en": "n1/lesson-27.en.md"
+      },
+      {
+       "id": "N1-L28",
+       "code": "L28",
+       "title_en": "〜甲斐もなく & 〜たが最後",
+       "title_id": "〜甲斐もなく & 〜たが最後",
+       "duration_min": 15,
+       "file": "n1/lesson-28.md",
+       "file_en": "n1/lesson-28.en.md"
+      },
+      {
+       "id": "N1-L29",
+       "code": "L29",
+       "title_en": "Literary style: inversion & ellipsis",
+       "title_id": "Gaya sastra: inversi & elipsis",
+       "duration_min": 15,
+       "file": "n1/lesson-29.md",
+       "file_en": "n1/lesson-29.en.md"
+      },
+      {
+       "id": "N1-L30",
+       "code": "L30",
+       "title_en": "Writing an essay review",
+       "title_id": "Menulis resensi esai",
+       "duration_min": 15,
+       "file": "n1/lesson-30.md",
+       "file_en": "n1/lesson-30.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N1-n1-m7",
+     "code": "n1-m7",
+     "title_en": "Near-synonym II & yojijukugo",
+     "title_id": "Near-synonym II & 四字熟語",
+     "objective_id": "Menguasai near-synonym lanjutan (〜ようでは, 〜ようによっては, 〜まい/〜ずじまい) dan memakai 四字熟語 secara tepat — makna, bacaan, register, konteks — dalam tulisan formal.",
+     "objective_en": "Master advanced near-synonyms (〜ようでは, 〜ようによっては, 〜まい/〜ずじまい) and use 四字熟語 correctly — meaning, reading, register, context — in formal writing.",
+     "lessons": [
+      {
+       "id": "N1-L31",
+       "code": "L31",
+       "title_en": "〜ようでは & 〜ようによっては",
+       "title_id": "〜ようでは・〜ようによっては",
+       "duration_min": 15,
+       "file": "n1/lesson-31.md",
+       "file_en": "n1/lesson-31.en.md"
+      },
+      {
+       "id": "N1-L32",
+       "code": "L32",
+       "title_en": "〜まい(とする) & 〜ずじまい",
+       "title_id": "〜まい(とする)・〜ずじまい",
+       "duration_min": 15,
+       "file": "n1/lesson-32.md",
+       "file_en": "n1/lesson-32.en.md"
+      },
+      {
+       "id": "N1-L33",
+       "code": "L33",
+       "title_en": "Core yojijukugo I",
+       "title_id": "Yojijukugo inti I",
+       "duration_min": 15,
+       "file": "n1/lesson-33.md",
+       "file_en": "n1/lesson-33.en.md"
+      },
+      {
+       "id": "N1-L34",
+       "code": "L34",
+       "title_en": "Core yojijukugo II",
+       "title_id": "Yojijukugo inti II",
+       "duration_min": 15,
+       "file": "n1/lesson-34.md",
+       "file_en": "n1/lesson-34.en.md"
+      },
+      {
+       "id": "N1-L35",
+       "code": "L35",
+       "title_en": "Essay with yojijukugo",
+       "title_id": "Esai dengan yojijukugo",
+       "duration_min": 15,
+       "file": "n1/lesson-35.md",
+       "file_en": "n1/lesson-35.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N1-n1-m8",
+     "code": "n1-m8",
+     "title_en": "Abstract listening & advanced onomatopoeia",
+     "title_id": "Listening abstrak & onomatope lanjutan",
+     "objective_id": "Memahami ceramah dan diskusi panel bertopik abstrak berkecepatan alami (maksud tersirat, sikap pembicara, 統合理解) serta menguasai onomatope lanjutan sebagai perangkat retoris sastra.",
+     "objective_en": "Understand abstract fast-paced lectures and panel discussions (implied meaning, speaker stance, 統合理解) and master advanced onomatopoeia as a literary rhetorical device.",
+     "lessons": [
+      {
+       "id": "N1-L36",
+       "code": "L36",
+       "title_en": "Advanced onomatopoeia in literature",
+       "title_id": "Onomatope lanjutan dalam sastra",
+       "duration_min": 15,
+       "file": "n1/lesson-36.md",
+       "file_en": "n1/lesson-36.en.md"
+      },
+      {
+       "id": "N1-L37",
+       "code": "L37",
+       "title_en": "Abstract lectures: implied meaning",
+       "title_id": "Ceramah abstrak: maksud tersirat",
+       "duration_min": 15,
+       "file": "n1/lesson-37.md",
+       "file_en": "n1/lesson-37.en.md"
+      },
+      {
+       "id": "N1-L38",
+       "code": "L38",
+       "title_en": "Panel discussions: speaker stance",
+       "title_id": "Diskusi panel: sikap pembicara",
+       "duration_min": 15,
+       "file": "n1/lesson-38.md",
+       "file_en": "n1/lesson-38.en.md"
+      },
+      {
+       "id": "N1-L39",
+       "code": "L39",
+       "title_en": "統合理解 listening",
+       "title_id": "統合理解 listening",
+       "duration_min": 15,
+       "file": "n1/lesson-39.md",
+       "file_en": "n1/lesson-39.en.md"
+      },
+      {
+       "id": "N1-L40",
+       "code": "L40",
+       "title_en": "Summarizing lectures",
+       "title_id": "Ringkasan ceramah",
+       "duration_min": 15,
+       "file": "n1/lesson-40.md",
+       "file_en": "n1/lesson-40.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N1-n1-m9",
+     "code": "n1-m9",
+     "title_en": "Reading speed & listening stamina",
+     "title_id": "Kecepatan baca & stamina dengar",
+     "objective_id": "Mengubah pengetahuan menjadi performa ujian: skimming teks autentik panjang bertiming, strategi 主張理解 & 情報検索, mengeliminasi distractor near-synonym, dan stamina listening 60 menit yang diputar sekali.",
+     "objective_en": "Turn knowledge into exam performance: timed skimming of long authentic texts, 主張理解 & 情報検索 strategies, eliminating near-synonym distractors, and 60 minutes of single-play listening stamina.",
+     "lessons": [
+      {
+       "id": "N1-L41",
+       "code": "L41",
+       "title_en": "Timed skimming of long texts",
+       "title_id": "Skimming teks panjang bertiming",
+       "duration_min": 15,
+       "file": "n1/lesson-41.md",
+       "file_en": "n1/lesson-41.en.md"
+      },
+      {
+       "id": "N1-L42",
+       "code": "L42",
+       "title_en": "主張理解 & 情報検索",
+       "title_id": "主張理解 & 情報検索",
+       "duration_min": 15,
+       "file": "n1/lesson-42.md",
+       "file_en": "n1/lesson-42.en.md"
+      },
+      {
+       "id": "N1-L43",
+       "code": "L43",
+       "title_en": "Near-synonym distractors",
+       "title_id": "Distractor near-synonym",
+       "duration_min": 15,
+       "file": "n1/lesson-43.md",
+       "file_en": "n1/lesson-43.en.md"
+      },
+      {
+       "id": "N1-L44",
+       "code": "L44",
+       "title_en": "60-minute listening stamina",
+       "title_id": "Stamina listening 60 menit",
+       "duration_min": 15,
+       "file": "n1/lesson-44.md",
+       "file_en": "n1/lesson-44.en.md"
+      },
+      {
+       "id": "N1-L45",
+       "code": "L45",
+       "title_en": "Timed half-mock",
+       "title_id": "Half-mock bertiming",
+       "duration_min": 20,
+       "file": "n1/lesson-45.md",
+       "file_en": "n1/lesson-45.en.md"
+      }
+     ]
+    },
+    {
+     "id": "N1-n1-m10",
+     "code": "n1-m10",
+     "title_en": "Full mock exam & final review",
+     "title_id": "Full mock exam & review final",
+     "objective_id": "Mengikuti dua full mock N1 dalam mode Real (170 menit), mereview kesalahan per kategori dan strand, menutup celah tersisa, dan menuntaskan checklist kesiapan N1.",
+     "objective_en": "Take two full N1 mocks in Real mode (170 minutes), review mistakes by category and strand, close remaining gaps, and complete the N1 readiness checklist.",
+     "lessons": [
+      {
+       "id": "N1-L46",
+       "code": "L46",
+       "title_en": "Full mock Real #1 (170 min)",
+       "title_id": "Full mock Real #1 (170 mnt)",
+       "duration_min": 20,
+       "file": "n1/lesson-46.md",
+       "file_en": "n1/lesson-46.en.md"
+      },
+      {
+       "id": "N1-L47",
+       "code": "L47",
+       "title_en": "Error review by category",
+       "title_id": "Review error per kategori",
+       "duration_min": 15,
+       "file": "n1/lesson-47.md",
+       "file_en": "n1/lesson-47.en.md"
+      },
+      {
+       "id": "N1-L48",
+       "code": "L48",
+       "title_en": "Full mock Real #2 (170 min)",
+       "title_id": "Full mock Real #2 (170 mnt)",
+       "duration_min": 20,
+       "file": "n1/lesson-48.md",
+       "file_en": "n1/lesson-48.en.md"
+      },
+      {
+       "id": "N1-L49",
+       "code": "L49",
+       "title_en": "Closing remaining gaps",
+       "title_id": "Menutup celah tersisa",
+       "duration_min": 15,
+       "file": "n1/lesson-49.md",
+       "file_en": "n1/lesson-49.en.md"
+      },
+      {
+       "id": "N1-L50",
+       "code": "L50",
+       "title_en": "Sign-off checklist & exam day",
+       "title_id": "Checklist sign-off & hari-H",
+       "duration_min": 15,
+       "file": "n1/lesson-50.md",
+       "file_en": "n1/lesson-50.en.md"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

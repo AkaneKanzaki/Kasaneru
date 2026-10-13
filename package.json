@@ -1,0 +1,37 @@
+{
+  "name": "kasaneru-web",
+  "private": true,
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build && node scripts/sync-android-splash.mjs && node scripts/disable-android-edge-to-edge.mjs && node scripts/fix-android-jvm.mjs && node scripts/patch-android-manifest.mjs && node scripts/sync-android-icons.mjs && node scripts/sync-android-version.mjs",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "splash:android": "node scripts/sync-android-splash.mjs",
+    "android:no-edge": "node scripts/disable-android-edge-to-edge.mjs"
+  },
+  "dependencies": {
+    "@capacitor-community/text-to-speech": "^8.0.2",
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/app": "^8.1.2",
+    "@capacitor/cli": "^8.5.3",
+    "@capacitor/core": "^8.5.3",
+    "@capacitor/splash-screen": "^8.0.2",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-markdown": "^10.1.0",
+    "react-router-dom": "^7.18.4",
+    "remark-gfm": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.81.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0"
+  }
+}

@@ -1,0 +1,62 @@
+{
+ "N5": {
+  "M1": "Membaca dan menulis seluruh hiragana dan katakana, mengenali bunyi vokal dan kontras bunyi, serta menyapa dan memperkenalkan diri dalam bentuk sopan.",
+  "M2": "Menyusun kalimat sederhana yang benar tentang rutinitas, lokasi, dan kepemilikan, serta memahami sistem partikel Bahasa Jepang.",
+  "M3": "Mendeskripsikan orang dan benda dengan kata sifat-i/na, menyatakan keberadaan dan lokasi, menghitung benda, dan menangani harga.",
+  "M4": "Bercerita tentang kemarin dan minggu lalu dengan menguasai bentuk lampau kata kerja, kata sifat, dan kopula.",
+  "M5": "Menguasai bentuk-te — pola paling produktif di N5 — untuk merangkai aksi, meminta, memohon izin, dan menyatakan kegiatan berlangsung.",
+  "M6": "Menyatakan alasan, kontras, perbandingan dua/lebih hal, dan derajat — pola yang mengubah kalimat sederhana menjadi tuturan tersambung.",
+  "M7": "Menyatakan keinginan, suka/tidak suka, kemampuan, serta menguasai bentuk kamus yang menjadi fondasi pola lanjutan.",
+  "M8": "Menangani aturan dan kewajiban, rencana masa depan, frekuensi, dan bentuk-ta (lampau biasa) untuk pola-pola kunci N5.",
+  "M9": "Mengubah pengetahuan menjadi performa ujian: membaca cepat mencari informasi, menyingkirkan pengecoh, dan menjaga stamina mendengar.",
+  "M10": "Mengerjakan simulasi N5 penuh dalam mode Real, menganalisis kesalahan per kategori, dan menutup celah sebelum ujian sesungguhnya."
+ },
+ "N4": {
+  "n4-m1": "Membicarakan kemampuan dengan bentuk potensial, merangkai alasan dengan 〜し, melakukan dua hal sekaligus dengan 〜ながら, dan mengonsolidasikan 〜たり〜たりする.",
+  "n4-m2": "Menangani aksi memberi–menerima (〜てあげる/くれる/もらう) dan memahami sistem keigo: konsep sonkeigo vs. kenjougo, pola dasar, dan kata kerja khusus yang paling sering muncul.",
+  "n4-m3": "Menyatakan niat dengan bentuk volitional dan menguasai empat kondisional (と/〜たら/〜ば/〜ても) beserta nuansa masing-masing.",
+  "n4-m4": "Memberi saran (〜たほうがいい), membedakan persiapan–keadaan–ketidaksengajaan (〜ておく/〜てある/〜てしまう), dan menyatakan tujuan serta perubahan kemampuan.",
+  "n4-m5": "Memahami dan memakai pasif (termasuk pasif penderitaan dan pasif formal) serta kausatif dan kausatif-pasif dalam konteks berita dan kehidupan sehari-hari.",
+  "n4-m6": "Memakai keigo secara tepat dalam situasi nyata: menerima/menempatkan telepon, menulis email bisnis sederhana, dan berinteraksi di lingkungan kerja.",
+  "n4-m7": "Mengungkapkan dugaan dan kesan dengan nuansa yang tepat: membedakan 〜そうだ ganda, 〜みたい/〜らしい/〜ようだ, 〜はずだ, dan 〜べきだ.",
+  "n4-m8": "Menyatakan derajat (〜すぎる, 〜やすい/〜にくい), arah gerak relatif pembicara (〜てくる/〜ていく), dan aspek waktu yang presisi (〜ところ, 〜たばかり, 〜ばかり, 〜うちに).",
+  "n4-m9": "Mengubah pengetahuan menjadi performa ujian pada tingkat kesulitan N4: skimming teks sedang, mengeliminasi distractor, dan bertahan mendengar seksi penuh yang diputar sekali.",
+  "n4-m10": "Mengikuti mock N4 lengkap dalam mode Real, mereview kesalahan per kategori, dan menutup celah tersisa sebelum ujian sesungguhnya."
+ },
+ "N3": {
+  "n3-m1": "Mengotomatiskan pola N4 yang paling rawan error (pasif penderitaan, kausatif-pasif, 〜ことにする/〜ことになる, 〜うちに) dan menguasai pola transisi N3: 〜させていただく, syarat keras (〜てからでないと/〜ないことには), dan penanda sebab-akibat (〜ものだから/〜ことだから, 〜おかげで/〜せいで).",
+  "n3-m2": "Memasuki bahasa tulis formal: membaca dan menulis である体, memakai konjungsi logis, dan menyatakan hubungan formal antar konsep (〜に対して, 〜に関して).",
+  "n3-m3": "Mengungkapkan tekad dan usaha (volitional + とする, 〜ようとする, 〜まい), kemungkinan bersyarat (〜ものなら), dan keterpaksaan/ketidaktertahanan (〜ざるを得ない, 〜ないではいられない, 〜てはいられない, 〜てたまらない/〜てしかたがない, 〜得る, 〜かねる).",
+  "n3-m4": "Menguasai kondisional formal dan konsesi: 〜としたら/〜とすれば, keluarga 〜にしても/〜にせよ/〜といっても/〜とはいえ, serta penanda tekad bersyarat (〜からには, 〜以上は, 〜上は, 〜次第).",
+  "n3-m5": "Mengungkapkan kesan dan derajat dengan presisi: akhiran 〜っぽい/〜がち/〜気味/〜げ, 〜ぶる/〜めく, 〜だらけ/〜まみれ/〜ずくめ, penanda kesimpulan 〜わけだ/〜わけではない/〜わけがない, 〜ものだ/〜ことだ, serta onomatope (giongo/gitaigo) dalam narasi.",
+  "n3-m6": "Menguasai ungkapan waktu yang presisi (〜以来, 〜最中に, 〜ついでに, 〜がてら/〜かたわら, 〜や否や/〜が早いか/〜なり, 〜向け/〜向き) dan keigo bisnis lanjutan untuk email, dokumen, dan situasi kerja formal.",
+  "n3-m7": "Membaca 短文 dan 中文 dengan strategi: perubahan bertahap (〜につれて/〜にしたがって/〜とともに), kontras (〜一方だ/〜一方で), aspek berlangsung (〜つつある), dan verba majemuk (〜きる/〜ぬく/〜通す/〜かける).",
+  "n3-m8": "Menaklukkan 長文, 情報検索, dan teks opini, plus listening berkecepatan alami penuh: cakupan (〜をめぐって/〜にわたって/〜を通じて/〜に伴って), formalitas dokumen (〜を機に/〜を皮切りに/〜にかけては/〜に際して/〜を限りに/〜をもって), dan gaya perumpamaan (〜んばかりに/〜とばかりに/〜かのようだ).",
+  "n3-m9": "Mengubah pengetahuan menjadi performa ujian pada tingkat kesulitan N3: skimming teks panjang, mengeliminasi distractor bernuansa, dan bertahan mendengar seksi penuh berkecepatan alami yang diputar sekali.",
+  "n3-m10": "Mengikuti mock N3 lengkap dalam mode Real, mereview kesalahan per kategori dan per strand, dan menutup celah tersisa sebelum ujian sesungguhnya."
+ },
+ "N2": {
+  "n2-m1": "Mengonsolidasikan pola N3 yang menjadi fondasi (〜ざるを得ない, 〜わけだ, 〜ものだ) dan menguasai ungkapan batasan/hakikat khas N2 (〜にほかならない, 〜にすぎない, 〜に足る/〜に堪える, 〜甲斐がある), sambil memaksa produksi である体 dalam setiap tulisan.",
+  "n2-m2": "Menguasai dugaan tingkat N2 (〜おそれがある, 〜かねない, 〜に相違ない, 〜ほかない) dan penolakan retoris (〜ものか), serta mengonsolidasikan keluarga 〜っぽい/〜がち/〜気味 dari N3 pada kedalaman teks tulis.",
+  "n2-m3": "Menguasai konsesi dan syarat tingkat formal (〜にしろ/〜にせよ/〜であれ, 〜いかんにかかわらず/〜を問わず, 〜からして/〜からすると) — perangkat utama argumen N2 — beserta review kondisional N3.",
+  "n2-m4": "Menguasai ungkapan emosi yang tak dapat ditahan (〜を禁じ得ない, 〜てやまない, 〜ずにはおかない) dan penekanan seakan-akan (〜んばかり/〜とばかり) — pola yang paling sering menjadi distractor N2.",
+  "n2-m5": "Menguasai ungkapan cara/keadaan (〜なり〜なり, 〜かたわら, 〜そばから, 〜つつある) dan kesan/penampilan (〜ざま, 〜ぶり, 〜じみる, 〜ともなく) — kosakata grammar yang membedakan N2 dari N3.",
+  "n2-m6": "Menguasai keigo tulis formal: 謙譲語II (ご〜いただく, お〜申し上げる, 拝〜), formula dokumen (謹啓・敬具・記・以上), dan email bisnis lengkap — sebagai skill hidup sekaligus materi ujian.",
+  "n2-m7": "Membaca bahasa koran: pasif headline, ungkapan kabar (〜模様だ, 〜とのことだ, 〜ものとみられる), dan penanda pihak/sumber — fondasi untuk 長文 dan 情報検索.",
+  "n2-m8": "Menguasai konjungsi dan penanda logika formal (よって, ついては, 〜にして, 〜上での) — perangkat kohesi teks N2 — dan membaca esai argumentatif penuh.",
+  "n2-m9": "Mengubah pengetahuan menjadi performa ujian: skimming 長文, strategi tiap tipe reading N2 (termasuk 統合理解), dan stamina listening 50 menit play-once pada kecepatan alami penuh.",
+  "n2-m10": "Mengikuti mock N2 lengkap dalam mode Real, mereview kesalahan per kategori dan strand, dan menutup celah tersisa sebelum ujian sesungguhnya."
+ },
+ "N1": {
+  "n1-m1": "Mengenali bentuk klasik (〜ぬ, 〜ず, 〜き, 〜けり) untuk pengenalan bacaan — bukan produksi — serta menguasai である体 penuh dan retorika klasik (体言止め, 倒置, 係り結び) sebagai fondasi membaca teks sastra dan formal.",
+  "n1-m2": "Menguasai keigo ultra-formal tulis dan surat bisnis lengkap: struktur 拝啓〜敬具, 謹んで, 恐れながら, 社交辞令, serta ご〜いただく & お〜申し上げる — sebagai skill hidup sekaligus materi ujian.",
+  "n1-m3": "Membangun argumen formal tertulis dengan pola tujuan, kesesuaian, dan dasar pertimbangan: 〜べく/〜べくも, 〜んがため(に), 〜と相まって, 〜に即して, 〜に則って, 〜を踏まえて — lalu menulis esai argumen penuh.",
+  "n1-m4": "Membedakan near-synonym lewat kontras minimal (〜にかこつけて, 〜にかまけて, 〜をよそに, 〜ならいざしらず, 〜はさておき, 〜はおろか, 〜もさることながら) dan membaca 社説 pendek dengan pemahaman sikap penulis.",
+  "n1-m5": "Membaca 社説 dan kolom opini autentik (〜たりとも, 〜だに, 〜とは比べものにならない, 〜を余儀なくされる/させる, 〜の至り/〜の極み), membandingkan dua teks berseberangan, dan menulis tanggapan berargumen.",
+  "n1-m6": "Membaca kritik sastra dan esai dengan pola ketegasan dan kesia-siaan (〜てはばからない/〜を憚らない, 〜も顧みず/〜をものともせず, 〜甲斐もなく, 〜たが最後), mengenali gaya sastra (inversi, elipsis), dan menulis resensi.",
+  "n1-m7": "Menguasai near-synonym lanjutan (〜ようでは, 〜ようによっては, 〜まい/〜ずじまい) dan memakai 四字熟語 secara tepat — makna, bacaan, register, konteks — dalam tulisan formal.",
+  "n1-m8": "Memahami ceramah dan diskusi panel bertopik abstrak berkecepatan alami (maksud tersirat, sikap pembicara, 統合理解) serta menguasai onomatope lanjutan sebagai perangkat retoris sastra.",
+  "n1-m9": "Mengubah pengetahuan menjadi performa ujian: skimming teks autentik panjang bertiming, strategi 主張理解 & 情報検索, mengeliminasi distractor near-synonym, dan stamina listening 60 menit yang diputar sekali.",
+  "n1-m10": "Mengikuti dua full mock N1 dalam mode Real (170 menit), mereview kesalahan per kategori dan strand, menutup celah tersisa, dan menuntaskan checklist kesiapan N1."
+ }
+}

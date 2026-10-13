@@ -1,0 +1,973 @@
+{
+  "level": "N4",
+  "modules": {
+    "n4-m1": {
+      "title_en": "Potential form, 〜し, and 〜ながら",
+      "title_id": "Bentuk potensial, 〜し, dan 〜ながら",
+      "lessons": "1-5"
+    },
+    "n4-m2": {
+      "title_en": "Giving, receiving, and keigo foundations",
+      "title_id": "Memberi, menerima, dan fondasi keigo",
+      "lessons": "6-10"
+    },
+    "n4-m3": {
+      "title_en": "Volitional and conditionals",
+      "title_id": "Volitional dan kondisional",
+      "lessons": "11-15"
+    },
+    "n4-m4": {
+      "title_en": "Advice, preparation, and purpose",
+      "title_id": "Saran, persiapan, dan tujuan",
+      "lessons": "16-20"
+    },
+    "n4-m5": {
+      "title_en": "Passive and causative",
+      "title_id": "Pasif dan kausatif",
+      "lessons": "21-25"
+    },
+    "n4-m6": {
+      "title_en": "Applied keigo: phone, email, and business",
+      "title_id": "Keigo terapan: telepon, email, dan bisnis",
+      "lessons": "26-30"
+    },
+    "n4-m7": {
+      "title_en": "Conjecture, impressions, and feelings",
+      "title_id": "Dugaan, kesan, dan perasaan",
+      "lessons": "31-35"
+    },
+    "n4-m8": {
+      "title_en": "Degree, direction of movement, and aspect",
+      "title_id": "Derajat, arah gerak, dan aspek",
+      "lessons": "36-40"
+    },
+    "n4-m9": {
+      "title_en": "Reading speed and listening stamina",
+      "title_id": "Kecepatan membaca dan stamina mendengar",
+      "lessons": "41-45"
+    },
+    "n4-m10": {
+      "title_en": "Full mock exams and final review",
+      "title_id": "Simulasi ujian dan review akhir",
+      "lessons": "46-50"
+    }
+  },
+  "lessons": [
+    {
+      "n": 1,
+      "code": "L01",
+      "module": "n4-m1",
+      "title_en": "Can do it! Potential form (1)",
+      "title_id": "Bisa! Bentuk potensial (1)",
+      "grammar": [
+        "Bentuk potensial ichidan (〜られる)"
+      ],
+      "vocab_theme": "Kemampuan dan kegiatan",
+      "kanji": [
+        "残",
+        "辞",
+        "始"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 2,
+      "code": "L02",
+      "module": "n4-m1",
+      "title_en": "Potential form (2)",
+      "title_id": "Bentuk potensial (2)",
+      "grammar": [
+        "Bentuk potensial godan (〜れる)",
+        "〜ことができる",
+        "来られる"
+      ],
+      "vocab_theme": "Kemampuan dan kegiatan (2)",
+      "kanji": [
+        "終",
+        "選",
+        "探"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 3,
+      "code": "L03",
+      "module": "n4-m1",
+      "title_en": "While…: 〜ながら",
+      "title_id": "Sambil…: 〜ながら",
+      "grammar": [
+        "〜ながら"
+      ],
+      "vocab_theme": "Kegiatan ganda",
+      "kanji": [
+        "拾",
+        "捨",
+        "払"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 4,
+      "code": "L04",
+      "module": "n4-m1",
+      "title_en": "Listing reasons: 〜し",
+      "title_id": "Alasan berderet: 〜し",
+      "grammar": [
+        "〜し (alasan berderet)"
+      ],
+      "vocab_theme": "Alasan dan keluhan",
+      "kanji": [
+        "届",
+        "追",
+        "逃"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 5,
+      "code": "L05",
+      "module": "n4-m1",
+      "title_en": "Sometimes this, sometimes that: 〜たり〜たり",
+      "title_id": "Kadang ini kadang itu: 〜たり〜たり",
+      "grammar": [
+        "〜たり〜たりする (konsolidasi)"
+      ],
+      "vocab_theme": "Akhir pekan dan rutinitas",
+      "kanji": [
+        "洗",
+        "売",
+        "貸",
+        "贈"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 6,
+      "code": "L06",
+      "module": "n4-m2",
+      "title_en": "Giving: 〜てあげる",
+      "title_id": "Memberi: 〜てあげる",
+      "grammar": [
+        "〜てあげる"
+      ],
+      "vocab_theme": "Membantu dan memberi",
+      "kanji": [
+        "申",
+        "拝"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 7,
+      "code": "L07",
+      "module": "n4-m2",
+      "title_en": "Receiving: 〜てくれる",
+      "title_id": "Menerima: 〜てくれる",
+      "grammar": [
+        "〜てくれる"
+      ],
+      "vocab_theme": "Kebaikan orang lain",
+      "kanji": [
+        "参",
+        "存"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 8,
+      "code": "L08",
+      "module": "n4-m2",
+      "title_en": "Asking favors: 〜てもらう",
+      "title_id": "Meminta: 〜てもらう",
+      "grammar": [
+        "〜てもらう"
+      ],
+      "vocab_theme": "Meminta bantuan",
+      "kanji": [
+        "敬",
+        "誠"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 9,
+      "code": "L09",
+      "module": "n4-m2",
+      "title_en": "Keigo 1: honoring vs. humbling",
+      "title_id": "Keigo 1: menghormati vs. merendah",
+      "grammar": [
+        "Konsep sonkeigo vs. kenjougo"
+      ],
+      "vocab_theme": "Bahasa sopan dasar",
+      "kanji": [
+        "伺",
+        "致",
+        "謙"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 10,
+      "code": "L10",
+      "module": "n4-m2",
+      "title_en": "Keigo 2: お〜になる & お〜する",
+      "title_id": "Keigo 2: お〜になる & お〜する",
+      "grammar": [
+        "Pola お〜になる",
+        "Pola お〜する",
+        "kata kerja khusus dasar"
+      ],
+      "vocab_theme": "Keigo sehari-hari",
+      "kanji": [
+        "承",
+        "与",
+        "預"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 11,
+      "code": "L11",
+      "module": "n4-m3",
+      "title_en": "Let's…: the volitional form",
+      "title_id": "Ayo…: bentuk volitional",
+      "grammar": [
+        "Bentuk volitional"
+      ],
+      "vocab_theme": "Ajakan dan niat",
+      "kanji": [
+        "昨"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 12,
+      "code": "L12",
+      "module": "n4-m3",
+      "title_en": "Plans: 〜つもり & 〜と思います",
+      "title_id": "Rencana: 〜つもり & 〜と思います",
+      "grammar": [
+        "〜つもりです",
+        "volitional + 〜と思う"
+      ],
+      "vocab_theme": "Rencana masa depan",
+      "kanji": [
+        "曜"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 13,
+      "code": "L13",
+      "module": "n4-m3",
+      "title_en": "If…: と & 〜たら",
+      "title_id": "Kalau…: と & 〜たら",
+      "grammar": [
+        "Kondisional と",
+        "〜たら"
+      ],
+      "vocab_theme": "Syarat dan akibat",
+      "kanji": [
+        "頃"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 14,
+      "code": "L14",
+      "module": "n4-m3",
+      "title_en": "〜ば & 〜ても",
+      "title_id": "〜ば & 〜ても",
+      "grammar": [
+        "Kondisional 〜ば",
+        "〜ても",
+        "kata tanya + 〜ても"
+      ],
+      "vocab_theme": "Syarat dan pengecualian",
+      "kanji": [
+        "際"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 15,
+      "code": "L15",
+      "module": "n4-m3",
+      "title_en": "Maybe: 〜かもしれない",
+      "title_id": "Mungkin: 〜かもしれない",
+      "grammar": [
+        "〜かもしれない",
+        "〜でしょう (dugaan)"
+      ],
+      "vocab_theme": "Dugaan dan ramalan",
+      "kanji": [
+        "旧"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 16,
+      "code": "L16",
+      "module": "n4-m4",
+      "title_en": "Advice: 〜たほうがいい",
+      "title_id": "Saran: 〜たほうがいい",
+      "grammar": [
+        "〜たほうがいい / 〜ないほうがいい"
+      ],
+      "vocab_theme": "Saran kesehatan dan hidup",
+      "kanji": [
+        "府",
+        "県",
+        "市",
+        "区",
+        "町",
+        "村"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 17,
+      "code": "L17",
+      "module": "n4-m4",
+      "title_en": "Prepare first: 〜ておく & 〜てある",
+      "title_id": "Siapkan dulu: 〜ておく & 〜てある",
+      "grammar": [
+        "〜ておく",
+        "〜てある"
+      ],
+      "vocab_theme": "Persiapan dan keadaan",
+      "kanji": [
+        "都",
+        "郵",
+        "便",
+        "局",
+        "料",
+        "銀"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 18,
+      "code": "L18",
+      "module": "n4-m4",
+      "title_en": "Done and gone: 〜てしまう",
+      "title_id": "Terlanjur: 〜てしまう",
+      "grammar": [
+        "〜てしまう"
+      ],
+      "vocab_theme": "Penyesalan dan penyelesaian",
+      "kanji": [
+        "混",
+        "雑",
+        "危",
+        "険",
+        "橋"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 19,
+      "code": "L19",
+      "module": "n4-m4",
+      "title_en": "Whether…: 〜かどうか & 〜という",
+      "title_id": "Apakah…: 〜かどうか & 〜という",
+      "grammar": [
+        "〜かどうか",
+        "〜という"
+      ],
+      "vocab_theme": "Pertanyaan tak langsung",
+      "kanji": [
+        "約",
+        "束",
+        "因",
+        "果",
+        "相",
+        "対"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 20,
+      "code": "L20",
+      "module": "n4-m4",
+      "title_en": "In order to: 〜ために & 〜ようになる",
+      "title_id": "Agar: 〜ために & 〜ようになる",
+      "grammar": [
+        "〜ために",
+        "〜ようになる",
+        "〜ことにする"
+      ],
+      "vocab_theme": "Tujuan dan kebiasaan baru",
+      "kanji": [
+        "向",
+        "均",
+        "易",
+        "具",
+        "固",
+        "候"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 21,
+      "code": "L21",
+      "module": "n4-m5",
+      "title_en": "Passive (1): form and meaning",
+      "title_id": "Pasif (1): bentuk dan makna",
+      "grammar": [
+        "Pasif godan/ichidan"
+      ],
+      "vocab_theme": "Kejadian dan berita (1)",
+      "kanji": [
+        "盗",
+        "殺",
+        "案",
+        "以",
+        "衣",
+        "囲",
+        "栄",
+        "加"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 22,
+      "code": "L22",
+      "module": "n4-m5",
+      "title_en": "Passive (2): the suffering passive",
+      "title_id": "Pasif (2): pasif penderitaan",
+      "grammar": [
+        "Pasif penderitaan"
+      ],
+      "vocab_theme": "Kejadian dan berita (2)",
+      "kanji": [
+        "害",
+        "被",
+        "課",
+        "巻",
+        "慣",
+        "技",
+        "疑",
+        "居"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 23,
+      "code": "L23",
+      "module": "n4-m5",
+      "title_en": "Formal passive: 〜によって",
+      "title_id": "Pasif formal: 〜によって",
+      "grammar": [
+        "〜によって"
+      ],
+      "vocab_theme": "Penjelasan formal",
+      "kanji": [
+        "批",
+        "困",
+        "許",
+        "境",
+        "君",
+        "訓",
+        "型",
+        "景"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 24,
+      "code": "L24",
+      "module": "n4-m5",
+      "title_en": "Causative: 〜させる",
+      "title_id": "Kausatif: 〜させる",
+      "grammar": [
+        "Kausatif (〜させる)"
+      ],
+      "vocab_theme": "Menyuruh dan mengizinkan",
+      "kanji": [
+        "難",
+        "失",
+        "芸",
+        "欠",
+        "結",
+        "健",
+        "告",
+        "砂"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 25,
+      "code": "L25",
+      "module": "n4-m5",
+      "title_en": "Causative-passive & 〜ずに",
+      "title_id": "Kausatif-pasif & 〜ずに",
+      "grammar": [
+        "Kausatif-pasif",
+        "〜ずに",
+        "〜たびに"
+      ],
+      "vocab_theme": "Pengalaman dipaksa",
+      "kanji": [
+        "済",
+        "裁",
+        "札",
+        "刷",
+        "産",
+        "士"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 26,
+      "code": "L26",
+      "module": "n4-m6",
+      "title_en": "Sonkeigo: special verbs",
+      "title_id": "Sonkeigo: kata kerja khusus",
+      "grammar": [
+        "Kata kerja khusus sonkeigo (いらっしゃる, おっしゃる…)"
+      ],
+      "vocab_theme": "Bahasa hormat bisnis",
+      "kanji": [
+        "社",
+        "営"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 27,
+      "code": "L27",
+      "module": "n4-m6",
+      "title_en": "Kenjougo: special verbs",
+      "title_id": "Kenjougo: kata kerja khusus",
+      "grammar": [
+        "Kata kerja khusus kenjougo (申す, いたす, 拝見する…)"
+      ],
+      "vocab_theme": "Bahasa merendah bisnis",
+      "kanji": [
+        "業",
+        "株"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 28,
+      "code": "L28",
+      "module": "n4-m6",
+      "title_en": "〜てくださる & 〜ていただく",
+      "title_id": "〜てくださる & 〜ていただく",
+      "grammar": [
+        "〜てくださる",
+        "〜ていただく"
+      ],
+      "vocab_theme": "Permintaan dan terima kasih formal",
+      "kanji": [
+        "税",
+        "給",
+        "雇"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 29,
+      "code": "L29",
+      "module": "n4-m6",
+      "title_en": "Keigo on the phone",
+      "title_id": "Keigo di telepon",
+      "grammar": [
+        "Telepon bisnis"
+      ],
+      "vocab_theme": "Percakapan telepon",
+      "kanji": [
+        "収",
+        "支",
+        "召"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 30,
+      "code": "L30",
+      "module": "n4-m6",
+      "title_en": "Keigo in email and business",
+      "title_id": "Keigo di email dan bisnis",
+      "grammar": [
+        "Email bisnis",
+        "ご〜/お〜 + nomina"
+      ],
+      "vocab_theme": "Email dan dokumen kerja",
+      "kanji": [
+        "勤",
+        "退"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 31,
+      "code": "L31",
+      "module": "n4-m7",
+      "title_en": "It looks…: 〜そうだ (appearance)",
+      "title_id": "Kelihatannya: 〜そうだ",
+      "grammar": [
+        "〜そうだ (penampilan)"
+      ],
+      "vocab_theme": "Cuaca dan penampilan",
+      "kanji": [
+        "雪",
+        "雲",
+        "星",
+        "島",
+        "岸"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 32,
+      "code": "L32",
+      "module": "n4-m7",
+      "title_en": "I heard…: 〜そうだ (hearsay)",
+      "title_id": "Katanya: 〜そうだ",
+      "grammar": [
+        "〜そうだ (kabar)"
+      ],
+      "vocab_theme": "Kabar dan gosip",
+      "kanji": [
+        "波",
+        "岩",
+        "桜",
+        "梅"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 33,
+      "code": "L33",
+      "module": "n4-m7",
+      "title_en": "〜みたい & 〜らしい",
+      "title_id": "〜みたい & 〜らしい",
+      "grammar": [
+        "〜みたい",
+        "〜らしい"
+      ],
+      "vocab_theme": "Kesan dan ciri khas",
+      "kanji": [
+        "暖",
+        "涼",
+        "霧",
+        "涙",
+        "汗"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 34,
+      "code": "L34",
+      "module": "n4-m7",
+      "title_en": "〜ようだ & 〜はずだ",
+      "title_id": "〜ようだ & 〜はずだ",
+      "grammar": [
+        "〜ようだ",
+        "〜はずだ / 〜はずがない"
+      ],
+      "vocab_theme": "Kesimpulan dan keyakinan",
+      "kanji": [
+        "息",
+        "怒",
+        "悲",
+        "喜",
+        "恋"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 35,
+      "code": "L35",
+      "module": "n4-m7",
+      "title_en": "Should: 〜べきだ",
+      "title_id": "Seharusnya: 〜べきだ",
+      "grammar": [
+        "〜べきだ",
+        "〜ものだ"
+      ],
+      "vocab_theme": "Nasihat dan nilai",
+      "kanji": [
+        "愛",
+        "勇",
+        "肺",
+        "眠"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 36,
+      "code": "L36",
+      "module": "n4-m8",
+      "title_en": "Too much: 〜すぎる",
+      "title_id": "Terlalu: 〜すぎる",
+      "grammar": [
+        "〜すぎる (perluasan)"
+      ],
+      "vocab_theme": "Makanan dan kebiasaan",
+      "kanji": [
+        "飯",
+        "酒",
+        "塩",
+        "酢",
+        "寝",
+        "史",
+        "司",
+        "児",
+        "治",
+        "種",
+        "周",
+        "祝"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 37,
+      "code": "L37",
+      "module": "n4-m8",
+      "title_en": "Easy & hard: 〜やすい/〜にくい",
+      "title_id": "Mudah & sulit: 〜やすい/〜にくい",
+      "grammar": [
+        "〜やすい",
+        "〜にくい"
+      ],
+      "vocab_theme": "Alat dan pekerjaan rumah",
+      "kanji": [
+        "起",
+        "台",
+        "掃",
+        "除",
+        "鏡",
+        "順",
+        "初",
+        "所",
+        "署",
+        "助",
+        "昭",
+        "消"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 38,
+      "code": "L38",
+      "module": "n4-m8",
+      "title_en": "How to & direction: 〜方, 〜てくる/〜ていく",
+      "title_id": "Cara & arah: 〜方, 〜てくる/〜ていく",
+      "grammar": [
+        "〜方",
+        "〜てくる",
+        "〜ていく"
+      ],
+      "vocab_theme": "Petunjuk dan perjalanan",
+      "kanji": [
+        "験",
+        "査",
+        "報",
+        "刊",
+        "映",
+        "商",
+        "勝",
+        "乗",
+        "植",
+        "信",
+        "森",
+        "図",
+        "方"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 39,
+      "code": "L39",
+      "module": "n4-m8",
+      "title_en": "Just…: 〜ところ & 〜たばかり",
+      "title_id": "Pas…: 〜ところ & 〜たばかり",
+      "grammar": [
+        "〜ところ",
+        "〜たばかり"
+      ],
+      "vocab_theme": "Waktu yang presisi",
+      "kanji": [
+        "誌",
+        "典",
+        "試",
+        "章",
+        "節",
+        "吹",
+        "酔",
+        "数",
+        "世",
+        "接",
+        "折",
+        "設"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 40,
+      "code": "L40",
+      "module": "n4-m8",
+      "title_en": "Only… & while…: 〜ばかり, 〜うちに",
+      "title_id": "Hanya… & selagi…: 〜ばかり, 〜うちに",
+      "grammar": [
+        "〜ばかり",
+        "〜うちに"
+      ],
+      "vocab_theme": "Kesempatan dan keterbatasan",
+      "kanji": [
+        "航",
+        "船",
+        "陸",
+        "割",
+        "倍",
+        "戦",
+        "善",
+        "祖",
+        "素",
+        "倉",
+        "捜",
+        "展",
+        "訳",
+        "億",
+        "間"
+      ],
+      "duration_min": 15
+    },
+    {
+      "n": 41,
+      "code": "L41",
+      "module": "n4-m9",
+      "title_en": "Fast reading: notices & emails",
+      "title_id": "Baca cepat: pengumuman & email",
+      "grammar": [
+        "Drill retrieval berwaktu"
+      ],
+      "vocab_theme": "Pengumuman & email (daur ulang)",
+      "kanji": [],
+      "duration_min": 15
+    },
+    {
+      "n": 42,
+      "code": "L42",
+      "module": "n4-m9",
+      "title_en": "Fast reading: main idea",
+      "title_id": "Baca cepat: gagasan utama",
+      "grammar": [
+        "Gagasan utama teks sedang"
+      ],
+      "vocab_theme": "Artikel & jadwal (daur ulang)",
+      "kanji": [],
+      "duration_min": 15
+    },
+    {
+      "n": 43,
+      "code": "L43",
+      "module": "n4-m9",
+      "title_en": "Listening stamina (1)",
+      "title_id": "Stamina listening (1)",
+      "grammar": [
+        "Latihan putar-sekali"
+      ],
+      "vocab_theme": "Percakapan sehari-hari (daur ulang)",
+      "kanji": [],
+      "duration_min": 15
+    },
+    {
+      "n": 44,
+      "code": "L44",
+      "module": "n4-m9",
+      "title_en": "Listening stamina (2): distractors",
+      "title_id": "Stamina listening (2): distractor",
+      "grammar": [
+        "Opsi mirip bunyi & keigo salah arah"
+      ],
+      "vocab_theme": "Pasangan kata pengecoh",
+      "kanji": [],
+      "duration_min": 15
+    },
+    {
+      "n": 45,
+      "code": "L45",
+      "module": "n4-m9",
+      "title_en": "Half-mock and review",
+      "title_id": "Half-mock dan review",
+      "grammar": [
+        "Blok reading berwaktu"
+      ],
+      "vocab_theme": "Campuran semua seksi",
+      "kanji": [],
+      "duration_min": 20
+    },
+    {
+      "n": 46,
+      "code": "L46",
+      "module": "n4-m10",
+      "title_en": "Full mock 1 (Study mode)",
+      "title_id": "Full mock 1 (mode Study)",
+      "grammar": [
+        "Strategi mode Study"
+      ],
+      "vocab_theme": "Strategi ujian",
+      "kanji": [],
+      "duration_min": 20
+    },
+    {
+      "n": 47,
+      "code": "L47",
+      "module": "n4-m10",
+      "title_en": "Error clinic and repair",
+      "title_id": "Klinik kesalahan & perbaikan",
+      "grammar": [
+        "Analisis kesalahan per seksi"
+      ],
+      "vocab_theme": "Kata lemah pribadi",
+      "kanji": [],
+      "duration_min": 15
+    },
+    {
+      "n": 48,
+      "code": "L48",
+      "module": "n4-m10",
+      "title_en": "Full mock 2 (Real mode)",
+      "title_id": "Full mock 2 (mode Real)",
+      "grammar": [
+        "Checklist mode Real",
+        "kriteria N4-ready"
+      ],
+      "vocab_theme": "Simulasi penuh",
+      "kanji": [],
+      "duration_min": 20
+    },
+    {
+      "n": 49,
+      "code": "L49",
+      "module": "n4-m10",
+      "title_en": "Full mock 3 (Real mode) + official anchor",
+      "title_id": "Full mock 3 (mode Real) + jangkar resmi",
+      "grammar": [
+        "Benchmark contoh resmi JLPT"
+      ],
+      "vocab_theme": "Kalibrasi skor",
+      "kanji": [],
+      "duration_min": 20
+    },
+    {
+      "n": 50,
+      "code": "L50",
+      "module": "n4-m10",
+      "title_en": "Readiness check & exam-day plan",
+      "title_id": "Readiness check & rencana hari-H",
+      "grammar": [
+        "Checklist kesiapan",
+        "rencana hari-H"
+      ],
+      "vocab_theme": "Sapuan akhir frekuensi tinggi",
+      "kanji": [],
+      "duration_min": 20
+    }
+  ]
+}

@@ -1,0 +1,644 @@
+[
+ {
+  "id": "N5-G-m1q1",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "「ひこうきで国へ帰ります」— で menandai sarana transportasi."
+ },
+ {
+  "id": "N5-G-m1q2",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "「かばんやくつなど」— や untuk menyebut contoh barang (didukung など)."
+ },
+ {
+  "id": "N5-G-m1q3",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "「家を出ます」— を menandai titik berangkat (keluar dari rumah)."
+ },
+ {
+  "id": "N5-G-m1q4",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "「田中さんに会いました」— に untuk lawan bertemu."
+ },
+ {
+  "id": "N5-G-m1q5",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "「父が作りました」— が menandai pelaku pada klausa aktif."
+ },
+ {
+  "id": "N5-G-m1q6",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Prompt/choices korup: jawaban yang masuk akal (で, 'lima seharga ... yen') tidak ada di pilihan; 「円でした。」 malah masuk ke choices. Tidak bisa ditentukan."
+ },
+ {
+  "id": "N5-G-m1q7",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "「きのうは少し寒かったですが、今日は寒くないです」— は kontrastif di kedua klausa."
+ },
+ {
+  "id": "N5-G-m1q8",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "「海がきれいで、静かです」— bentuk-te きれいで untuk merangkai sifat."
+ },
+ {
+  "id": "N5-G-m1q9",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "「そこにあるカメラ」— そこ (di sana) + ある menerangkan kamera."
+ },
+ {
+  "id": "N5-G-m1q10",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "Menanyakan kesan: 「いかがでしたか」 (bagaimana?)."
+ },
+ {
+  "id": "N5-G-m1q11",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "「まだです。来週始まります」— belum mulai."
+ },
+ {
+  "id": "N5-G-m1q12",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "「また来てください」— datang lagi Senin depan."
+ },
+ {
+  "id": "N5-G-m1q13",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "～ながら menuntut bentuk-masu stem: 飲みながら."
+ },
+ {
+  "id": "N5-G-m1q14",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "「好きじゃありませんでした」— negatif lampau kata-sifat-na: じゃありません + でした."
+ },
+ {
+  "id": "N5-G-m1q15",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "Ajakan: 「キムさんも来ませんか」 (bagaimana kalau ikut?)."
+ },
+ {
+  "id": "N5-G-m2q16",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "「つぎの信号を右にまがってください」— ★ tepat sebelum まがって: 右に."
+ },
+ {
+  "id": "N5-G-m2q17",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Prompt korup (ada で liar dan noise header seksi); tidak bisa merekonstruksi kalimat dengan andal."
+ },
+ {
+  "id": "N5-G-m2q18",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Prompt korup (か liar, 駅の tidak bisa ditempatkan); tidak bisa direkonstruksi."
+ },
+ {
+  "id": "N4-V-m5q31",
+  "correct_answer": 2,
+  "confidence": "medium",
+  "rationale": "最近 dipakai benar hanya di 'きむらさんはさいきんけっこんしたそうです'. Pilihan 4 terpotong."
+ },
+ {
+  "id": "N4-V-m5q32",
+  "correct_answer": 2,
+  "confidence": "medium",
+  "rationale": "音 dipakai benar hanya di '大きなおとで名前をよばれました'; pilihan lain salah (おとがじょうず, ゆうめいなおと)."
+ },
+ {
+  "id": "N4-V-m5q33",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Record korup: prompt memakai けんがく (見学) tetapi choices tentang かざる (飾る) — tidak cocok."
+ },
+ {
+  "id": "N4-G-m1q1",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "「人と会話する」— と untuk lawan bercakap."
+ },
+ {
+  "id": "N4-G-m1q2",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "「両親を心配させる」— を untuk objek kausatif."
+ },
+ {
+  "id": "N4-G-m1q3",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "「八つも食べました」— も menekankan jumlah banyak."
+ },
+ {
+  "id": "N4-G-m1q4",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "Kalimat pasif: pelaku ditandai によって (外国人によって作られました)."
+ },
+ {
+  "id": "N4-G-m1q5",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "「だれでも使えます」— siapa pun boleh memakai."
+ },
+ {
+  "id": "N4-G-m1q6",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "Menanyakan cara: 「どうやって連絡しますか」."
+ },
+ {
+  "id": "N4-G-m1q7",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "「もうすぐ入学式です」— segera tiba."
+ },
+ {
+  "id": "N4-G-m1q8",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "「なかなか来なかった」— pola なかなか～ない."
+ },
+ {
+  "id": "N4-G-m1q9",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "「あさってならだいじょうぶ」— なら untuk 'kalau ..., maka'."
+ },
+ {
+  "id": "N4-G-m1q10",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "「夏休みの間」— の menghubungkan frasa waktu dengan 間."
+ },
+ {
+  "id": "N4-G-m1q11",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "「切るのに時間がかかりました」— のに untuk biaya/waktu yang diperlukan."
+ },
+ {
+  "id": "N4-G-m1q12",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "「遅れるかもしれません」— kemungkinan terlambat."
+ },
+ {
+  "id": "N4-G-m1q13",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "「空きそうです」— ～そうだ untuk dugaan dari penampilan (kursi akan kosong)."
+ },
+ {
+  "id": "N4-G-m1q14",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "Permintaan sopan: 「持ってきてもらえますか」."
+ },
+ {
+  "id": "N4-G-m2q15",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Prompt hanya berisi '置いた' — kalimat tidak bisa direkonstruksi."
+ },
+ {
+  "id": "N4-G-m2q16",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Prompt hanya '好きですが' — konteks hilang, tidak bisa direkonstruksi."
+ },
+ {
+  "id": "N4-G-m2q17",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "「見に行ったことがないので、ぜひ行きたいです」— ★ tepat sebelum です: ぜひ行きたい."
+ },
+ {
+  "id": "N4-R-m5q5",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Bacaan (passage) tidak ada di prompt — tidak bisa dijawab."
+ },
+ {
+  "id": "N4-R-m5q6",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Bacaan (passage) tidak ada di prompt — tidak bisa dijawab."
+ },
+ {
+  "id": "N4-R-m5q7",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Bacaan (passage) tidak ada di prompt — tidak bisa dijawab."
+ },
+ {
+  "id": "N4-R-m6q8",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Choices kosong semua (None) — tidak bisa dijawab."
+ },
+ {
+  "id": "N4-R-m6q9",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Choices rusak ('と', 'と と', ...) — tidak bisa dijawab."
+ },
+ {
+  "id": "N4-R-m6q10",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Prompt dan choices hanya fragmen iklan — tidak bisa dijawab."
+ },
+ {
+  "id": "N3-G-m1q1",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "「小説家として有名になった」— として = sebagai."
+ },
+ {
+  "id": "N3-G-m1q2",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "「表すとしたら」— pengandaian としたら."
+ },
+ {
+  "id": "N3-G-m1q3",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "「どうしても食べたくなって」— keinginan tak tertahankan."
+ },
+ {
+  "id": "N3-G-m1q4",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "「混ぜて焼くだけだから」— だけ = hanya/sekadar."
+ },
+ {
+  "id": "N3-G-m1q5",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "「夏祭りが行われます」— pasif untuk acara yang diadakan."
+ },
+ {
+  "id": "N3-G-m1q6",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "「少々お待ちください」— ungkapan tunggu sebentar."
+ },
+ {
+  "id": "N3-G-m1q7",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "Perkenalan diri di telepon: 「中田と申します」."
+ },
+ {
+  "id": "N3-G-m1q8",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "「持っていくことになっている」— aturan/kebiasaan yang berlaku."
+ },
+ {
+  "id": "N3-G-m1q9",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "「夜寝られないと困る」— syarat と: kalau tak bisa tidur malam akan repot."
+ },
+ {
+  "id": "N3-G-m1q10",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "「利用したくても利用できない」— ～ても: walaupun ingin."
+ },
+ {
+  "id": "N3-G-m1q11",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Tidak ada pilihan yang wajar (yang alami: 食べごろだ); jawaban yang dimaksud tidak bisa ditentukan."
+ },
+ {
+  "id": "N3-G-m1q12",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "Ajakan: 「先に行ってしまいましょうか」."
+ },
+ {
+  "id": "N3-G-m2q1",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "「研究をしている専門家でもなかなか見る機会がないそうだ」— ★ sebelum そうだ: 見る機会がない."
+ },
+ {
+  "id": "N3-G-m2q2",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "「勉強以外にも大学時代にしかできない経験」— ★ di awal blok: 勉強以外."
+ },
+ {
+  "id": "N3-G-m2q3",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "「どこにも出かけずに家で過ごすのが…過ごし方だ」— ★ sebelum 私の: のが."
+ },
+ {
+  "id": "N3-G-m2q4",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Potongan tidak bisa dirangkai menjadi kalimat gramatikal yang utuh (ada bagian hilang); tidak bisa ditentukan."
+ },
+ {
+  "id": "N3-R-m7q1",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Poster kebun binatang tidak ada di prompt — tidak bisa dijawab."
+ },
+ {
+  "id": "N3-R-m7q2",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Poster kebun binatang tidak ada di prompt — tidak bisa dijawab."
+ },
+ {
+  "id": "N3-R-m7q3",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Prompt/choices hanya fragmen poster yang rusak — tidak bisa dijawab."
+ },
+ {
+  "id": "N2-V-m2q1",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "まねく (mengundang) = 招く."
+ },
+ {
+  "id": "N2-V-m2q2",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "ほしょう (jaminan) = 保証."
+ },
+ {
+  "id": "N2-V-m2q3",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "もよおし (acara) = 催し."
+ },
+ {
+  "id": "N2-V-m2q4",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "こうか (koin) = 硬貨."
+ },
+ {
+  "id": "N2-V-m2q5",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "せいぞう (memproduksi) = 製造."
+ },
+ {
+  "id": "N2-V-m3q1",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "結婚観 (pandangan tentang pernikahan)."
+ },
+ {
+  "id": "N2-V-m3q2",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "高水準 (standar tinggi)."
+ },
+ {
+  "id": "N2-V-m3q3",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "日本式 (gaya Jepang)."
+ },
+ {
+  "id": "N2-V-m3q4",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "未使用 (belum dipakai)."
+ },
+ {
+  "id": "N2-V-m3q5",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "勉強漬け (tenggelam dalam belajar)."
+ },
+ {
+  "id": "N2-V-m4q1",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "「学習の場を提供する」— menyediakan."
+ },
+ {
+  "id": "N2-V-m4q2",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "疲れてぐったり — lemas kelelahan."
+ },
+ {
+  "id": "N2-V-m4q3",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "ショックだった — terkejut/kecewa."
+ },
+ {
+  "id": "N2-V-m4q4",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "通る人の邪魔になる — menghalangi."
+ },
+ {
+  "id": "N2-V-m4q5",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "坂がなだらかだった — tanjakan landai."
+ },
+ {
+  "id": "N2-V-m4q6",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "活発に意見を交換した — aktif."
+ },
+ {
+  "id": "N2-V-m4q7",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "強引に割り込んできた — menyerobot antrean."
+ },
+ {
+  "id": "N2-V-m5q1",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "愉快 = 面白い (menyenangkan/lucu)."
+ },
+ {
+  "id": "N2-V-m5q2",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "やむをえない = しかたない (tak terhindarkan)."
+ },
+ {
+  "id": "N2-V-m5q3",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "息抜き = 休んだ (istirahat sejenak)."
+ },
+ {
+  "id": "N2-V-m5q4",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "ついていた = 運がよかった (beruntung)."
+ },
+ {
+  "id": "N2-V-m5q5",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "つねに = いつも (selalu)."
+ },
+ {
+  "id": "N2-V-m6q1",
+  "correct_answer": 1,
+  "confidence": "medium",
+  "rationale": "延長 dipakai benar hanya di '出発が三日後に延長された'; pilihan 2 terpotong, 3-4 salah."
+ },
+ {
+  "id": "N2-V-m6q2",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "さびる (berkarat) hanya untuk logam: 鉄の棒がさびて茶色く."
+ },
+ {
+  "id": "N2-V-m6q3",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "目上 (atasan/orang yang kedudukannya di atas) benar hanya di kalimat 1."
+ },
+ {
+  "id": "N2-V-m6q4",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "大げさに言う (melebih-lebihkan) — benar hanya di kalimat 4."
+ },
+ {
+  "id": "N2-V-m6q5",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "反省 (introspeksi/menyesali kesalahan) benar hanya di kalimat 2."
+ },
+ {
+  "id": "N2-G-m7q1",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "「あきらめかけた」— ～かける menempel pada masu-stem."
+ },
+ {
+  "id": "N2-G-m7q2",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "「母の作ったハンバーグ」— の pada klausa relatif."
+ },
+ {
+  "id": "N2-G-m7q3",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "「現代社会において」— において = dalam/pada."
+ },
+ {
+  "id": "N2-G-m7q4",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "「たくさん書けばそのうちうまくなる」— sebelum lama akan."
+ },
+ {
+  "id": "N2-G-m7q5",
+  "correct_answer": 1,
+  "confidence": "high",
+  "rationale": "「選んだ以上」— karena/selama (alasan)."
+ },
+ {
+  "id": "N2-G-m7q6",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "Tamu (pihak luar) → sonkeigo: 中川様がお越しになりました."
+ },
+ {
+  "id": "N2-G-m7q7",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Prompt dan pilihan rusak (angka 233,600 terpotong, posisi blank tak jelas); tidak bisa ditentukan."
+ },
+ {
+  "id": "N2-G-m7q8",
+  "correct_answer": 2,
+  "confidence": "high",
+  "rationale": "「夢を語るだけなら誰でもできる」— だけなら = kalau sekadar."
+ },
+ {
+  "id": "N2-G-m7q9",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "「抜いてからにしてください」— pastikan mencabut dulu."
+ },
+ {
+  "id": "N2-G-m7q10",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "「スピーチをすることになってしまって」— akhirnya harus."
+ },
+ {
+  "id": "N2-G-m7q11",
+  "correct_answer": 3,
+  "confidence": "high",
+  "rationale": "「見られそうにない」— tampaknya tak bisa melihat."
+ },
+ {
+  "id": "N2-G-m7q12",
+  "correct_answer": 4,
+  "confidence": "high",
+  "rationale": "「毎日ジョギングしてるんだって?」— konfirmasi kabar yang didengar."
+ },
+ {
+  "id": "N1-R-m8q1",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Teks bacaan tidak ada di prompt — tidak bisa dijawab."
+ },
+ {
+  "id": "N1-R-m8q2",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Pengumuman terpotong dan choices rusak — tidak bisa dijawab."
+ },
+ {
+  "id": "N1-R-m8q3",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Pengumuman terpotong dan semua pilihan terpotong — tidak bisa dijawab."
+ },
+ {
+  "id": "N1-R-m8q4",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Teks bacaan tidak ada di prompt — tidak bisa dijawab."
+ },
+ {
+  "id": "N1-R-m8q5",
+  "correct_answer": null,
+  "confidence": "low",
+  "rationale": "Teks bacaan tidak ada di prompt — tidak bisa dijawab."
+ }
+]

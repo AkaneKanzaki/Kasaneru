@@ -1,0 +1,7217 @@
+[
+ {
+  "word": "残る",
+  "reading": "のこる",
+  "meaning_id": "tersisa",
+  "meaning_en": "remain, be left over",
+  "pos": "verb-g1",
+  "example": "ごはんが すこし 残りました。(Nasi sedikit tersisa.)",
+  "tags": [
+   "n4-m1",
+   "kemampuan-dan-kegiatan",
+   "L01"
+  ],
+  "module": "n4-m1",
+  "example_en": "ごはんが すこし 残りました。(A little rice was left over.)"
+ },
+ {
+  "word": "辞める",
+  "reading": "やめる",
+  "meaning_id": "berhenti dari pekerjaan; mengundurkan diri",
+  "meaning_en": "resign, quit a job",
+  "pos": "verb-g2",
+  "example": "かれは しごとを 辞めました。(Dia berhenti dari pekerjaannya.)",
+  "tags": [
+   "n4-m1",
+   "kemampuan-dan-kegiatan",
+   "L01"
+  ],
+  "module": "n4-m1",
+  "example_en": "かれは しごとを 辞めました。(He quit his job.)"
+ },
+ {
+  "word": "始める",
+  "reading": "はじめる",
+  "meaning_id": "memulai",
+  "meaning_en": "begin, start",
+  "pos": "verb-g2",
+  "example": "にほんごの べんきょうを 始めます。(Saya mulai belajar bahasa Jepang.)",
+  "tags": [
+   "n4-m1",
+   "kemampuan-dan-kegiatan",
+   "L01"
+  ],
+  "module": "n4-m1",
+  "example_en": "にほんごの べんきょうを 始めます。(I'll start studying Japanese.)"
+ },
+ {
+  "word": "かりる",
+  "reading": "かりる",
+  "meaning_id": "meminjam (dari orang lain)",
+  "meaning_en": "borrow",
+  "pos": "verb-g2",
+  "example": "ともだちに ほんを かりました。(Saya meminjam buku dari teman.)",
+  "tags": [
+   "n4-m1",
+   "kemampuan-dan-kegiatan",
+   "L01"
+  ],
+  "module": "n4-m1",
+  "example_en": "ともだちに ほんを かりました。(I borrowed a book from a friend.)"
+ },
+ {
+  "word": "しらべる",
+  "reading": "しらべる",
+  "meaning_id": "mencari tahu; menyelidiki",
+  "meaning_en": "look up, investigate",
+  "pos": "verb-g2",
+  "example": "じしょで ことばの いみを しらべます。(Saya mencari tahu arti kata di kamus.)",
+  "tags": [
+   "n4-m1",
+   "kemampuan-dan-kegiatan",
+   "L01"
+  ],
+  "module": "n4-m1",
+  "example_en": "じしょで ことばの いみを しらべます。(I look up the meaning of words in the dictionary.)"
+ },
+ {
+  "word": "たべもの",
+  "reading": "たべもの",
+  "meaning_id": "makanan",
+  "meaning_en": "food",
+  "pos": "noun",
+  "example": "にほんの たべものが すきです。(Saya suka makanan Jepang.)",
+  "tags": [
+   "n4-m1",
+   "kemampuan-dan-kegiatan",
+   "L01"
+  ],
+  "module": "n4-m1",
+  "example_en": "にほんの たべものが すきです。(I like Japanese food.)"
+ },
+ {
+  "word": "うた",
+  "reading": "うた",
+  "meaning_id": "lagu",
+  "meaning_en": "song",
+  "pos": "noun",
+  "example": "この うたが すきです。(Saya suka lagu ini.)",
+  "tags": [
+   "n4-m1",
+   "kemampuan-dan-kegiatan",
+   "L01"
+  ],
+  "module": "n4-m1",
+  "example_en": "この うたが すきです。(I like this song.)"
+ },
+ {
+  "word": "ドア",
+  "reading": "ドア",
+  "meaning_id": "pintu",
+  "meaning_en": "door",
+  "pos": "noun",
+  "example": "ドアを しめて ください。(Tolong tutup pintu.)",
+  "tags": [
+   "n4-m1",
+   "kemampuan-dan-kegiatan",
+   "L01"
+  ],
+  "module": "n4-m1",
+  "example_en": "ドアを しめて ください。(Please close the door.)"
+ },
+ {
+  "word": "終わる",
+  "reading": "おわる",
+  "meaning_id": "selesai; berakhir",
+  "meaning_en": "finish, end",
+  "pos": "verb-g1",
+  "example": "しけんが 終わりました。(Ujian sudah selesai.)",
+  "tags": [
+   "n4-m1",
+   "kemampuan-dan-kegiatan-2",
+   "L02"
+  ],
+  "module": "n4-m1",
+  "example_en": "しけんが 終わりました。(The exam is over.)"
+ },
+ {
+  "word": "選ぶ",
+  "reading": "えらぶ",
+  "meaning_id": "memilih",
+  "meaning_en": "choose",
+  "pos": "verb-g1",
+  "example": "あかい ぼうしを 選びます。(Saya memilih topi merah.)",
+  "tags": [
+   "n4-m1",
+   "kemampuan-dan-kegiatan-2",
+   "L02"
+  ],
+  "module": "n4-m1",
+  "example_en": "あかい ぼうしを 選びます。(I'll choose the red hat.)"
+ },
+ {
+  "word": "探す",
+  "reading": "さがす",
+  "meaning_id": "mencari",
+  "meaning_en": "search, look for",
+  "pos": "verb-g1",
+  "example": "かばんの なかで かぎを 探します。(Saya mencari kunci di dalam tas.)",
+  "tags": [
+   "n4-m1",
+   "kemampuan-dan-kegiatan-2",
+   "L02"
+  ],
+  "module": "n4-m1",
+  "example_en": "かばんの なかで かぎを 探します。(I'm looking for the key inside my bag.)"
+ },
+ {
+  "word": "できる",
+  "reading": "できる",
+  "meaning_id": "bisa; mampu",
+  "meaning_en": "be able to",
+  "pos": "verb-g2",
+  "example": "にほんごが すこし できます。(Saya bisa sedikit bahasa Jepang.)",
+  "tags": [
+   "n4-m1",
+   "kemampuan-dan-kegiatan-2",
+   "L02"
+  ],
+  "module": "n4-m1",
+  "example_en": "にほんごが すこし できます。(I can speak a little Japanese.)"
+ },
+ {
+  "word": "こられる",
+  "reading": "こられる",
+  "meaning_id": "bisa datang",
+  "meaning_en": "be able to come",
+  "pos": "verb-g2",
+  "example": "あした うちに こられますか。(Apakah besok bisa datang ke rumah saya?)",
+  "tags": [
+   "n4-m1",
+   "kemampuan-dan-kegiatan-2",
+   "L02"
+  ],
+  "module": "n4-m1",
+  "example_en": "あした うちに こられますか。(Can you come to my house tomorrow?)"
+ },
+ {
+  "word": "うたう",
+  "reading": "うたう",
+  "meaning_id": "bernyanyi",
+  "meaning_en": "sing",
+  "pos": "verb-g1",
+  "example": "おふろで うたを うたいます。(Saya bernyanyi di kamar mandi.)",
+  "tags": [
+   "n4-m1",
+   "kemampuan-dan-kegiatan-2",
+   "L02"
+  ],
+  "module": "n4-m1",
+  "example_en": "おふろで うたを うたいます。(I sing in the bath.)"
+ },
+ {
+  "word": "おどる",
+  "reading": "おどる",
+  "meaning_id": "menari",
+  "meaning_en": "dance",
+  "pos": "verb-g1",
+  "example": "みんなで おどります。(Kami menari bersama.)",
+  "tags": [
+   "n4-m1",
+   "kemampuan-dan-kegiatan-2",
+   "L02"
+  ],
+  "module": "n4-m1",
+  "example_en": "みんなで おどります。(We'll all dance together.)"
+ },
+ {
+  "word": "つかう",
+  "reading": "つかう",
+  "meaning_id": "memakai; menggunakan",
+  "meaning_en": "use",
+  "pos": "verb-g1",
+  "example": "この カメラを つかいます。(Saya memakai kamera ini.)",
+  "tags": [
+   "n4-m1",
+   "kemampuan-dan-kegiatan-2",
+   "L02"
+  ],
+  "module": "n4-m1",
+  "example_en": "この カメラを つかいます。(I'll use this camera.)"
+ },
+ {
+  "word": "しゅみ",
+  "reading": "しゅみ",
+  "meaning_id": "hobi",
+  "meaning_en": "hobby",
+  "pos": "noun",
+  "example": "しゅみは どくしょです。(Hobi saya membaca buku.)",
+  "tags": [
+   "n4-m1",
+   "kemampuan-dan-kegiatan-2",
+   "L02"
+  ],
+  "module": "n4-m1",
+  "example_en": "しゅみは どくしょです。(My hobby is reading.)"
+ },
+ {
+  "word": "拾う",
+  "reading": "ひろう",
+  "meaning_id": "memungut",
+  "meaning_en": "pick up",
+  "pos": "verb-g1",
+  "example": "みちで かねを 拾いました。(Saya memungut uang di jalan.)",
+  "tags": [
+   "n4-m1",
+   "kegiatan-ganda",
+   "L03"
+  ],
+  "module": "n4-m1",
+  "example_en": "みちで かねを 拾いました。(I picked up some money on the road.)"
+ },
+ {
+  "word": "捨てる",
+  "reading": "すてる",
+  "meaning_id": "membuang",
+  "meaning_en": "throw away",
+  "pos": "verb-g2",
+  "example": "ごみを 捨てます。(Saya membuang sampah.)",
+  "tags": [
+   "n4-m1",
+   "kegiatan-ganda",
+   "L03"
+  ],
+  "module": "n4-m1",
+  "example_en": "ごみを 捨てます。(I'll throw away the trash.)"
+ },
+ {
+  "word": "払う",
+  "reading": "はらう",
+  "meaning_id": "membayar",
+  "meaning_en": "pay",
+  "pos": "verb-g1",
+  "example": "レジで おかねを 払います。(Saya membayar uang di kasir.)",
+  "tags": [
+   "n4-m1",
+   "kegiatan-ganda",
+   "L03"
+  ],
+  "module": "n4-m1",
+  "example_en": "レジで おかねを 払います。(I'll pay at the register.)"
+ },
+ {
+  "word": "さんぽする",
+  "reading": "さんぽする",
+  "meaning_id": "berjalan-jalan",
+  "meaning_en": "take a walk",
+  "pos": "verb-g3",
+  "example": "こうえんで さんぽします。(Saya berjalan-jalan di taman.)",
+  "tags": [
+   "n4-m1",
+   "kegiatan-ganda",
+   "L03"
+  ],
+  "module": "n4-m1",
+  "example_en": "こうえんで さんぽします。(I'll take a walk in the park.)"
+ },
+ {
+  "word": "べんきょうする",
+  "reading": "べんきょうする",
+  "meaning_id": "belajar",
+  "meaning_en": "study",
+  "pos": "verb-g3",
+  "example": "にほんごを べんきょうします。(Saya belajar bahasa Jepang.)",
+  "tags": [
+   "n4-m1",
+   "kegiatan-ganda",
+   "L03"
+  ],
+  "module": "n4-m1",
+  "example_en": "にほんごを べんきょうします。(I'll study Japanese.)"
+ },
+ {
+  "word": "しんぶん",
+  "reading": "しんぶん",
+  "meaning_id": "koran",
+  "meaning_en": "newspaper",
+  "pos": "noun",
+  "example": "まいあさ しんぶんを よみます。(Setiap pagi saya membaca koran.)",
+  "tags": [
+   "n4-m1",
+   "kegiatan-ganda",
+   "L03"
+  ],
+  "module": "n4-m1",
+  "example_en": "まいあさ しんぶんを よみます。(I read the newspaper every morning.)"
+ },
+ {
+  "word": "ごみ",
+  "reading": "ごみ",
+  "meaning_id": "sampah",
+  "meaning_en": "garbage",
+  "pos": "noun",
+  "example": "ごみを ごみばこに いれます。(Saya memasukkan sampah ke tempat sampah.)",
+  "tags": [
+   "n4-m1",
+   "kegiatan-ganda",
+   "L03"
+  ],
+  "module": "n4-m1",
+  "example_en": "ごみを ごみばこに いれます。(I put the trash in the trash can.)"
+ },
+ {
+  "word": "届く",
+  "reading": "とどく",
+  "meaning_id": "sampai; terkirim",
+  "meaning_en": "arrive, be delivered",
+  "pos": "verb-g1",
+  "example": "てがみが 届きました。(Surat sudah sampai.)",
+  "tags": [
+   "n4-m1",
+   "alasan-dan-keluhan",
+   "L04"
+  ],
+  "module": "n4-m1",
+  "example_en": "てがみが 届きました。(The letter has arrived.)"
+ },
+ {
+  "word": "追いかける",
+  "reading": "おいかける",
+  "meaning_id": "mengejar",
+  "meaning_en": "chase",
+  "pos": "verb-g2",
+  "example": "いぬが ねこを 追いかけます。(Anjing mengejar kucing.)",
+  "tags": [
+   "n4-m1",
+   "alasan-dan-keluhan",
+   "L04"
+  ],
+  "module": "n4-m1",
+  "example_en": "いぬが ねこを 追いかけます。(The dog chases the cat.)"
+ },
+ {
+  "word": "逃げる",
+  "reading": "にげる",
+  "meaning_id": "kabur; melarikan diri",
+  "meaning_en": "run away, escape",
+  "pos": "verb-g2",
+  "example": "とりが にげました。(Burung itu kabur.)",
+  "tags": [
+   "n4-m1",
+   "alasan-dan-keluhan",
+   "L04"
+  ],
+  "module": "n4-m1",
+  "example_en": "とりが にげました。(The bird flew away.)"
+ },
+ {
+  "word": "うるさい",
+  "reading": "うるさい",
+  "meaning_id": "berisik",
+  "meaning_en": "noisy",
+  "pos": "i-adj",
+  "example": "この みせは うるさいです。(Toko ini berisik.)",
+  "tags": [
+   "n4-m1",
+   "alasan-dan-keluhan",
+   "L04"
+  ],
+  "module": "n4-m1",
+  "example_en": "この みせは うるさいです。(This shop is noisy.)"
+ },
+ {
+  "word": "しずかだ",
+  "reading": "しずかだ",
+  "meaning_id": "tenang",
+  "meaning_en": "quiet",
+  "pos": "na-adj",
+  "example": "としょかんは しずかです。(Perpustakaan itu tenang.)",
+  "tags": [
+   "n4-m1",
+   "alasan-dan-keluhan",
+   "L04"
+  ],
+  "module": "n4-m1",
+  "example_en": "としょかんは しずかです。(The library is quiet.)"
+ },
+ {
+  "word": "べんりだ",
+  "reading": "べんりだ",
+  "meaning_id": "praktis",
+  "meaning_en": "convenient",
+  "pos": "na-adj",
+  "example": "この えきは べんりです。(Stasiun ini praktis.)",
+  "tags": [
+   "n4-m1",
+   "alasan-dan-keluhan",
+   "L04"
+  ],
+  "module": "n4-m1",
+  "example_en": "この えきは べんりです。(This station is convenient.)"
+ },
+ {
+  "word": "ふべんだ",
+  "reading": "ふべんだ",
+  "meaning_id": "tidak praktis",
+  "meaning_en": "inconvenient",
+  "pos": "na-adj",
+  "example": "ここは ふべんです。(Tempat ini tidak praktis.)",
+  "tags": [
+   "n4-m1",
+   "alasan-dan-keluhan",
+   "L04"
+  ],
+  "module": "n4-m1",
+  "example_en": "ここは ふべんです。(This place is inconvenient.)"
+ },
+ {
+  "word": "こまる",
+  "reading": "こまる",
+  "meaning_id": "kesulitan; repot",
+  "meaning_en": "be troubled",
+  "pos": "verb-g1",
+  "example": "おかねが なくて こまります。(Saya repot karena tidak punya uang.)",
+  "tags": [
+   "n4-m1",
+   "alasan-dan-keluhan",
+   "L04"
+  ],
+  "module": "n4-m1",
+  "example_en": "おかねが なくて こまります。(I'm in trouble because I don't have any money.)"
+ },
+ {
+  "word": "ざんねんだ",
+  "reading": "ざんねんだ",
+  "meaning_id": "disayangkan",
+  "meaning_en": "regrettable",
+  "pos": "na-adj",
+  "example": "あしたの パーティーに いけなくて、ざんねんです。(Saya tidak bisa pergi ke pesta besok, sayang sekali.)",
+  "tags": [
+   "n4-m1",
+   "alasan-dan-keluhan",
+   "L04"
+  ],
+  "module": "n4-m1",
+  "example_en": "あしたの パーティーに いけなくて、ざんねんです。(It's a shame I can't go to tomorrow's party.)"
+ },
+ {
+  "word": "洗う",
+  "reading": "あらう",
+  "meaning_id": "mencuci",
+  "meaning_en": "wash",
+  "pos": "verb-g1",
+  "example": "てを あらいます。(Saya mencuci tangan.)",
+  "tags": [
+   "n4-m1",
+   "akhir-pekan-dan-rutinitas",
+   "L05"
+  ],
+  "module": "n4-m1",
+  "example_en": "てを あらいます。(I'll wash my hands.)"
+ },
+ {
+  "word": "売る",
+  "reading": "うる",
+  "meaning_id": "menjual",
+  "meaning_en": "sell",
+  "pos": "verb-g1",
+  "example": "この みせは パンを うります。(Toko ini menjual roti.)",
+  "tags": [
+   "n4-m1",
+   "akhir-pekan-dan-rutinitas",
+   "L05"
+  ],
+  "module": "n4-m1",
+  "example_en": "この みせは パンを うります。(This shop sells bread.)"
+ },
+ {
+  "word": "貸す",
+  "reading": "かす",
+  "meaning_id": "meminjamkan",
+  "meaning_en": "lend",
+  "pos": "verb-g1",
+  "example": "ともだちに ほんを かします。(Saya meminjamkan buku kepada teman.)",
+  "tags": [
+   "n4-m1",
+   "akhir-pekan-dan-rutinitas",
+   "L05"
+  ],
+  "module": "n4-m1",
+  "example_en": "ともだちに ほんを かします。(I'll lend a book to my friend.)"
+ },
+ {
+  "word": "贈る",
+  "reading": "おくる",
+  "meaning_id": "memberi hadiah",
+  "meaning_en": "give a gift",
+  "pos": "verb-g1",
+  "example": "ははに プレゼントを おくります。(Saya memberi hadiah kepada ibu.)",
+  "tags": [
+   "n4-m1",
+   "akhir-pekan-dan-rutinitas",
+   "L05"
+  ],
+  "module": "n4-m1",
+  "example_en": "ははに プレゼントを おくります。(I'll give my mother a present.)"
+ },
+ {
+  "word": "かいものする",
+  "reading": "かいものする",
+  "meaning_id": "berbelanja",
+  "meaning_en": "go shopping",
+  "pos": "verb-g3",
+  "example": "デパートで かいものします。(Saya berbelanja di department store.)",
+  "tags": [
+   "n4-m1",
+   "akhir-pekan-dan-rutinitas",
+   "L05"
+  ],
+  "module": "n4-m1",
+  "example_en": "デパートで かいものします。(I'll go shopping at the department store.)"
+ },
+ {
+  "word": "くるま",
+  "reading": "くるま",
+  "meaning_id": "mobil",
+  "meaning_en": "car",
+  "pos": "noun",
+  "example": "くるまで いきます。(Saya pergi dengan mobil.)",
+  "tags": [
+   "n4-m1",
+   "akhir-pekan-dan-rutinitas",
+   "L05"
+  ],
+  "module": "n4-m1",
+  "example_en": "くるまで いきます。(I'll go by car.)"
+ },
+ {
+  "word": "プレゼント",
+  "reading": "プレゼント",
+  "meaning_id": "hadiah",
+  "meaning_en": "present, gift",
+  "pos": "noun",
+  "example": "プレゼントを もらいました。(Saya menerima hadiah.)",
+  "tags": [
+   "n4-m1",
+   "akhir-pekan-dan-rutinitas",
+   "L05"
+  ],
+  "module": "n4-m1",
+  "example_en": "プレゼントを もらいました。(I received a present.)"
+ },
+ {
+  "word": "申す",
+  "reading": "もうす",
+  "meaning_id": "berkata (rendah hati)",
+  "meaning_en": "say (humble)",
+  "pos": "verb-g1",
+  "example": "わたしは たなかと 申します。(Saya bernama Tanaka.)",
+  "tags": [
+   "n4-m2",
+   "membantu-dan-memberi",
+   "L06"
+  ],
+  "module": "n4-m2",
+  "example_en": "わたしは たなかと 申します。(My name is Tanaka.)"
+ },
+ {
+  "word": "拝む",
+  "reading": "おがむ",
+  "meaning_id": "menyembah; berdoa",
+  "meaning_en": "pray, worship",
+  "pos": "verb-g1",
+  "example": "てらで おがみます。(Saya berdoa di kuil.)",
+  "tags": [
+   "n4-m2",
+   "membantu-dan-memberi",
+   "L06"
+  ],
+  "module": "n4-m2",
+  "example_en": "てらで おがみます。(I pray at the temple.)"
+ },
+ {
+  "word": "あげる",
+  "reading": "あげる",
+  "meaning_id": "memberi (kepada orang lain)",
+  "meaning_en": "give",
+  "pos": "verb-g2",
+  "example": "ともだちに プレゼントを あげます。(Saya memberi hadiah kepada teman.)",
+  "tags": [
+   "n4-m2",
+   "membantu-dan-memberi",
+   "L06"
+  ],
+  "module": "n4-m2",
+  "example_en": "ともだちに プレゼントを あげます。(I'll give my friend a present.)"
+ },
+ {
+  "word": "てつだう",
+  "reading": "てつだう",
+  "meaning_id": "membantu",
+  "meaning_en": "help",
+  "pos": "verb-g1",
+  "example": "ははを てつだいます。(Saya membantu ibu.)",
+  "tags": [
+   "n4-m2",
+   "membantu-dan-memberi",
+   "L06"
+  ],
+  "module": "n4-m2",
+  "example_en": "ははを てつだいます。(I help my mother.)"
+ },
+ {
+  "word": "かす",
+  "reading": "かす",
+  "meaning_id": "meminjamkan",
+  "meaning_en": "lend",
+  "pos": "verb-g1",
+  "example": "ともだちに かさを かして あげました。(Saya meminjamkan payung kepada teman.)",
+  "tags": [
+   "n4-m2",
+   "membantu-dan-memberi",
+   "L06"
+  ],
+  "module": "n4-m2",
+  "example_en": "ともだちに かさを かして あげました。(I lent an umbrella to my friend.)"
+ },
+ {
+  "word": "おくる",
+  "reading": "おくる",
+  "meaning_id": "mengantar; mengirim",
+  "meaning_en": "see off, send",
+  "pos": "verb-g1",
+  "example": "ともだちを えきまで おくって あげました。(Saya mengantar teman sampai stasiun.)",
+  "tags": [
+   "n4-m2",
+   "membantu-dan-memberi",
+   "L06"
+  ],
+  "module": "n4-m2",
+  "example_en": "ともだちを えきまで おくって あげました。(I saw my friend off to the station.)"
+ },
+ {
+  "word": "よぶ",
+  "reading": "よぶ",
+  "meaning_id": "memanggil; mengundang",
+  "meaning_en": "call, invite",
+  "pos": "verb-g1",
+  "example": "ともだちを パーティーに よびます。(Saya mengundang teman ke pesta.)",
+  "tags": [
+   "n4-m2",
+   "membantu-dan-memberi",
+   "L06"
+  ],
+  "module": "n4-m2",
+  "example_en": "ともだちを パーティーに よびます。(I'll invite my friend to the party.)"
+ },
+ {
+  "word": "にもつ",
+  "reading": "にもつ",
+  "meaning_id": "barang bawaan",
+  "meaning_en": "luggage",
+  "pos": "noun",
+  "example": "にもつが おもいです。(Barang bawaannya berat.)",
+  "tags": [
+   "n4-m2",
+   "membantu-dan-memberi",
+   "L06"
+  ],
+  "module": "n4-m2",
+  "example_en": "にもつが おもいです。(The luggage is heavy.)"
+ },
+ {
+  "word": "参る",
+  "reading": "まいる",
+  "meaning_id": "datang; pergi (rendah hati)",
+  "meaning_en": "come, go (humble)",
+  "pos": "verb-g1",
+  "example": "あした とうきょうに 参ります。(Besok saya pergi ke Tokyo.)",
+  "tags": [
+   "n4-m2",
+   "kebaikan-orang-lain",
+   "L07"
+  ],
+  "module": "n4-m2",
+  "example_en": "あした とうきょうに 参ります。(Tomorrow I'll go to Tokyo.)"
+ },
+ {
+  "word": "存じる",
+  "reading": "ぞんじる",
+  "meaning_id": "tahu (rendah hati)",
+  "meaning_en": "know (humble)",
+  "pos": "verb-g2",
+  "example": "わたしは かれの なまえを 存じません。(Saya tidak tahu namanya.)",
+  "tags": [
+   "n4-m2",
+   "kebaikan-orang-lain",
+   "L07"
+  ],
+  "module": "n4-m2",
+  "example_en": "わたしは かれの なまえを 存じません。(I don't know his name.)"
+ },
+ {
+  "word": "くれる",
+  "reading": "くれる",
+  "meaning_id": "memberi (kepada saya)",
+  "meaning_en": "give (to me)",
+  "pos": "verb-g2",
+  "example": "ともだちが ほんを くれました。(Teman memberi saya buku.)",
+  "tags": [
+   "n4-m2",
+   "kebaikan-orang-lain",
+   "L07"
+  ],
+  "module": "n4-m2",
+  "example_en": "ともだちが ほんを くれました。(My friend gave me a book.)"
+ },
+ {
+  "word": "もらう",
+  "reading": "もらう",
+  "meaning_id": "menerima",
+  "meaning_en": "receive",
+  "pos": "verb-g1",
+  "example": "ともだちに プレゼントを もらいました。(Saya menerima hadiah dari teman.)",
+  "tags": [
+   "n4-m2",
+   "kebaikan-orang-lain",
+   "L07"
+  ],
+  "module": "n4-m2",
+  "example_en": "ともだちに プレゼントを もらいました。(I received a present from my friend.)"
+ },
+ {
+  "word": "なおす",
+  "reading": "なおす",
+  "meaning_id": "memperbaiki",
+  "meaning_en": "repair",
+  "pos": "verb-g1",
+  "example": "ちちが こわれた とけいを なおして くれました。(Ayah memperbaiki jam yang rusak untuk saya.)",
+  "tags": [
+   "n4-m2",
+   "kebaikan-orang-lain",
+   "L07"
+  ],
+  "module": "n4-m2",
+  "example_en": "ちちが こわれた とけいを なおして くれました。(My father fixed the broken watch for me.)"
+ },
+ {
+  "word": "とどける",
+  "reading": "とどける",
+  "meaning_id": "mengantarkan",
+  "meaning_en": "deliver",
+  "pos": "verb-g2",
+  "example": "てがみを とどけます。(Saya mengantarkan surat.)",
+  "tags": [
+   "n4-m2",
+   "kebaikan-orang-lain",
+   "L07"
+  ],
+  "module": "n4-m2",
+  "example_en": "てがみを とどけます。(I'll deliver the letter.)"
+ },
+ {
+  "word": "敬う",
+  "reading": "うやまう",
+  "meaning_id": "menghormati",
+  "meaning_en": "respect",
+  "pos": "verb-g1",
+  "example": "せんせいを 敬います。(Saya menghormati guru.)",
+  "tags": [
+   "n4-m2",
+   "meminta-bantuan",
+   "L08"
+  ],
+  "module": "n4-m2",
+  "example_en": "せんせいを 敬います。(I respect my teacher.)"
+ },
+ {
+  "word": "誠",
+  "reading": "まこと",
+  "meaning_id": "ketulusan",
+  "meaning_en": "sincerity",
+  "pos": "noun",
+  "example": "誠を もって はたらきます。(Saya bekerja dengan ketulusan.)",
+  "tags": [
+   "n4-m2",
+   "meminta-bantuan",
+   "L08"
+  ],
+  "module": "n4-m2",
+  "example_en": "誠を もって はたらきます。(I work with sincerity.)"
+ },
+ {
+  "word": "たのむ",
+  "reading": "たのむ",
+  "meaning_id": "meminta tolong",
+  "meaning_en": "ask a favor",
+  "pos": "verb-g1",
+  "example": "ともだちに てつだいを たのみました。(Saya meminta bantuan kepada teman.)",
+  "tags": [
+   "n4-m2",
+   "meminta-bantuan",
+   "L08"
+  ],
+  "module": "n4-m2",
+  "example_en": "ともだちに てつだいを たのみました。(I asked my friend for help.)"
+ },
+ {
+  "word": "レポート",
+  "reading": "レポート",
+  "meaning_id": "laporan",
+  "meaning_en": "report",
+  "pos": "noun",
+  "example": "レポートを かきました。(Saya menulis laporan.)",
+  "tags": [
+   "n4-m2",
+   "meminta-bantuan",
+   "L08"
+  ],
+  "module": "n4-m2",
+  "example_en": "レポートを かきました。(I wrote a report.)"
+ },
+ {
+  "word": "伺う",
+  "reading": "うかがう",
+  "meaning_id": "berkunjung; bertanya (rendah hati)",
+  "meaning_en": "visit, ask (humble)",
+  "pos": "verb-g1",
+  "example": "あした かいしゃに 伺います。(Besok saya akan berkunjung ke perusahaan.)",
+  "tags": [
+   "n4-m2",
+   "bahasa-sopan-dasar",
+   "L09"
+  ],
+  "module": "n4-m2",
+  "example_en": "あした かいしゃに 伺います。(Tomorrow I will visit your company.)"
+ },
+ {
+  "word": "致す",
+  "reading": "いたす",
+  "meaning_id": "melakukan (rendah hati)",
+  "meaning_en": "do (humble)",
+  "pos": "verb-g1",
+  "example": "わたしが でんわ 致します。(Saya yang akan menelepon.)",
+  "tags": [
+   "n4-m2",
+   "bahasa-sopan-dasar",
+   "L09"
+  ],
+  "module": "n4-m2",
+  "example_en": "わたしが でんわ 致します。(I'll make the call myself.)"
+ },
+ {
+  "word": "けんきょだ",
+  "reading": "けんきょだ",
+  "meaning_id": "rendah hati",
+  "meaning_en": "humble, modest",
+  "pos": "na-adj",
+  "example": "かれは けんきょな ひとです。(Dia orang yang rendah hati.)",
+  "tags": [
+   "n4-m2",
+   "bahasa-sopan-dasar",
+   "L09"
+  ],
+  "module": "n4-m2",
+  "example_en": "かれは けんきょな ひとです。(He is a humble person.)"
+ },
+ {
+  "word": "いらっしゃる",
+  "reading": "いらっしゃる",
+  "meaning_id": "datang; pergi; ada (hormat)",
+  "meaning_en": "come, go, be (honorific)",
+  "pos": "verb-g1",
+  "example": "せんせいが いらっしゃいました。(Guru datang.)",
+  "tags": [
+   "n4-m2",
+   "bahasa-sopan-dasar",
+   "L09"
+  ],
+  "module": "n4-m2",
+  "example_en": "せんせいが いらっしゃいました。(The teacher has come.)"
+ },
+ {
+  "word": "おっしゃる",
+  "reading": "おっしゃる",
+  "meaning_id": "berkata (hormat)",
+  "meaning_en": "say (honorific)",
+  "pos": "verb-g1",
+  "example": "しゃちょうが おっしゃいました。(Direktur berkata.)",
+  "tags": [
+   "n4-m2",
+   "bahasa-sopan-dasar",
+   "L09"
+  ],
+  "module": "n4-m2",
+  "example_en": "しゃちょうが おっしゃいました。(The company president said so.)"
+ },
+ {
+  "word": "けいご",
+  "reading": "けいご",
+  "meaning_id": "bahasa sopan",
+  "meaning_en": "polite language, keigo",
+  "pos": "noun",
+  "example": "にほんごの けいごは むずかしいです。(Keigo bahasa Jepang itu sulit.)",
+  "tags": [
+   "n4-m2",
+   "bahasa-sopan-dasar",
+   "L09"
+  ],
+  "module": "n4-m2",
+  "example_en": "にほんごの けいごは むずかしいです。(Japanese keigo is difficult.)"
+ },
+ {
+  "word": "そんけいご",
+  "reading": "そんけいご",
+  "meaning_id": "bahasa penghormatan",
+  "meaning_en": "honorific language",
+  "pos": "noun",
+  "example": "「いらっしゃる」は そんけいごです。(「Irassharu」 adalah sonkeigo.)",
+  "tags": [
+   "n4-m2",
+   "bahasa-sopan-dasar",
+   "L09"
+  ],
+  "module": "n4-m2",
+  "example_en": "「いらっしゃる」は そんけいごです。(「Irassharu」 is sonkeigo.)"
+ },
+ {
+  "word": "けんじょうご",
+  "reading": "けんじょうご",
+  "meaning_id": "bahasa merendah",
+  "meaning_en": "humble language",
+  "pos": "noun",
+  "example": "「もうす」は けんじょうごです。(「Mousu」 adalah kenjougo.)",
+  "tags": [
+   "n4-m2",
+   "bahasa-sopan-dasar",
+   "L09"
+  ],
+  "module": "n4-m2",
+  "example_en": "「もうす」は けんじょうごです。(「Mousu」 is kenjougo.)"
+ },
+ {
+  "word": "おきゃくさま",
+  "reading": "おきゃくさま",
+  "meaning_id": "pelanggan; tamu (sangat sopan)",
+  "meaning_en": "customer (polite)",
+  "pos": "noun",
+  "example": "おきゃくさまが きました。(Pelanggan datang.)",
+  "tags": [
+   "n4-m2",
+   "bahasa-sopan-dasar",
+   "L09"
+  ],
+  "module": "n4-m2",
+  "example_en": "おきゃくさまが きました。(A customer has come.)"
+ },
+ {
+  "word": "めいし",
+  "reading": "めいし",
+  "meaning_id": "kartu nama",
+  "meaning_en": "business card",
+  "pos": "noun",
+  "example": "めいしを もらいました。(Saya menerima kartu nama.)",
+  "tags": [
+   "n4-m2",
+   "bahasa-sopan-dasar",
+   "L09"
+  ],
+  "module": "n4-m2",
+  "example_en": "めいしを もらいました。(I received a business card.)"
+ },
+ {
+  "word": "おみやげ",
+  "reading": "おみやげ",
+  "meaning_id": "oleh-oleh",
+  "meaning_en": "souvenir",
+  "pos": "noun",
+  "example": "とうきょうの おみやげを かいました。(Saya membeli oleh-oleh Tokyo.)",
+  "tags": [
+   "n4-m2",
+   "bahasa-sopan-dasar",
+   "L09"
+  ],
+  "module": "n4-m2",
+  "example_en": "とうきょうの おみやげを かいました。(I bought Tokyo souvenirs.)"
+ },
+ {
+  "word": "承る",
+  "reading": "うけたまわる",
+  "meaning_id": "mendengar; menerima (rendah hati)",
+  "meaning_en": "hear, receive (humble)",
+  "pos": "verb-g1",
+  "example": "おはなしを 承りました。(Saya mendengar cerita Bapak/Ibu.)",
+  "tags": [
+   "n4-m2",
+   "keigo-sehari-hari",
+   "L10"
+  ],
+  "module": "n4-m2",
+  "example_en": "おはなしを 承りました。(I heard what you had to say.)"
+ },
+ {
+  "word": "与える",
+  "reading": "あたえる",
+  "meaning_id": "memberi",
+  "meaning_en": "give",
+  "pos": "verb-g2",
+  "example": "この しごとは わたしに チャンスを 与えました。(Pekerjaan ini memberi saya kesempatan.)",
+  "tags": [
+   "n4-m2",
+   "keigo-sehari-hari",
+   "L10"
+  ],
+  "module": "n4-m2",
+  "example_en": "この しごとは わたしに チャンスを 与えました。(This job gave me an opportunity.)"
+ },
+ {
+  "word": "預かる",
+  "reading": "あずかる",
+  "meaning_id": "menerima titipan",
+  "meaning_en": "keep in custody",
+  "pos": "verb-g1",
+  "example": "ともだちの かばんを 預かりました。(Saya menerima titipan tas teman.)",
+  "tags": [
+   "n4-m2",
+   "keigo-sehari-hari",
+   "L10"
+  ],
+  "module": "n4-m2",
+  "example_en": "ともだちの かばんを 預かりました。(I'm keeping my friend's bag for them.)"
+ },
+ {
+  "word": "なさる",
+  "reading": "なさる",
+  "meaning_id": "melakukan (hormat)",
+  "meaning_en": "do (honorific)",
+  "pos": "verb-g1",
+  "example": "せんせいが なさいました。(Guru melakukannya.)",
+  "tags": [
+   "n4-m2",
+   "keigo-sehari-hari",
+   "L10"
+  ],
+  "module": "n4-m2",
+  "example_en": "せんせいが なさいました。(The teacher did it.)"
+ },
+ {
+  "word": "くださる",
+  "reading": "くださる",
+  "meaning_id": "memberi (hormat; kepada saya)",
+  "meaning_en": "give (honorific, to me)",
+  "pos": "verb-g1",
+  "example": "せんせいが ほんを くださいました。(Guru memberi saya buku.)",
+  "tags": [
+   "n4-m2",
+   "keigo-sehari-hari",
+   "L10"
+  ],
+  "module": "n4-m2",
+  "example_en": "せんせいが ほんを くださいました。(The teacher gave me a book.)"
+ },
+ {
+  "word": "いたす",
+  "reading": "いたす",
+  "meaning_id": "melakukan (rendah hati)",
+  "meaning_en": "do (humble)",
+  "pos": "verb-g1",
+  "example": "わたしが ごあんない 致します。(Saya akan mengantar Bapak/Ibu.)",
+  "tags": [
+   "n4-m2",
+   "keigo-sehari-hari",
+   "L10"
+  ],
+  "module": "n4-m2",
+  "example_en": "わたしが ごあんない 致します。(I will guide you.)"
+ },
+ {
+  "word": "あんないする",
+  "reading": "あんないする",
+  "meaning_id": "mengantar; memberi petunjuk",
+  "meaning_en": "guide, show around",
+  "pos": "verb-g3",
+  "example": "おきゃくさまを あんないします。(Saya mengantar pelanggan.)",
+  "tags": [
+   "n4-m2",
+   "keigo-sehari-hari",
+   "L10"
+  ],
+  "module": "n4-m2",
+  "example_en": "おきゃくさまを あんないします。(I'll show the customer around.)"
+ },
+ {
+  "word": "しょうかいする",
+  "reading": "しょうかいする",
+  "meaning_id": "memperkenalkan",
+  "meaning_en": "introduce",
+  "pos": "verb-g3",
+  "example": "ともだちを しょうかいします。(Saya memperkenalkan teman.)",
+  "tags": [
+   "n4-m2",
+   "keigo-sehari-hari",
+   "L10"
+  ],
+  "module": "n4-m2",
+  "example_en": "ともだちを しょうかいします。(I'll introduce my friend.)"
+ },
+ {
+  "word": "昨",
+  "reading": "さく",
+  "meaning_id": "kemarin (dalam 昨日・きのう)",
+  "meaning_en": "yesterday (in 昨日)",
+  "pos": "noun",
+  "example": "昨日は友達と映画を見ました。(Kemarin saya menonton film bersama teman.)",
+  "tags": [
+   "n4-m3",
+   "ajakan-dan-niat",
+   "L11"
+  ],
+  "module": "n4-m3",
+  "example_en": "昨日は友達と映画を見ました。(Yesterday I watched a movie with a friend.)"
+ },
+ {
+  "word": "さそう",
+  "reading": "さそう",
+  "meaning_id": "mengajak",
+  "meaning_en": "to invite",
+  "pos": "verb-g1",
+  "example": "あした、友達をカラオケにさそいましょう。(Besok, ayo ajak teman ke karaoke.)",
+  "tags": [
+   "n4-m3",
+   "ajakan-dan-niat",
+   "L11"
+  ],
+  "module": "n4-m3",
+  "example_en": "あした、友達をカラオケにさそいましょう。(Tomorrow, let's invite a friend to karaoke.)"
+ },
+ {
+  "word": "きめる",
+  "reading": "きめる",
+  "meaning_id": "memutuskan",
+  "meaning_en": "to decide",
+  "pos": "verb-g2",
+  "example": "行くか行かないか、今日決めよう。(Pergi atau tidak, ayo putuskan hari ini.)",
+  "tags": [
+   "n4-m3",
+   "ajakan-dan-niat",
+   "L11"
+  ],
+  "module": "n4-m3",
+  "example_en": "行くか行かないか、今日決めよう。(Let's decide today whether to go or not.)"
+ },
+ {
+  "word": "やめる",
+  "reading": "やめる",
+  "meaning_id": "berhenti",
+  "meaning_en": "to quit",
+  "pos": "verb-g2",
+  "example": "タバコはもうやめましょう。(Mari berhenti merokok.)",
+  "tags": [
+   "n4-m3",
+   "ajakan-dan-niat",
+   "L11"
+  ],
+  "module": "n4-m3",
+  "example_en": "タバコはもうやめましょう。(Let's quit smoking.)"
+ },
+ {
+  "word": "つづける",
+  "reading": "つづける",
+  "meaning_id": "melanjutkan",
+  "meaning_en": "to continue",
+  "pos": "verb-g2",
+  "example": "毎日、日本語の勉強を続けましょう。(Mari lanjutkan belajar bahasa Jepang setiap hari.)",
+  "tags": [
+   "n4-m3",
+   "ajakan-dan-niat",
+   "L11"
+  ],
+  "module": "n4-m3",
+  "example_en": "毎日、日本語の勉強を続けましょう。(Let's keep studying Japanese every day.)"
+ },
+ {
+  "word": "たのしむ",
+  "reading": "たのしむ",
+  "meaning_id": "menikmati",
+  "meaning_en": "to enjoy",
+  "pos": "verb-g1",
+  "example": "週末は家族と時間を楽しもう。(Akhir pekan ini, mari nikmati waktu bersama keluarga.)",
+  "tags": [
+   "n4-m3",
+   "ajakan-dan-niat",
+   "L11"
+  ],
+  "module": "n4-m3",
+  "example_en": "週末は家族と時間を楽しもう。(Let's enjoy time with family this weekend.)"
+ },
+ {
+  "word": "かえす",
+  "reading": "かえす",
+  "meaning_id": "mengembalikan",
+  "meaning_en": "to return (something)",
+  "pos": "verb-g1",
+  "example": "かりた本を明日かえそう。(Saya akan mengembalikan buku yang dipinjam besok.)",
+  "tags": [
+   "n4-m3",
+   "ajakan-dan-niat",
+   "L11"
+  ],
+  "module": "n4-m3",
+  "example_en": "かりた本を明日かえそう。(I'll return the borrowed book tomorrow.)"
+ },
+ {
+  "word": "つたえる",
+  "reading": "つたえる",
+  "meaning_id": "menyampaikan",
+  "meaning_en": "to convey, to tell",
+  "pos": "verb-g2",
+  "example": "先生に気もちをつたえよう。(Mari sampaikan perasaan kepada guru.)",
+  "tags": [
+   "n4-m3",
+   "ajakan-dan-niat",
+   "L11"
+  ],
+  "module": "n4-m3",
+  "example_en": "先生に気もちをつたえよう。(Let's convey our feelings to the teacher.)"
+ },
+ {
+  "word": "あつまる",
+  "reading": "あつまる",
+  "meaning_id": "berkumpul",
+  "meaning_en": "to gather",
+  "pos": "verb-g1",
+  "example": "駅の前にあつまろう。(Mari berkumpul di depan stasiun.)",
+  "tags": [
+   "n4-m3",
+   "ajakan-dan-niat",
+   "L11"
+  ],
+  "module": "n4-m3",
+  "example_en": "駅の前にあつまろう。(Let's meet in front of the station.)"
+ },
+ {
+  "word": "曜",
+  "reading": "よう",
+  "meaning_id": "hari (dalam 曜日・ようび)",
+  "meaning_en": "day of week (in 曜日)",
+  "pos": "noun",
+  "example": "今日は何曜日ですか。(Hari ini hari apa?)",
+  "tags": [
+   "n4-m3",
+   "rencana-masa-depan",
+   "L12"
+  ],
+  "module": "n4-m3",
+  "example_en": "今日は何曜日ですか。(What day of the week is it today?)"
+ },
+ {
+  "word": "けっこん",
+  "reading": "けっこん",
+  "meaning_id": "pernikahan",
+  "meaning_en": "marriage",
+  "pos": "noun",
+  "example": "来年けっこんするつもりです。(Saya berencana menikah tahun depan.)",
+  "tags": [
+   "n4-m3",
+   "rencana-masa-depan",
+   "L12"
+  ],
+  "module": "n4-m3",
+  "example_en": "来年けっこんするつもりです。(I plan to get married next year.)"
+ },
+ {
+  "word": "しゅうしょく",
+  "reading": "しゅうしょく",
+  "meaning_id": "mendapat pekerjaan",
+  "meaning_en": "finding employment",
+  "pos": "noun",
+  "example": "来年の春にしゅうしょくするつもりです。(Saya berencana mendapatkan pekerjaan musim semi tahun depan.)",
+  "tags": [
+   "n4-m3",
+   "rencana-masa-depan",
+   "L12"
+  ],
+  "module": "n4-m3",
+  "example_en": "来年の春にしゅうしょくするつもりです。(I plan to get a job next spring.)"
+ },
+ {
+  "word": "よやく",
+  "reading": "よやく",
+  "meaning_id": "reservasi",
+  "meaning_en": "reservation",
+  "pos": "noun",
+  "example": "レストランをよやくするつもりです。(Saya berencana memesan tempat di restoran.)",
+  "tags": [
+   "n4-m3",
+   "rencana-masa-depan",
+   "L12"
+  ],
+  "module": "n4-m3",
+  "example_en": "レストランをよやくするつもりです。(I plan to make a reservation at a restaurant.)"
+ },
+ {
+  "word": "キャンセル",
+  "reading": "キャンセル",
+  "meaning_id": "pembatalan",
+  "meaning_en": "cancellation",
+  "pos": "noun",
+  "example": "よやくをキャンセルするつもりです。(Saya berencana membatalkan reservasi.)",
+  "tags": [
+   "n4-m3",
+   "rencana-masa-depan",
+   "L12"
+  ],
+  "module": "n4-m3",
+  "example_en": "よやくをキャンセルするつもりです。(I plan to cancel the reservation.)"
+ },
+ {
+  "word": "じゅんび",
+  "reading": "じゅんび",
+  "meaning_id": "persiapan",
+  "meaning_en": "preparation",
+  "pos": "noun",
+  "example": "りょこうのじゅんびをしようと思います。(Saya berniat menyiapkan perjalanan.)",
+  "tags": [
+   "n4-m3",
+   "rencana-masa-depan",
+   "L12"
+  ],
+  "module": "n4-m3",
+  "example_en": "りょこうのじゅんびをしようと思います。(I'm thinking of preparing for the trip.)"
+ },
+ {
+  "word": "けいかく",
+  "reading": "けいかく",
+  "meaning_id": "rencana",
+  "meaning_en": "plan",
+  "pos": "noun",
+  "example": "週末のけいかくを話そうと思います。(Saya berniat membicarakan rencana akhir pekan.)",
+  "tags": [
+   "n4-m3",
+   "rencana-masa-depan",
+   "L12"
+  ],
+  "module": "n4-m3",
+  "example_en": "週末のけいかくを話そうと思います。(I'm thinking of talking about the weekend plan.)"
+ },
+ {
+  "word": "しっぱい",
+  "reading": "しっぱい",
+  "meaning_id": "kegagalan",
+  "meaning_en": "failure",
+  "pos": "noun",
+  "example": "しっぱいから学ぼうと思います。(Saya berniat belajar dari kegagalan.)",
+  "tags": [
+   "n4-m3",
+   "rencana-masa-depan",
+   "L12"
+  ],
+  "module": "n4-m3",
+  "example_en": "しっぱいから学ぼうと思います。(I'm thinking of learning from failure.)"
+ },
+ {
+  "word": "せいこう",
+  "reading": "せいこう",
+  "meaning_id": "keberhasilan",
+  "meaning_en": "success",
+  "pos": "noun",
+  "example": "試験でせいこうしたいです。(Saya ingin berhasil dalam ujian.)",
+  "tags": [
+   "n4-m3",
+   "rencana-masa-depan",
+   "L12"
+  ],
+  "module": "n4-m3",
+  "example_en": "試験でせいこうしたいです。(I want to succeed in the exam.)"
+ },
+ {
+  "word": "あきらめる",
+  "reading": "あきらめる",
+  "meaning_id": "menyerah",
+  "meaning_en": "to give up",
+  "pos": "verb-g2",
+  "example": "ゆめをあきらめないつもりです。(Saya berniat tidak menyerah pada mimpi.)",
+  "tags": [
+   "n4-m3",
+   "rencana-masa-depan",
+   "L12"
+  ],
+  "module": "n4-m3",
+  "example_en": "ゆめをあきらめないつもりです。(I intend not to give up on my dream.)"
+ },
+ {
+  "word": "がんばる",
+  "reading": "がんばる",
+  "meaning_id": "berusaha keras",
+  "meaning_en": "to do one's best",
+  "pos": "verb-g1",
+  "example": "明日の試験、がんばろうと思います。(Saya berniat berusaha keras untuk ujian besok.)",
+  "tags": [
+   "n4-m3",
+   "rencana-masa-depan",
+   "L12"
+  ],
+  "module": "n4-m3",
+  "example_en": "明日の試験、がんばろうと思います。(I'm thinking of doing my best for tomorrow's exam.)"
+ },
+ {
+  "word": "たのしみ",
+  "reading": "たのしみ",
+  "meaning_id": "hal yang dinanti",
+  "meaning_en": "something to look forward to",
+  "pos": "noun",
+  "example": "週末のりょこうがたのしみです。(Saya menantikan perjalanan akhir pekan.)",
+  "tags": [
+   "n4-m3",
+   "rencana-masa-depan",
+   "L12"
+  ],
+  "module": "n4-m3",
+  "example_en": "週末のりょこうがたのしみです。(I am looking forward to the weekend trip.)"
+ },
+ {
+  "word": "ふあん",
+  "reading": "ふあん",
+  "meaning_id": "cemas, khawatir",
+  "meaning_en": "anxiety, worry",
+  "pos": "na-adj",
+  "example": "試験の結果がふあんです。(Saya cemas tentang hasil ujian.)",
+  "tags": [
+   "n4-m3",
+   "rencana-masa-depan",
+   "L12"
+  ],
+  "module": "n4-m3",
+  "example_en": "試験の結果がふあんです。(I am anxious about the exam results.)"
+ },
+ {
+  "word": "頃",
+  "reading": "ころ、ごろ",
+  "meaning_id": "sekitar (waktu)",
+  "meaning_en": "around (time)",
+  "pos": "noun",
+  "example": "三時ごろに来てください。(Tolong datang sekitar jam tiga.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-akibat",
+   "L13"
+  ],
+  "module": "n4-m3",
+  "example_en": "三時ごろに来てください。(Please come around three o'clock.)"
+ },
+ {
+  "word": "さくら",
+  "reading": "さくら",
+  "meaning_id": "bunga sakura",
+  "meaning_en": "cherry blossom",
+  "pos": "noun",
+  "example": "はるになったら、さくらを見に行きます。(Kalau sudah musim semi, saya akan pergi melihat sakura.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-akibat",
+   "L13"
+  ],
+  "module": "n4-m3",
+  "example_en": "はるになったら、さくらを見に行きます。(When spring comes, I will go see the cherry blossoms.)"
+ },
+ {
+  "word": "さく",
+  "reading": "さく",
+  "meaning_id": "mekar",
+  "meaning_en": "to bloom",
+  "pos": "verb-g1",
+  "example": "四月になると、花がさきます。(Begitu bulan April tiba, bunga-bunga mekar.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-akibat",
+   "L13"
+  ],
+  "module": "n4-m3",
+  "example_en": "四月になると、花がさきます。(Once April arrives, the flowers bloom.)"
+ },
+ {
+  "word": "ふる",
+  "reading": "ふる",
+  "meaning_id": "turun (hujan, salju)",
+  "meaning_en": "to fall (rain, snow)",
+  "pos": "verb-g1",
+  "example": "明日ゆきがふったら、学校を休みます。(Kalau besok salju turun, saya libur sekolah.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-akibat",
+   "L13"
+  ],
+  "module": "n4-m3",
+  "example_en": "明日ゆきがふったら、学校を休みます。(If it snows tomorrow, I will take the day off school.)"
+ },
+ {
+  "word": "かわく",
+  "reading": "かわく",
+  "meaning_id": "menjadi kering",
+  "meaning_en": "to dry",
+  "pos": "verb-g1",
+  "example": "せんたく物がかわいたら、へやに入れます。(Kalau cucian sudah kering, saya bawa masuk ke kamar.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-akibat",
+   "L13"
+  ],
+  "module": "n4-m3",
+  "example_en": "せんたく物がかわいたら、へやに入れます。(Once the laundry is dry, I will bring it inside.)"
+ },
+ {
+  "word": "ぬれる",
+  "reading": "ぬれる",
+  "meaning_id": "menjadi basah",
+  "meaning_en": "to get wet",
+  "pos": "verb-g2",
+  "example": "あめにぬれたら、すぐうちに帰ります。(Kalau basah kehujanan, saya langsung pulang.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-akibat",
+   "L13"
+  ],
+  "module": "n4-m3",
+  "example_en": "あめにぬれたら、すぐうちに帰ります。(If I get caught in the rain, I will go straight home.)"
+ },
+ {
+  "word": "しらせる",
+  "reading": "しらせる",
+  "meaning_id": "memberitahu",
+  "meaning_en": "to notify",
+  "pos": "verb-g2",
+  "example": "じかんが変わったら、しらせます。(Kalau waktunya berubah, saya akan memberitahu.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-akibat",
+   "L13"
+  ],
+  "module": "n4-m3",
+  "example_en": "じかんが変わったら、しらせます。(If the time changes, I will let you know.)"
+ },
+ {
+  "word": "きをつける",
+  "reading": "きをつける",
+  "meaning_id": "berhati-hati",
+  "meaning_en": "to be careful",
+  "pos": "expression",
+  "example": "くるまにきをつけてください。(Tolong berhati-hati terhadap mobil.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-akibat",
+   "L13"
+  ],
+  "module": "n4-m3",
+  "example_en": "くるまにきをつけてください。(Please watch out for cars.)"
+ },
+ {
+  "word": "きけん",
+  "reading": "きけん",
+  "meaning_id": "bahaya; berbahaya",
+  "meaning_en": "dangerous",
+  "pos": "na-adj",
+  "example": "あのかわはきけんです。(Sungai itu berbahaya.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-akibat",
+   "L13"
+  ],
+  "module": "n4-m3",
+  "example_en": "あのかわはきけんです。(That river is dangerous.)"
+ },
+ {
+  "word": "際",
+  "reading": "さい",
+  "meaning_id": "internasional (dalam 国際・こくさい)",
+  "meaning_en": "international (in 国際)",
+  "pos": "noun",
+  "example": "こくさいくうこうは大きいです。(Bandara internasional itu besar.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-pengecualian",
+   "L14"
+  ],
+  "module": "n4-m3",
+  "example_en": "こくさいくうこうは大きいです。(The international airport is big.)"
+ },
+ {
+  "word": "じょうけん",
+  "reading": "じょうけん",
+  "meaning_id": "syarat",
+  "meaning_en": "condition",
+  "pos": "noun",
+  "example": "じょうけんがよければ、さんかします。(Kalau syaratnya baik, saya akan ikut.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-pengecualian",
+   "L14"
+  ],
+  "module": "n4-m3",
+  "example_en": "じょうけんがよければ、さんかします。(If the conditions are good, I will take part.)"
+ },
+ {
+  "word": "れいがい",
+  "reading": "れいがい",
+  "meaning_id": "pengecualian",
+  "meaning_en": "exception",
+  "pos": "noun",
+  "example": "れいがいもあります。(Ada juga pengecualian.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-pengecualian",
+   "L14"
+  ],
+  "module": "n4-m3",
+  "example_en": "れいがいもあります。(There are exceptions too.)"
+ },
+ {
+  "word": "どりょく",
+  "reading": "どりょく",
+  "meaning_id": "usaha",
+  "meaning_en": "effort",
+  "pos": "noun",
+  "example": "どりょくすれば、できます。(Kalau berusaha, pasti bisa.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-pengecualian",
+   "L14"
+  ],
+  "module": "n4-m3",
+  "example_en": "どりょくすれば、できます。(If you make an effort, you can do it.)"
+ },
+ {
+  "word": "おうえんする",
+  "reading": "おうえんする",
+  "meaning_id": "mendukung",
+  "meaning_en": "to support",
+  "pos": "verb-g3",
+  "example": "あめがふっても、おうえんに行きます。(Walau hujan, saya akan pergi mendukung.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-pengecualian",
+   "L14"
+  ],
+  "module": "n4-m3",
+  "example_en": "あめがふっても、おうえんに行きます。(Even if it rains, I will go to cheer.)"
+ },
+ {
+  "word": "かぜを ひく",
+  "reading": "かぜを ひく",
+  "meaning_id": "masuk angin",
+  "meaning_en": "to catch a cold",
+  "pos": "expression",
+  "example": "かぜをひいても、学校に行きます。(Walau masuk angin, saya pergi ke sekolah.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-pengecualian",
+   "L14"
+  ],
+  "module": "n4-m3",
+  "example_en": "かぜをひいても、学校に行きます。(Even if I catch a cold, I will go to school.)"
+ },
+ {
+  "word": "なおる",
+  "reading": "なおる",
+  "meaning_id": "sembuh",
+  "meaning_en": "to recover",
+  "pos": "verb-g1",
+  "example": "ゆっくりやすめば、すぐなおります。(Kalau istirahat dengan cukup, akan segera sembuh.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-pengecualian",
+   "L14"
+  ],
+  "module": "n4-m3",
+  "example_en": "ゆっくりやすめば、すぐなおります。(If you rest well, you will recover soon.)"
+ },
+ {
+  "word": "じかんが かかる",
+  "reading": "じかんが かかる",
+  "meaning_id": "memakan waktu",
+  "meaning_en": "to take time",
+  "pos": "expression",
+  "example": "がっこうまでいちじかんかかります。(Ke sekolah memakan waktu satu jam.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-pengecualian",
+   "L14"
+  ],
+  "module": "n4-m3",
+  "example_en": "がっこうまでいちじかんかかります。(It takes one hour to get to school.)"
+ },
+ {
+  "word": "おくれる",
+  "reading": "おくれる",
+  "meaning_id": "terlambat",
+  "meaning_en": "to be late",
+  "pos": "verb-g2",
+  "example": "でんしゃがおくれても、だいじょうぶです。(Walau kereta terlambat, tidak apa-apa.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-pengecualian",
+   "L14"
+  ],
+  "module": "n4-m3",
+  "example_en": "でんしゃがおくれても、だいじょうぶです。(Even if the train is late, it's fine.)"
+ },
+ {
+  "word": "じゅうぶん",
+  "reading": "じゅうぶん",
+  "meaning_id": "cukup",
+  "meaning_en": "enough",
+  "pos": "adverb",
+  "example": "じゅうぶんねてください。(Tidurlah yang cukup.)",
+  "tags": [
+   "n4-m3",
+   "syarat-dan-pengecualian",
+   "L14"
+  ],
+  "module": "n4-m3",
+  "example_en": "じゅうぶんねてください。(Please get enough sleep.)"
+ },
+ {
+  "word": "旧",
+  "reading": "きゅう",
+  "meaning_id": "lama, kuno (dalam 旧市街・きゅうしがい)",
+  "meaning_en": "old (in 旧市街)",
+  "pos": "noun",
+  "example": "きゅうしがいをあるきました。(Saya berjalan-jalan di kota tua.)",
+  "tags": [
+   "n4-m3",
+   "dugaan-dan-ramalan",
+   "L15"
+  ],
+  "module": "n4-m3",
+  "example_en": "きゅうしがいをあるきました。(I walked around the old town.)"
+ },
+ {
+  "word": "こんや",
+  "reading": "こんや",
+  "meaning_id": "malam ini",
+  "meaning_en": "tonight",
+  "pos": "noun",
+  "example": "こんやはあめがふるかもしれません。(Malam ini mungkin hujan.)",
+  "tags": [
+   "n4-m3",
+   "dugaan-dan-ramalan",
+   "L15"
+  ],
+  "module": "n4-m3",
+  "example_en": "こんやはあめがふるかもしれません。(It might rain tonight.)"
+ },
+ {
+  "word": "たぶん",
+  "reading": "たぶん",
+  "meaning_id": "mungkin, barangkali",
+  "meaning_en": "probably",
+  "pos": "adverb",
+  "example": "たぶんかれはこないでしょう。(Mungkin dia tidak akan datang.)",
+  "tags": [
+   "n4-m3",
+   "dugaan-dan-ramalan",
+   "L15"
+  ],
+  "module": "n4-m3",
+  "example_en": "たぶんかれはこないでしょう。(He probably won't come.)"
+ },
+ {
+  "word": "おそらく",
+  "reading": "おそらく",
+  "meaning_id": "kemungkinan besar",
+  "meaning_en": "very likely",
+  "pos": "adverb",
+  "example": "おそらくしけんはむずかしいでしょう。(Kemungkinan besar ujiannya sulit.)",
+  "tags": [
+   "n4-m3",
+   "dugaan-dan-ramalan",
+   "L15"
+  ],
+  "module": "n4-m3",
+  "example_en": "おそらくしけんはむずかしいでしょう。(The exam is very likely difficult.)"
+ },
+ {
+  "word": "ぜったい",
+  "reading": "ぜったい",
+  "meaning_id": "mutlak, pasti",
+  "meaning_en": "absolute, certain",
+  "pos": "na-adj",
+  "example": "ぜったいに行きます。(Saya pasti pergi.)",
+  "tags": [
+   "n4-m3",
+   "dugaan-dan-ramalan",
+   "L15"
+  ],
+  "module": "n4-m3",
+  "example_en": "ぜったいに行きます。(I will definitely go.)"
+ },
+ {
+  "word": "まちがい",
+  "reading": "まちがい",
+  "meaning_id": "kesalahan",
+  "meaning_en": "mistake",
+  "pos": "noun",
+  "example": "まちがいがあるかもしれません。(Mungkin ada kesalahan.)",
+  "tags": [
+   "n4-m3",
+   "dugaan-dan-ramalan",
+   "L15"
+  ],
+  "module": "n4-m3",
+  "example_en": "まちがいがあるかもしれません。(There might be a mistake.)"
+ },
+ {
+  "word": "うわさ",
+  "reading": "うわさ",
+  "meaning_id": "gosip, kabar burung",
+  "meaning_en": "rumor",
+  "pos": "noun",
+  "example": "そのうわさはほんとうかもしれません。(Gosip itu mungkin benar.)",
+  "tags": [
+   "n4-m3",
+   "dugaan-dan-ramalan",
+   "L15"
+  ],
+  "module": "n4-m3",
+  "example_en": "そのうわさはほんとうかもしれません。(That rumor might be true.)"
+ },
+ {
+  "word": "よそう",
+  "reading": "よそう",
+  "meaning_id": "prediksi",
+  "meaning_en": "prediction",
+  "pos": "noun",
+  "example": "わたしのよそうでは、あしたははれるでしょう。(Menurut prediksi saya, besok mungkin cerah.)",
+  "tags": [
+   "n4-m3",
+   "dugaan-dan-ramalan",
+   "L15"
+  ],
+  "module": "n4-m3",
+  "example_en": "わたしのよそうでは、あしたははれるでしょう。(According to my prediction, it will probably be clear tomorrow.)"
+ },
+ {
+  "word": "しんじる",
+  "reading": "しんじる",
+  "meaning_id": "percaya",
+  "meaning_en": "to believe",
+  "pos": "verb-g2",
+  "example": "わたしはあなたをしんじています。(Saya percaya padamu.)",
+  "tags": [
+   "n4-m3",
+   "dugaan-dan-ramalan",
+   "L15"
+  ],
+  "module": "n4-m3",
+  "example_en": "わたしはあなたをしんじています。(I believe in you.)"
+ },
+ {
+  "word": "うたがう",
+  "reading": "うたがう",
+  "meaning_id": "meragukan",
+  "meaning_en": "to doubt",
+  "pos": "verb-g1",
+  "example": "かれのはなしをうたがっています。(Saya meragukan ceritanya.)",
+  "tags": [
+   "n4-m3",
+   "dugaan-dan-ramalan",
+   "L15"
+  ],
+  "module": "n4-m3",
+  "example_en": "かれのはなしをうたがっています。(I doubt his story.)"
+ },
+ {
+  "word": "かんがえ",
+  "reading": "かんがえ",
+  "meaning_id": "pikiran, pendapat",
+  "meaning_en": "thought, opinion",
+  "pos": "noun",
+  "example": "わたしのかんがえでは、それはむずかしいでしょう。(Menurut pendapat saya, itu mungkin sulit.)",
+  "tags": [
+   "n4-m3",
+   "dugaan-dan-ramalan",
+   "L15"
+  ],
+  "module": "n4-m3",
+  "example_en": "わたしのかんがえでは、それはむずかしいでしょう。(In my opinion, it is probably difficult.)"
+ },
+ {
+  "word": "けっか",
+  "reading": "けっか",
+  "meaning_id": "hasil",
+  "meaning_en": "result",
+  "pos": "noun",
+  "example": "けっかはらいしゅうわかるでしょう。(Hasilnya mungkin diketahui minggu depan.)",
+  "tags": [
+   "n4-m3",
+   "dugaan-dan-ramalan",
+   "L15"
+  ],
+  "module": "n4-m3",
+  "example_en": "けっかはらいしゅうわかるでしょう。(We will probably know the results next week.)"
+ },
+ {
+  "word": "りゆう",
+  "reading": "りゆう",
+  "meaning_id": "alasan",
+  "meaning_en": "reason",
+  "pos": "noun",
+  "example": "りゆうをおしえてください。(Tolong beritahu saya alasannya.)",
+  "tags": [
+   "n4-m3",
+   "dugaan-dan-ramalan",
+   "L15"
+  ],
+  "module": "n4-m3",
+  "example_en": "りゆうをおしえてください。(Please tell me the reason.)"
+ },
+ {
+  "word": "府",
+  "reading": "ふ",
+  "meaning_id": "prefektur khusus (seperti Osaka)",
+  "meaning_en": "urban prefecture",
+  "pos": "noun",
+  "example": "おおさかふに住んでいます。(Saya tinggal di Prefektur Osaka.)",
+  "tags": [
+   "n4-m4",
+   "saran-kesehatan-dan-hidup",
+   "L16"
+  ],
+  "module": "n4-m4",
+  "example_en": "おおさかふに住んでいます。(I live in Osaka Prefecture.)"
+ },
+ {
+  "word": "県",
+  "reading": "けん",
+  "meaning_id": "provinsi",
+  "meaning_en": "prefecture",
+  "pos": "noun",
+  "example": "ちばけんはとうきょうのとなりです。(Prefektur Chiba di sebelah Tokyo.)",
+  "tags": [
+   "n4-m4",
+   "saran-kesehatan-dan-hidup",
+   "L16"
+  ],
+  "module": "n4-m4",
+  "example_en": "ちばけんはとうきょうのとなりです。(Chiba Prefecture is next to Tokyo.)"
+ },
+ {
+  "word": "市",
+  "reading": "し",
+  "meaning_id": "kota",
+  "meaning_en": "city",
+  "pos": "noun",
+  "example": "よこはましは大きい市です。(Kota Yokohama adalah kota besar.)",
+  "tags": [
+   "n4-m4",
+   "saran-kesehatan-dan-hidup",
+   "L16"
+  ],
+  "module": "n4-m4",
+  "example_en": "よこはましは大きい市です。(Yokohama is a big city.)"
+ },
+ {
+  "word": "区",
+  "reading": "く",
+  "meaning_id": "distrik, kecamatan",
+  "meaning_en": "ward, district",
+  "pos": "noun",
+  "example": "しんじゅくくにかいしゃがあります。(Ada perusahaan di Distrik Shinjuku.)",
+  "tags": [
+   "n4-m4",
+   "saran-kesehatan-dan-hidup",
+   "L16"
+  ],
+  "module": "n4-m4",
+  "example_en": "しんじゅくくにかいしゃがあります。(There is an office in Shinjuku Ward.)"
+ },
+ {
+  "word": "町",
+  "reading": "まち",
+  "meaning_id": "kota kecil",
+  "meaning_en": "town",
+  "pos": "noun",
+  "example": "このまちはしずかです。(Kota kecil ini tenang.)",
+  "tags": [
+   "n4-m4",
+   "saran-kesehatan-dan-hidup",
+   "L16"
+  ],
+  "module": "n4-m4",
+  "example_en": "このまちはしずかです。(This town is quiet.)"
+ },
+ {
+  "word": "村",
+  "reading": "むら",
+  "meaning_id": "desa",
+  "meaning_en": "village",
+  "pos": "noun",
+  "example": "むらのせいかつはゆっくりです。(Kehidupan desa itu santai.)",
+  "tags": [
+   "n4-m4",
+   "saran-kesehatan-dan-hidup",
+   "L16"
+  ],
+  "module": "n4-m4",
+  "example_en": "むらのせいかつはゆっくりです。(Life in the village is laid-back.)"
+ },
+ {
+  "word": "ひっこす",
+  "reading": "ひっこす",
+  "meaning_id": "pindah rumah",
+  "meaning_en": "to move house",
+  "pos": "verb-g1",
+  "example": "らいげつひっこすつもりです。(Saya berencana pindah rumah bulan depan.)",
+  "tags": [
+   "n4-m4",
+   "saran-kesehatan-dan-hidup",
+   "L16"
+  ],
+  "module": "n4-m4",
+  "example_en": "らいげつひっこすつもりです。(I plan to move next month.)"
+ },
+ {
+  "word": "ふべん",
+  "reading": "ふべん",
+  "meaning_id": "tidak praktis",
+  "meaning_en": "inconvenient",
+  "pos": "na-adj",
+  "example": "バスがなくてふべんです。(Tidak ada bus, jadi tidak praktis.)",
+  "tags": [
+   "n4-m4",
+   "saran-kesehatan-dan-hidup",
+   "L16"
+  ],
+  "module": "n4-m4",
+  "example_en": "バスがなくてふべんです。(There is no bus, so it's inconvenient.)"
+ },
+ {
+  "word": "都",
+  "reading": "と",
+  "meaning_id": "ibu kota (dalam 東京都・とうきょうと)",
+  "meaning_en": "metropolis (in 東京都)",
+  "pos": "noun",
+  "example": "とうきょうとに住んでいます。(Saya tinggal di Tokyo.)",
+  "tags": [
+   "n4-m4",
+   "persiapan-dan-keadaan",
+   "L17"
+  ],
+  "module": "n4-m4",
+  "example_en": "とうきょうとに住んでいます。(I live in Tokyo.)"
+ },
+ {
+  "word": "郵便局",
+  "reading": "ゆうびんきょく",
+  "meaning_id": "kantor pos",
+  "meaning_en": "post office",
+  "pos": "noun",
+  "example": "ゆうびんきょくでてがみをだしておきました。(Saya sudah mengirim surat di kantor pos.)",
+  "tags": [
+   "n4-m4",
+   "persiapan-dan-keadaan",
+   "L17"
+  ],
+  "module": "n4-m4",
+  "example_en": "ゆうびんきょくでてがみをだしておきました。(I already mailed the letter at the post office.)"
+ },
+ {
+  "word": "料",
+  "reading": "りょう",
+  "meaning_id": "biaya (dalam 料金・りょうきん)",
+  "meaning_en": "fee (in 料金)",
+  "pos": "noun",
+  "example": "このホテルのりょうきんは高いです。(Biaya hotel ini mahal.)",
+  "tags": [
+   "n4-m4",
+   "persiapan-dan-keadaan",
+   "L17"
+  ],
+  "module": "n4-m4",
+  "example_en": "このホテルのりょうきんは高いです。(This hotel's rates are expensive.)"
+ },
+ {
+  "word": "銀",
+  "reading": "ぎん",
+  "meaning_id": "bank (dalam 銀行・ぎんこう)",
+  "meaning_en": "bank (in 銀行)",
+  "pos": "noun",
+  "example": "ぎんこうはえきの前にあります。(Bank ada di depan stasiun.)",
+  "tags": [
+   "n4-m4",
+   "persiapan-dan-keadaan",
+   "L17"
+  ],
+  "module": "n4-m4",
+  "example_en": "ぎんこうはえきの前にあります。(The bank is in front of the station.)"
+ },
+ {
+  "word": "メモ",
+  "reading": "メモ",
+  "meaning_id": "catatan",
+  "meaning_en": "memo",
+  "pos": "noun",
+  "example": "メモをかいておきます。(Saya akan mencatat dulu.)",
+  "tags": [
+   "n4-m4",
+   "persiapan-dan-keadaan",
+   "L17"
+  ],
+  "module": "n4-m4",
+  "example_en": "メモをかいておきます。(I will write a memo in advance.)"
+ },
+ {
+  "word": "コピー",
+  "reading": "コピー",
+  "meaning_id": "fotokopi",
+  "meaning_en": "photocopy",
+  "pos": "noun",
+  "example": "このかみをコピーしておきます。(Saya akan memfotokopi kertas ini dulu.)",
+  "tags": [
+   "n4-m4",
+   "persiapan-dan-keadaan",
+   "L17"
+  ],
+  "module": "n4-m4",
+  "example_en": "このかみをコピーしておきます。(I will photocopy this paper in advance.)"
+ },
+ {
+  "word": "とめる",
+  "reading": "とめる",
+  "meaning_id": "menginap; memesan kamar",
+  "meaning_en": "to stay; to book a room",
+  "pos": "verb-g2",
+  "example": "ホテルをとめておきました。(Saya sudah memesan hotel.)",
+  "tags": [
+   "n4-m4",
+   "persiapan-dan-keadaan",
+   "L17"
+  ],
+  "module": "n4-m4",
+  "example_en": "ホテルをとめておきました。(I have already booked the hotel.)"
+ },
+ {
+  "word": "ためる",
+  "reading": "ためる",
+  "meaning_id": "menabung, mengumpulkan",
+  "meaning_en": "to save up",
+  "pos": "verb-g2",
+  "example": "お金をためて、りょこうに行きます。(Saya menabung, lalu pergi berlibur.)",
+  "tags": [
+   "n4-m4",
+   "persiapan-dan-keadaan",
+   "L17"
+  ],
+  "module": "n4-m4",
+  "example_en": "お金をためて、りょこうに行きます。(I will save up money and go on a trip.)"
+ },
+ {
+  "word": "混雑",
+  "reading": "こんざつ",
+  "meaning_id": "ramai, penuh sesak",
+  "meaning_en": "crowded",
+  "pos": "na-adj",
+  "example": "あさのでんしゃはこんざつしています。(Kereta pagi ramai sesak.)",
+  "tags": [
+   "n4-m4",
+   "penyesalan-dan-penyelesaian",
+   "L18"
+  ],
+  "module": "n4-m4",
+  "example_en": "あさのでんしゃはこんざつしています。(The morning trains are packed.)"
+ },
+ {
+  "word": "橋",
+  "reading": "はし",
+  "meaning_id": "jembatan",
+  "meaning_en": "bridge",
+  "pos": "noun",
+  "example": "あのはしはながいです。(Jembatan itu panjang.)",
+  "tags": [
+   "n4-m4",
+   "penyesalan-dan-penyelesaian",
+   "L18"
+  ],
+  "module": "n4-m4",
+  "example_en": "あのはしはながいです。(That bridge is long.)"
+ },
+ {
+  "word": "なくす",
+  "reading": "なくす",
+  "meaning_id": "menghilangkan",
+  "meaning_en": "to lose",
+  "pos": "verb-g1",
+  "example": "さいふをなくしてしまいました。(Saya terlanjur menghilangkan dompet.)",
+  "tags": [
+   "n4-m4",
+   "penyesalan-dan-penyelesaian",
+   "L18"
+  ],
+  "module": "n4-m4",
+  "example_en": "さいふをなくしてしまいました。(I ended up losing my wallet.)"
+ },
+ {
+  "word": "おとす",
+  "reading": "おとす",
+  "meaning_id": "menjatuhkan",
+  "meaning_en": "to drop",
+  "pos": "verb-g1",
+  "example": "スマホをおとしてしまいました。(Saya terlanjur menjatuhkan ponsel.)",
+  "tags": [
+   "n4-m4",
+   "penyesalan-dan-penyelesaian",
+   "L18"
+  ],
+  "module": "n4-m4",
+  "example_en": "スマホをおとしてしまいました。(I ended up dropping my phone.)"
+ },
+ {
+  "word": "こわす",
+  "reading": "こわす",
+  "meaning_id": "merusak",
+  "meaning_en": "to break",
+  "pos": "verb-g1",
+  "example": "おもちゃをこわしてしまいました。(Saya terlanjur merusak mainan.)",
+  "tags": [
+   "n4-m4",
+   "penyesalan-dan-penyelesaian",
+   "L18"
+  ],
+  "module": "n4-m4",
+  "example_en": "おもちゃをこわしてしまいました。(I ended up breaking the toy.)"
+ },
+ {
+  "word": "こぼす",
+  "reading": "こぼす",
+  "meaning_id": "menjatuhkan",
+  "meaning_en": "to spill",
+  "pos": "verb-g1",
+  "example": "コーヒーをこぼしてしまいました。(Saya terlanjur menumpahkan kopi.)",
+  "tags": [
+   "n4-m4",
+   "penyesalan-dan-penyelesaian",
+   "L18"
+  ],
+  "module": "n4-m4",
+  "example_en": "コーヒーをこぼしてしまいました。(I ended up spilling the coffee.)"
+ },
+ {
+  "word": "ぜんぶ",
+  "reading": "ぜんぶ",
+  "meaning_id": "semua, seluruhnya",
+  "meaning_en": "all",
+  "pos": "adverb",
+  "example": "ケーキをぜんぶたべてしまいました。(Saya terlanjur memakan semua kuenya.)",
+  "tags": [
+   "n4-m4",
+   "penyesalan-dan-penyelesaian",
+   "L18"
+  ],
+  "module": "n4-m4",
+  "example_en": "ケーキをぜんぶたべてしまいました。(I ended up eating the whole cake.)"
+ },
+ {
+  "word": "うっかり",
+  "reading": "うっかり",
+  "meaning_id": "tanpa sengaja, lengah",
+  "meaning_en": "carelessly",
+  "pos": "adverb",
+  "example": "うっかりかぎをわすれてしまいました。(Tanpa sengaja saya tertinggal kunci.)",
+  "tags": [
+   "n4-m4",
+   "penyesalan-dan-penyelesaian",
+   "L18"
+  ],
+  "module": "n4-m4",
+  "example_en": "うっかりかぎをわすれてしまいました。(I carelessly forgot my keys.)"
+ },
+ {
+  "word": "ざんねん",
+  "reading": "ざんねん",
+  "meaning_id": "sayang, disayangkan",
+  "meaning_en": "regrettable",
+  "pos": "na-adj",
+  "example": "いけなくてざんねんです。(Sayang sekali tidak bisa pergi.)",
+  "tags": [
+   "n4-m4",
+   "penyesalan-dan-penyelesaian",
+   "L18"
+  ],
+  "module": "n4-m4",
+  "example_en": "いけなくてざんねんです。(It's a shame I can't go.)"
+ },
+ {
+  "word": "しっぱいする",
+  "reading": "しっぱいする",
+  "meaning_id": "gagal",
+  "meaning_en": "to fail",
+  "pos": "verb-g3",
+  "example": "しけんにしっぱいしてしまいました。(Saya terlanjur gagal ujian.)",
+  "tags": [
+   "n4-m4",
+   "penyesalan-dan-penyelesaian",
+   "L18"
+  ],
+  "module": "n4-m4",
+  "example_en": "しけんにしっぱいしてしまいました。(I ended up failing the exam.)"
+ },
+ {
+  "word": "たすかる",
+  "reading": "たすかる",
+  "meaning_id": "tertolong",
+  "meaning_en": "to be saved, helped",
+  "pos": "verb-g1",
+  "example": "あなたが来てくれてたすかりました。(Kamu datang menolongku, terima kasih.)",
+  "tags": [
+   "n4-m4",
+   "penyesalan-dan-penyelesaian",
+   "L18"
+  ],
+  "module": "n4-m4",
+  "example_en": "あなたが来てくれてたすかりました。(Thank you for coming to help me.)"
+ },
+ {
+  "word": "約束",
+  "reading": "やくそく",
+  "meaning_id": "janji",
+  "meaning_en": "promise",
+  "pos": "noun",
+  "example": "ともだちとやくそくがあります。(Saya punya janji dengan teman.)",
+  "tags": [
+   "n4-m4",
+   "pertanyaan-tak-langsung",
+   "L19"
+  ],
+  "module": "n4-m4",
+  "example_en": "ともだちとやくそくがあります。(I have plans with a friend.)"
+ },
+ {
+  "word": "因",
+  "reading": "いん",
+  "meaning_id": "penyebab (dalam 原因・げんいん)",
+  "meaning_en": "cause (in 原因)",
+  "pos": "noun",
+  "example": "びょうきのげんいんがわかりません。(Saya tidak tahu penyebab sakitnya.)",
+  "tags": [
+   "n4-m4",
+   "pertanyaan-tak-langsung",
+   "L19"
+  ],
+  "module": "n4-m4",
+  "example_en": "びょうきのげんいんがわかりません。(I don't know the cause of the illness.)"
+ },
+ {
+  "word": "果",
+  "reading": "か",
+  "meaning_id": "buah (dalam 果物・くだもの)",
+  "meaning_en": "fruit (in 果物)",
+  "pos": "noun",
+  "example": "まいにちくだものを食べます。(Saya makan buah setiap hari.)",
+  "tags": [
+   "n4-m4",
+   "pertanyaan-tak-langsung",
+   "L19"
+  ],
+  "module": "n4-m4",
+  "example_en": "まいにちくだものを食べます。(I eat fruit every day.)"
+ },
+ {
+  "word": "相",
+  "reading": "あい",
+  "meaning_id": "pasangan (dalam 相手・あいて)",
+  "meaning_en": "partner (in 相手)",
+  "pos": "noun",
+  "example": "あいてのなまえをききましたか。(Apakah kamu menanyakan nama lawan bicaramu?)",
+  "tags": [
+   "n4-m4",
+   "pertanyaan-tak-langsung",
+   "L19"
+  ],
+  "module": "n4-m4",
+  "example_en": "あいてのなまえをききましたか。(Did you ask the name of the person you were talking to?)"
+ },
+ {
+  "word": "対",
+  "reading": "たい",
+  "meaning_id": "mutlak (dalam 絶対・ぜったい)",
+  "meaning_en": "absolute (in 絶対)",
+  "pos": "noun",
+  "example": "ぜったいにくるというやくそくです。(Ini janji bahwa dia pasti akan datang.)",
+  "tags": [
+   "n4-m4",
+   "pertanyaan-tak-langsung",
+   "L19"
+  ],
+  "module": "n4-m4",
+  "example_en": "ぜったいにくるというやくそくです。(It's a promise that I will definitely come.)"
+ },
+ {
+  "word": "たしかめる",
+  "reading": "たしかめる",
+  "meaning_id": "memastikan",
+  "meaning_en": "to confirm",
+  "pos": "verb-g2",
+  "example": "じかんをたしかめてください。(Tolong pastikan waktunya.)",
+  "tags": [
+   "n4-m4",
+   "pertanyaan-tak-langsung",
+   "L19"
+  ],
+  "module": "n4-m4",
+  "example_en": "じかんをたしかめてください。(Please confirm the time.)"
+ },
+ {
+  "word": "へんじ",
+  "reading": "へんじ",
+  "meaning_id": "jawaban, balasan",
+  "meaning_en": "reply",
+  "pos": "noun",
+  "example": "へんじをかきました。(Saya menulis balasan.)",
+  "tags": [
+   "n4-m4",
+   "pertanyaan-tak-langsung",
+   "L19"
+  ],
+  "module": "n4-m4",
+  "example_en": "へんじをかきました。(I wrote a reply.)"
+ },
+ {
+  "word": "しつもん",
+  "reading": "しつもん",
+  "meaning_id": "pertanyaan",
+  "meaning_en": "question",
+  "pos": "noun",
+  "example": "しつもんがありますか。(Apakah ada pertanyaan?)",
+  "tags": [
+   "n4-m4",
+   "pertanyaan-tak-langsung",
+   "L19"
+  ],
+  "module": "n4-m4",
+  "example_en": "しつもんがありますか。(Do you have any questions?)"
+ },
+ {
+  "word": "ないよう",
+  "reading": "ないよう",
+  "meaning_id": "isi",
+  "meaning_en": "content",
+  "pos": "noun",
+  "example": "てがみのおないようをおしえてください。(Tolong beritahu saya isi suratnya.)",
+  "tags": [
+   "n4-m4",
+   "pertanyaan-tak-langsung",
+   "L19"
+  ],
+  "module": "n4-m4",
+  "example_en": "てがみのおないようをおしえてください。(Please tell me the contents of the letter.)"
+ },
+ {
+  "word": "はなし",
+  "reading": "はなし",
+  "meaning_id": "cerita, pembicaraan",
+  "meaning_en": "story, talk",
+  "pos": "noun",
+  "example": "おもしろいはなしをききました。(Saya mendengar cerita yang menarik.)",
+  "tags": [
+   "n4-m4",
+   "pertanyaan-tak-langsung",
+   "L19"
+  ],
+  "module": "n4-m4",
+  "example_en": "おもしろいはなしをききました。(I heard an interesting story.)"
+ },
+ {
+  "word": "よばれる",
+  "reading": "よばれる",
+  "meaning_id": "dipanggil, disebut",
+  "meaning_en": "to be called",
+  "pos": "verb-g2",
+  "example": "かれはみんなにタロウとよばれています。(Dia dipanggil Tarou oleh semua orang.)",
+  "tags": [
+   "n4-m4",
+   "pertanyaan-tak-langsung",
+   "L19"
+  ],
+  "module": "n4-m4",
+  "example_en": "かれはみんなにタロウとよばれています。(Everyone calls him Tarou.)"
+ },
+ {
+  "word": "向こう",
+  "reading": "むこう",
+  "meaning_id": "seberang, sana",
+  "meaning_en": "over there",
+  "pos": "noun",
+  "example": "むこうにゆうびんきょくがあります。(Di seberang ada kantor pos.)",
+  "tags": [
+   "n4-m4",
+   "tujuan-dan-kebiasaan-baru",
+   "L20"
+  ],
+  "module": "n4-m4",
+  "example_en": "むこうにゆうびんきょくがあります。(There is a post office over there.)"
+ },
+ {
+  "word": "均",
+  "reading": "きん",
+  "meaning_id": "rata (dalam 平均・へいきん)",
+  "meaning_en": "average (in 平均)",
+  "pos": "noun",
+  "example": "へいきんてんは七十点です。(Nilai rata-ratanya 70.)",
+  "tags": [
+   "n4-m4",
+   "tujuan-dan-kebiasaan-baru",
+   "L20"
+  ],
+  "module": "n4-m4",
+  "example_en": "へいきんてんは七十点です。(The average score is 70.)"
+ },
+ {
+  "word": "易しい",
+  "reading": "やさしい",
+  "meaning_id": "mudah",
+  "meaning_en": "easy",
+  "pos": "i-adj",
+  "example": "この本はやさしいです。(Buku ini mudah.)",
+  "tags": [
+   "n4-m4",
+   "tujuan-dan-kebiasaan-baru",
+   "L20"
+  ],
+  "module": "n4-m4",
+  "example_en": "この本はやさしいです。(This book is easy.)"
+ },
+ {
+  "word": "具",
+  "reading": "ぐ",
+  "meaning_id": "alat (dalam 道具・どうぐ)",
+  "meaning_en": "tool (in 道具)",
+  "pos": "noun",
+  "example": "このどうぐはべんりです。(Perkakas ini praktis.)",
+  "tags": [
+   "n4-m4",
+   "tujuan-dan-kebiasaan-baru",
+   "L20"
+  ],
+  "module": "n4-m4",
+  "example_en": "このどうぐはべんりです。(This tool is handy.)"
+ },
+ {
+  "word": "固い",
+  "reading": "かたい",
+  "meaning_id": "keras",
+  "meaning_en": "hard",
+  "pos": "i-adj",
+  "example": "このパンはかたいです。(Roti ini keras.)",
+  "tags": [
+   "n4-m4",
+   "tujuan-dan-kebiasaan-baru",
+   "L20"
+  ],
+  "module": "n4-m4",
+  "example_en": "このパンはかたいです。(This bread is hard.)"
+ },
+ {
+  "word": "候",
+  "reading": "こう",
+  "meaning_id": "cuaca (dalam 天候・てんこう, formal)",
+  "meaning_en": "weather (in 天候, formal)",
+  "pos": "noun",
+  "example": "てんこうが悪いので、きょうは行きません。(Karena cuaca buruk, hari ini saya tidak pergi.)",
+  "tags": [
+   "n4-m4",
+   "tujuan-dan-kebiasaan-baru",
+   "L20"
+  ],
+  "module": "n4-m4",
+  "example_en": "てんこうが悪いので、きょうは行きません。(Because the weather is bad, I'm not going today.)"
+ },
+ {
+  "word": "もくてき",
+  "reading": "もくてき",
+  "meaning_id": "tujuan",
+  "meaning_en": "purpose",
+  "pos": "noun",
+  "example": "にほんに行くもくてきは、にほんごのべんきょうです。(Tujuan pergi ke Jepang adalah belajar bahasa Jepang.)",
+  "tags": [
+   "n4-m4",
+   "tujuan-dan-kebiasaan-baru",
+   "L20"
+  ],
+  "module": "n4-m4",
+  "example_en": "にほんに行くもくてきは、にほんごのべんきょうです。(My purpose for going to Japan is to study Japanese.)"
+ },
+ {
+  "word": "どりょくする",
+  "reading": "どりょくする",
+  "meaning_id": "berusaha",
+  "meaning_en": "to make an effort",
+  "pos": "verb-g3",
+  "example": "にほんごがじょうずになるためにどりょくします。(Saya berusaha agar bahasa Jepang saya menjadi bagus.)",
+  "tags": [
+   "n4-m4",
+   "tujuan-dan-kebiasaan-baru",
+   "L20"
+  ],
+  "module": "n4-m4",
+  "example_en": "にほんごがじょうずになるためにどりょくします。(I am working hard to get better at Japanese.)"
+ },
+ {
+  "word": "しゅうかん",
+  "reading": "しゅうかん",
+  "meaning_id": "kebiasaan",
+  "meaning_en": "habit",
+  "pos": "noun",
+  "example": "はやおきがしゅうかんになりました。(Bangun pagi sudah menjadi kebiasaan.)",
+  "tags": [
+   "n4-m4",
+   "tujuan-dan-kebiasaan-baru",
+   "L20"
+  ],
+  "module": "n4-m4",
+  "example_en": "はやおきがしゅうかんになりました。(Waking up early has become a habit.)"
+ },
+ {
+  "word": "なれる",
+  "reading": "なれる",
+  "meaning_id": "terbiasa",
+  "meaning_en": "to get used to",
+  "pos": "verb-g2",
+  "example": "にほんのせいかつになれました。(Saya sudah terbiasa dengan kehidupan di Jepang.)",
+  "tags": [
+   "n4-m4",
+   "tujuan-dan-kebiasaan-baru",
+   "L20"
+  ],
+  "module": "n4-m4",
+  "example_en": "にほんのせいかつになれました。(I have gotten used to life in Japan.)"
+ },
+ {
+  "word": "はやおき",
+  "reading": "はやおき",
+  "meaning_id": "bangun pagi",
+  "meaning_en": "waking up early",
+  "pos": "noun",
+  "example": "けんこうのためにはやおきをすることにしました。(Demi kesehatan, saya memutuskan untuk bangun pagi.)",
+  "tags": [
+   "n4-m4",
+   "tujuan-dan-kebiasaan-baru",
+   "L20"
+  ],
+  "module": "n4-m4",
+  "example_en": "けんこうのためにはやおきをすることにしました。(For my health, I decided to wake up early.)"
+ },
+ {
+  "word": "ダイエット",
+  "reading": "ダイエット",
+  "meaning_id": "diet",
+  "meaning_en": "diet",
+  "pos": "noun",
+  "example": "ダイエットのためにうんどうします。(Saya berolahraga demi diet.)",
+  "tags": [
+   "n4-m4",
+   "tujuan-dan-kebiasaan-baru",
+   "L20"
+  ],
+  "module": "n4-m4",
+  "example_en": "ダイエットのためにうんどうします。(I exercise to diet.)"
+ },
+ {
+  "word": "けんこう",
+  "reading": "けんこう",
+  "meaning_id": "kesehatan",
+  "meaning_en": "health",
+  "pos": "noun",
+  "example": "けんこうのためにやさいを食べます。(Demi kesehatan, saya makan sayuran.)",
+  "tags": [
+   "n4-m4",
+   "tujuan-dan-kebiasaan-baru",
+   "L20"
+  ],
+  "module": "n4-m4",
+  "example_en": "けんこうのためにやさいを食べます。(I eat vegetables for my health.)"
+ },
+ {
+  "word": "盗む",
+  "reading": "ぬすむ",
+  "meaning_id": "mencuri",
+  "meaning_en": "steal",
+  "pos": "verb-g1",
+  "example": "どろぼうが わたしの かばんを 盗んだ。(Pencuri mencuri tas saya.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-1",
+   "L21"
+  ],
+  "module": "n4-m5",
+  "example_en": "どろぼうが わたしの かばんを 盗んだ。(A thief stole my bag.)"
+ },
+ {
+  "word": "殺す",
+  "reading": "ころす",
+  "meaning_id": "membunuh",
+  "meaning_en": "kill",
+  "pos": "verb-g1",
+  "example": "その えいがでは さむらいが てきを 殺した。(Dalam film itu samurai membunuh musuhnya.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-1",
+   "L21"
+  ],
+  "module": "n4-m5",
+  "example_en": "その えいがでは さむらいが てきを 殺した。(In that movie, a samurai killed his enemy.)"
+ },
+ {
+  "word": "案",
+  "reading": "あん",
+  "meaning_id": "rencana, usulan",
+  "meaning_en": "plan, proposal",
+  "pos": "noun",
+  "example": "わたしは いい 案がある。(Saya punya usulan yang bagus.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-1",
+   "L21"
+  ],
+  "module": "n4-m5",
+  "example_en": "わたしは いい 案がある。(I have a good idea.)"
+ },
+ {
+  "word": "以て",
+  "reading": "もって",
+  "meaning_id": "dengan ini (formal)",
+  "meaning_en": "with this (formal)",
+  "pos": "expression",
+  "example": "これを以て、かいぎを おわります。(Dengan ini, rapat selesai.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-1",
+   "L21"
+  ],
+  "module": "n4-m5",
+  "example_en": "これを以て、かいぎを おわります。(With this, the meeting is adjourned.)"
+ },
+ {
+  "word": "衣",
+  "reading": "ころも",
+  "meaning_id": "pakaian (bahasa sastra)",
+  "meaning_en": "clothing (literary)",
+  "pos": "noun",
+  "example": "むかしの おうは きれいな 衣を きていた。(Raja zaman dulu memakai pakaian yang indah.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-1",
+   "L21"
+  ],
+  "module": "n4-m5",
+  "example_en": "むかしの おうは きれいな 衣を きていた。(Kings of old wore beautiful clothes.)"
+ },
+ {
+  "word": "囲む",
+  "reading": "かこむ",
+  "meaning_id": "mengepung, mengelilingi",
+  "meaning_en": "surround",
+  "pos": "verb-g1",
+  "example": "てきが しろを 囲んだ。(Musuh mengepung kastil.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-1",
+   "L21"
+  ],
+  "module": "n4-m5",
+  "example_en": "てきが しろを 囲んだ。(The enemy surrounded the castle.)"
+ },
+ {
+  "word": "栄える",
+  "reading": "さかえる",
+  "meaning_id": "makmur, berjaya",
+  "meaning_en": "prosper",
+  "pos": "verb-g2",
+  "example": "この まちは むかし 栄えていた。(Kota ini dulu makmur.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-1",
+   "L21"
+  ],
+  "module": "n4-m5",
+  "example_en": "この まちは むかし 栄えていた。(This town once prospered.)"
+ },
+ {
+  "word": "加える",
+  "reading": "くわえる",
+  "meaning_id": "menambahkan",
+  "meaning_en": "add",
+  "pos": "verb-g2",
+  "example": "スープに しおを 加えてください。(Tolong tambahkan garam ke sup.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-1",
+   "L21"
+  ],
+  "module": "n4-m5",
+  "example_en": "スープに しおを 加えてください。(Please add salt to the soup.)"
+ },
+ {
+  "word": "ニュース",
+  "reading": "ニュース",
+  "meaning_id": "berita",
+  "meaning_en": "news",
+  "pos": "noun",
+  "example": "まいあさ ニュースを みます。(Setiap pagi saya menonton berita.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-1",
+   "L21"
+  ],
+  "module": "n4-m5",
+  "example_en": "まいあさ ニュースを みます。(I watch the news every morning.)"
+ },
+ {
+  "word": "じけん",
+  "reading": "じけん",
+  "meaning_id": "kejadian, peristiwa",
+  "meaning_en": "incident",
+  "pos": "noun",
+  "example": "その じけんについて ニュースで きいた。(Saya mendengar tentang kejadian itu di berita.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-1",
+   "L21"
+  ],
+  "module": "n4-m5",
+  "example_en": "その じけんについて ニュースで きいた。(I heard about that incident on the news.)"
+ },
+ {
+  "word": "どろぼう",
+  "reading": "どろぼう",
+  "meaning_id": "pencuri",
+  "meaning_en": "thief",
+  "pos": "noun",
+  "example": "どろぼうが にげた。(Pencuri itu kabur.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-1",
+   "L21"
+  ],
+  "module": "n4-m5",
+  "example_en": "どろぼうが にげた。(The thief ran away.)"
+ },
+ {
+  "word": "けいさつ",
+  "reading": "けいさつ",
+  "meaning_id": "polisi",
+  "meaning_en": "police",
+  "pos": "noun",
+  "example": "けいさつに でんわしてください。(Tolong telepon polisi.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-1",
+   "L21"
+  ],
+  "module": "n4-m5",
+  "example_en": "けいさつに でんわしてください。(Please call the police.)"
+ },
+ {
+  "word": "ひがい",
+  "reading": "ひがい",
+  "meaning_id": "kerugian",
+  "meaning_en": "damage",
+  "pos": "noun",
+  "example": "たいふうで おおきな ひがいが でた。(Topan menimbulkan kerugian besar.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-1",
+   "L21"
+  ],
+  "module": "n4-m5",
+  "example_en": "たいふうで おおきな ひがいが でた。(The typhoon caused great damage.)"
+ },
+ {
+  "word": "ほうどう",
+  "reading": "ほうどう",
+  "meaning_id": "peliputan berita",
+  "meaning_en": "news coverage",
+  "pos": "noun",
+  "example": "その じけんは ほうどうされなかった。(Kejadian itu tidak diliput berita.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-1",
+   "L21"
+  ],
+  "module": "n4-m5",
+  "example_en": "その じけんは ほうどうされなかった。(That incident was not covered by the news.)"
+ },
+ {
+  "word": "被害",
+  "reading": "ひがい",
+  "meaning_id": "kerugian, kerusakan",
+  "meaning_en": "damage, harm",
+  "pos": "noun",
+  "example": "たいふうの 被害が おおきかった。(Kerugian akibat topan besar.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-2",
+   "L22"
+  ],
+  "module": "n4-m5",
+  "example_en": "たいふうの 被害が おおきかった。(The damage from the typhoon was great.)"
+ },
+ {
+  "word": "疑う",
+  "reading": "うたがう",
+  "meaning_id": "mencurigai, meragukan",
+  "meaning_en": "doubt, suspect",
+  "pos": "verb-g1",
+  "example": "わたしは ともだちに 疑われた。(Saya dicurigai oleh teman.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-2",
+   "L22"
+  ],
+  "module": "n4-m5",
+  "example_en": "わたしは ともだちに 疑われた。(I was suspected by my friend.)"
+ },
+ {
+  "word": "課す",
+  "reading": "かす",
+  "meaning_id": "memberi (tugas), mengenakan",
+  "meaning_en": "impose",
+  "pos": "verb-g1",
+  "example": "せんせいは しゅくだいを 課した。(Guru memberi PR.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-2",
+   "L22"
+  ],
+  "module": "n4-m5",
+  "example_en": "せんせいは しゅくだいを 課した。(The teacher gave homework.)"
+ },
+ {
+  "word": "巻く",
+  "reading": "まく",
+  "meaning_id": "menggulung",
+  "meaning_en": "roll",
+  "pos": "verb-g1",
+  "example": "まきずしを 巻くのが むずかしい。(Menggulung makizushi itu sulit.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-2",
+   "L22"
+  ],
+  "module": "n4-m5",
+  "example_en": "まきずしを 巻くのが むずかしい。(Rolling makizushi is difficult.)"
+ },
+ {
+  "word": "慣れる",
+  "reading": "なれる",
+  "meaning_id": "terbiasa",
+  "meaning_en": "get used to",
+  "pos": "verb-g2",
+  "example": "わたしは にほんの せいかつに 慣れた。(Saya sudah terbiasa dengan kehidupan di Jepang.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-2",
+   "L22"
+  ],
+  "module": "n4-m5",
+  "example_en": "わたしは にほんの せいかつに 慣れた。(I've gotten used to life in Japan.)"
+ },
+ {
+  "word": "技",
+  "reading": "わざ",
+  "meaning_id": "teknik, keahlian",
+  "meaning_en": "skill, technique",
+  "pos": "noun",
+  "example": "かれは けんどうの 技が じょうずだ。(Teknik kendonya bagus.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-2",
+   "L22"
+  ],
+  "module": "n4-m5",
+  "example_en": "かれは けんどうの 技が じょうずだ。(His kendo technique is good.)"
+ },
+ {
+  "word": "居る",
+  "reading": "いる",
+  "meaning_id": "ada (makhluk hidup, formal)",
+  "meaning_en": "be (animate, formal)",
+  "pos": "verb-g2",
+  "example": "きょうしつに だれも 居なかった。(Tidak ada siapa pun di kelas.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-2",
+   "L22"
+  ],
+  "module": "n4-m5",
+  "example_en": "きょうしつに だれも 居なかった。(There was nobody in the classroom.)"
+ },
+ {
+  "word": "ふられる",
+  "reading": "ふられる",
+  "meaning_id": "kehujanan (pasif dari ふる)",
+  "meaning_en": "get rained on",
+  "pos": "verb-g2",
+  "example": "きのう あめに ふられた。(Kemarin saya kehujanan.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-2",
+   "L22"
+  ],
+  "module": "n4-m5",
+  "example_en": "きのう あめに ふられた。(Yesterday I got caught in the rain.)"
+ },
+ {
+  "word": "なかれる",
+  "reading": "なかれる",
+  "meaning_id": "diganggu tangisan",
+  "meaning_en": "be bothered by crying",
+  "pos": "verb-g2",
+  "example": "よる あかちゃんに なかれた。(Malam itu saya diganggu tangisan bayi.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-2",
+   "L22"
+  ],
+  "module": "n4-m5",
+  "example_en": "よる あかちゃんに なかれた。(That night I was kept awake by the baby's crying.)"
+ },
+ {
+  "word": "にげられる",
+  "reading": "にげられる",
+  "meaning_id": "ditinggal kabur",
+  "meaning_en": "be left behind by someone fleeing",
+  "pos": "verb-g2",
+  "example": "ともだちに にげられた。(Saya ditinggal kabur teman.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-2",
+   "L22"
+  ],
+  "module": "n4-m5",
+  "example_en": "ともだちに にげられた。(I was left behind when my friend ran off.)"
+ },
+ {
+  "word": "しなれる",
+  "reading": "しなれる",
+  "meaning_id": "ditinggal mati",
+  "meaning_en": "be left by someone's death",
+  "pos": "verb-g2",
+  "example": "ちちに しなれた。(Saya ditinggal mati ayah.)",
+  "tags": [
+   "n4-m5",
+   "kejadian-dan-berita-2",
+   "L22"
+  ],
+  "module": "n4-m5",
+  "example_en": "ちちに しなれた。(I lost my father to death.)"
+ },
+ {
+  "word": "困る",
+  "reading": "こまる",
+  "meaning_id": "kesulitan, bingung",
+  "meaning_en": "be troubled",
+  "pos": "verb-g1",
+  "example": "わたしは むずかしい もんだいに 困っている。(Saya kesulitan menghadapi soal yang sulit.)",
+  "tags": [
+   "n4-m5",
+   "penjelasan-formal",
+   "L23"
+  ],
+  "module": "n4-m5",
+  "example_en": "わたしは むずかしい もんだいに 困っている。(I'm struggling with a difficult problem.)"
+ },
+ {
+  "word": "許す",
+  "reading": "ゆるす",
+  "meaning_id": "mengizinkan, memaafkan",
+  "meaning_en": "permit, forgive",
+  "pos": "verb-g1",
+  "example": "せんせいは しゃしんを とることを 許した。(Guru mengizinkan memotret.)",
+  "tags": [
+   "n4-m5",
+   "penjelasan-formal",
+   "L23"
+  ],
+  "module": "n4-m5",
+  "example_en": "せんせいは しゃしんを とることを 許した。(The teacher allowed us to take photos.)"
+ },
+ {
+  "word": "境",
+  "reading": "さかい",
+  "meaning_id": "perbatasan",
+  "meaning_en": "border",
+  "pos": "noun",
+  "example": "むらの 境に かわがある。(Di perbatasan desa ada sungai.)",
+  "tags": [
+   "n4-m5",
+   "penjelasan-formal",
+   "L23"
+  ],
+  "module": "n4-m5",
+  "example_en": "むらの 境に かわがある。(There is a river at the village border.)"
+ },
+ {
+  "word": "君",
+  "reading": "きみ",
+  "meaning_id": "kamu (formal)",
+  "meaning_en": "you (formal)",
+  "pos": "pronoun",
+  "example": "君の ほんを かりてもいいですか。(Bolehkah saya meminjam bukumu?)",
+  "tags": [
+   "n4-m5",
+   "penjelasan-formal",
+   "L23"
+  ],
+  "module": "n4-m5",
+  "example_en": "君の ほんを かりてもいいですか。(May I borrow your book?)"
+ },
+ {
+  "word": "型",
+  "reading": "かた",
+  "meaning_id": "tipe, model",
+  "meaning_en": "type, model",
+  "pos": "noun",
+  "example": "あたらしい 型の くるまが でた。(Mobil model baru keluar.)",
+  "tags": [
+   "n4-m5",
+   "penjelasan-formal",
+   "L23"
+  ],
+  "module": "n4-m5",
+  "example_en": "あたらしい 型の くるまが でた。(A new model of car came out.)"
+ },
+ {
+  "word": "はっけん",
+  "reading": "はっけん",
+  "meaning_id": "penemuan",
+  "meaning_en": "discovery",
+  "pos": "noun",
+  "example": "その はっけんは せかいに ゆうめいだ。(Penemuan itu terkenal di dunia.)",
+  "tags": [
+   "n4-m5",
+   "penjelasan-formal",
+   "L23"
+  ],
+  "module": "n4-m5",
+  "example_en": "その はっけんは せかいに ゆうめいだ。(That discovery is famous worldwide.)"
+ },
+ {
+  "word": "たてる",
+  "reading": "たてる",
+  "meaning_id": "membangun",
+  "meaning_en": "build",
+  "pos": "verb-g2",
+  "example": "ちちは あたらしい いえを たてた。(Ayah membangun rumah baru.)",
+  "tags": [
+   "n4-m5",
+   "penjelasan-formal",
+   "L23"
+  ],
+  "module": "n4-m5",
+  "example_en": "ちちは あたらしい いえを たてた。(My father built a new house.)"
+ },
+ {
+  "word": "はっぴょう",
+  "reading": "はっぴょう",
+  "meaning_id": "pengumuman",
+  "meaning_en": "announcement",
+  "pos": "noun",
+  "example": "せんせいが はっぴょうした。(Guru mengumumkan.)",
+  "tags": [
+   "n4-m5",
+   "penjelasan-formal",
+   "L23"
+  ],
+  "module": "n4-m5",
+  "example_en": "せんせいが はっぴょうした。(The teacher made an announcement.)"
+ },
+ {
+  "word": "はかせ",
+  "reading": "はかせ",
+  "meaning_id": "doktor (gelar akademik)",
+  "meaning_en": "doctor (PhD)",
+  "pos": "noun",
+  "example": "その はかせは だいがくで おしえている。(Doktor itu mengajar di universitas.)",
+  "tags": [
+   "n4-m5",
+   "penjelasan-formal",
+   "L23"
+  ],
+  "module": "n4-m5",
+  "example_en": "その はかせは だいがくで おしえている。(That doctor teaches at a university.)"
+ },
+ {
+  "word": "ほうりつ",
+  "reading": "ほうりつ",
+  "meaning_id": "undang-undang",
+  "meaning_en": "law",
+  "pos": "noun",
+  "example": "ほうりつを まもらなければならない。(Kita harus menaati undang-undang.)",
+  "tags": [
+   "n4-m5",
+   "penjelasan-formal",
+   "L23"
+  ],
+  "module": "n4-m5",
+  "example_en": "ほうりつを まもらなければならない。(We must obey the law.)"
+ },
+ {
+  "word": "難しい",
+  "reading": "むずかしい",
+  "meaning_id": "sulit",
+  "meaning_en": "difficult",
+  "pos": "i-adj",
+  "example": "この もんだいは むずかしい。(Soal ini sulit.)",
+  "tags": [
+   "n4-m5",
+   "menyuruh-dan-mengizinkan",
+   "L24"
+  ],
+  "module": "n4-m5",
+  "example_en": "この もんだいは むずかしい。(This problem is difficult.)"
+ },
+ {
+  "word": "失う",
+  "reading": "うしなう",
+  "meaning_id": "kehilangan",
+  "meaning_en": "lose",
+  "pos": "verb-g1",
+  "example": "さいふを 失った。(Saya kehilangan dompet.)",
+  "tags": [
+   "n4-m5",
+   "menyuruh-dan-mengizinkan",
+   "L24"
+  ],
+  "module": "n4-m5",
+  "example_en": "さいふを 失った。(I lost my wallet.)"
+ },
+ {
+  "word": "芸",
+  "reading": "げい",
+  "meaning_id": "seni pertunjukan",
+  "meaning_en": "performing arts",
+  "pos": "noun",
+  "example": "かれは 芸の がくせいだ。(Dia mahasiswa seni pertunjukan.)",
+  "tags": [
+   "n4-m5",
+   "menyuruh-dan-mengizinkan",
+   "L24"
+  ],
+  "module": "n4-m5",
+  "example_en": "かれは 芸の がくせいだ。(He is a performing arts student.)"
+ },
+ {
+  "word": "欠ける",
+  "reading": "かける",
+  "meaning_id": "berkurang, tidak lengkap",
+  "meaning_en": "be lacking",
+  "pos": "verb-g2",
+  "example": "この セットの コップが ひとつ 欠けている。(Set ini kurang satu gelas.)",
+  "tags": [
+   "n4-m5",
+   "menyuruh-dan-mengizinkan",
+   "L24"
+  ],
+  "module": "n4-m5",
+  "example_en": "この セットの コップが ひとつ 欠けている。(This set is missing one glass.)"
+ },
+ {
+  "word": "結ぶ",
+  "reading": "むすぶ",
+  "meaning_id": "mengikat, menyimpulkan",
+  "meaning_en": "tie, conclude",
+  "pos": "verb-g1",
+  "example": "くつひもを 結んだ。(Saya mengikat tali sepatu.)",
+  "tags": [
+   "n4-m5",
+   "menyuruh-dan-mengizinkan",
+   "L24"
+  ],
+  "module": "n4-m5",
+  "example_en": "くつひもを 結んだ。(I tied my shoelaces.)"
+ },
+ {
+  "word": "健やか",
+  "reading": "すこやか",
+  "meaning_id": "sehat",
+  "meaning_en": "healthy",
+  "pos": "na-adj",
+  "example": "あかちゃんが 健やかに そだっています。(Bayi itu tumbuh dengan sehat.)",
+  "tags": [
+   "n4-m5",
+   "menyuruh-dan-mengizinkan",
+   "L24"
+  ],
+  "module": "n4-m5",
+  "example_en": "あかちゃんが 健やかに そだっています。(The baby is growing up healthy.)"
+ },
+ {
+  "word": "告げる",
+  "reading": "つげる",
+  "meaning_id": "memberitahu, mengumumkan",
+  "meaning_en": "inform, announce",
+  "pos": "verb-g2",
+  "example": "せんせいに けっかを 告げた。(Saya memberitahukan hasilnya kepada guru.)",
+  "tags": [
+   "n4-m5",
+   "menyuruh-dan-mengizinkan",
+   "L24"
+  ],
+  "module": "n4-m5",
+  "example_en": "せんせいに けっかを 告げた。(I informed the teacher of the result.)"
+ },
+ {
+  "word": "砂",
+  "reading": "すな",
+  "meaning_id": "pasir",
+  "meaning_en": "sand",
+  "pos": "noun",
+  "example": "うみべの 砂が あつい。(Pasir di pantai panas.)",
+  "tags": [
+   "n4-m5",
+   "menyuruh-dan-mengizinkan",
+   "L24"
+  ],
+  "module": "n4-m5",
+  "example_en": "うみべの 砂が あつい。(The sand at the beach is hot.)"
+ },
+ {
+  "word": "むり",
+  "reading": "むり",
+  "meaning_id": "pemaksaan, tidak mungkin",
+  "meaning_en": "unreasonable, impossible",
+  "pos": "na-adj",
+  "example": "むりな れんしゅうは やめましょう。(Mari berhenti latihan yang memaksa.)",
+  "tags": [
+   "n4-m5",
+   "menyuruh-dan-mengizinkan",
+   "L24"
+  ],
+  "module": "n4-m5",
+  "example_en": "むりな れんしゅうは やめましょう。(Let's stop this unreasonable practice.)"
+ },
+ {
+  "word": "なく",
+  "reading": "なく",
+  "meaning_id": "menangis",
+  "meaning_en": "cry",
+  "pos": "verb-g1",
+  "example": "あかちゃんが ないた。(Bayi itu menangis.)",
+  "tags": [
+   "n4-m5",
+   "menyuruh-dan-mengizinkan",
+   "L24"
+  ],
+  "module": "n4-m5",
+  "example_en": "あかちゃんが ないた。(The baby cried.)"
+ },
+ {
+  "word": "わらう",
+  "reading": "わらう",
+  "meaning_id": "tertawa",
+  "meaning_en": "laugh",
+  "pos": "verb-g1",
+  "example": "おもしろい はなしに わらった。(Saya tertawa mendengar cerita lucu.)",
+  "tags": [
+   "n4-m5",
+   "menyuruh-dan-mengizinkan",
+   "L24"
+  ],
+  "module": "n4-m5",
+  "example_en": "おもしろい はなしに わらった。(I laughed at the funny story.)"
+ },
+ {
+  "word": "済む",
+  "reading": "すむ",
+  "meaning_id": "selesai, beres",
+  "meaning_en": "be finished",
+  "pos": "verb-g1",
+  "example": "しゅくだいが 済んだ。(PR sudah beres.)",
+  "tags": [
+   "n4-m5",
+   "pengalaman-dipaksa",
+   "L25"
+  ],
+  "module": "n4-m5",
+  "example_en": "しゅくだいが 済んだ。(The homework is done.)"
+ },
+ {
+  "word": "裁く",
+  "reading": "さばく",
+  "meaning_id": "mengadili",
+  "meaning_en": "judge",
+  "pos": "verb-g1",
+  "example": "さいばんしょで 裁かれた。(Dia diadili di pengadilan.)",
+  "tags": [
+   "n4-m5",
+   "pengalaman-dipaksa",
+   "L25"
+  ],
+  "module": "n4-m5",
+  "example_en": "さいばんしょで 裁かれた。(He was tried in court.)"
+ },
+ {
+  "word": "札",
+  "reading": "さつ",
+  "meaning_id": "karcis, label",
+  "meaning_en": "ticket, label",
+  "pos": "noun",
+  "example": "でんしゃの 札を かった。(Saya membeli karcis kereta.)",
+  "tags": [
+   "n4-m5",
+   "pengalaman-dipaksa",
+   "L25"
+  ],
+  "module": "n4-m5",
+  "example_en": "でんしゃの 札を かった。(I bought a train ticket.)"
+ },
+ {
+  "word": "刷る",
+  "reading": "する",
+  "meaning_id": "mencetak",
+  "meaning_en": "print",
+  "pos": "verb-g1",
+  "example": "しりょうを 100まい 刷った。(Saya mencetak 100 lembar materi.)",
+  "tags": [
+   "n4-m5",
+   "pengalaman-dipaksa",
+   "L25"
+  ],
+  "module": "n4-m5",
+  "example_en": "しりょうを 100まい 刷った。(I printed 100 copies of the materials.)"
+ },
+ {
+  "word": "産む",
+  "reading": "うむ",
+  "meaning_id": "melahirkan",
+  "meaning_en": "give birth",
+  "pos": "verb-g1",
+  "example": "ねこが こねこを 産んだ。(Kucing itu melahirkan anak.)",
+  "tags": [
+   "n4-m5",
+   "pengalaman-dipaksa",
+   "L25"
+  ],
+  "module": "n4-m5",
+  "example_en": "ねこが こねこを 産んだ。(The cat gave birth to kittens.)"
+ },
+ {
+  "word": "士",
+  "reading": "し",
+  "meaning_id": "ksatria, kaum terpelajar",
+  "meaning_en": "scholar, warrior",
+  "pos": "noun",
+  "example": "むかしの 士は かたなを もっていた。(Ksatria zaman dulu membawa pedang.)",
+  "tags": [
+   "n4-m5",
+   "pengalaman-dipaksa",
+   "L25"
+  ],
+  "module": "n4-m5",
+  "example_en": "むかしの 士は かたなを もっていた。(Samurai of old carried swords.)"
+ },
+ {
+  "word": "ごらんになる",
+  "reading": "ごらんになる",
+  "meaning_id": "(hormat) melihat",
+  "meaning_en": "see (honorific)",
+  "pos": "verb-g1",
+  "example": "あたらしい カタログを ごらんになりましたか。(Apakah Anda sudah melihat katalog baru?)",
+  "tags": [
+   "n4-m6",
+   "bahasa-hormat-bisnis",
+   "L26"
+  ],
+  "module": "n4-m6",
+  "example_en": "あたらしい カタログを ごらんになりましたか。(Have you seen the new catalog?)"
+ },
+ {
+  "word": "めしあがる",
+  "reading": "めしあがる",
+  "meaning_id": "(hormat) makan, minum",
+  "meaning_en": "eat, drink (honorific)",
+  "pos": "verb-g1",
+  "example": "ひるごはんを もう めしあがりましたか。(Apakah Anda sudah makan siang?)",
+  "tags": [
+   "n4-m6",
+   "bahasa-hormat-bisnis",
+   "L26"
+  ],
+  "module": "n4-m6",
+  "example_en": "ひるごはんを もう めしあがりましたか。(Have you had lunch yet?)"
+ },
+ {
+  "word": "ごぞんじ",
+  "reading": "ごぞんじ",
+  "meaning_id": "(hormat) tahu",
+  "meaning_en": "know (honorific)",
+  "pos": "expression",
+  "example": "せんせいの おなまえを ごぞんじですか。(Apakah Anda tahu nama guru itu?)",
+  "tags": [
+   "n4-m6",
+   "bahasa-hormat-bisnis",
+   "L26"
+  ],
+  "module": "n4-m6",
+  "example_en": "せんせいの おなまえを ごぞんじですか。(Do you know that teacher's name?)"
+ },
+ {
+  "word": "社",
+  "reading": "しゃ",
+  "meaning_id": "perusahaan",
+  "meaning_en": "company",
+  "pos": "noun",
+  "example": "ちちは おおきな 社で はたらいている。(Ayah bekerja di perusahaan besar.)",
+  "tags": [
+   "n4-m6",
+   "bahasa-hormat-bisnis",
+   "L26"
+  ],
+  "module": "n4-m6",
+  "example_en": "ちちは おおきな 社で はたらいている。(My father works at a large company.)"
+ },
+ {
+  "word": "営む",
+  "reading": "いとなむ",
+  "meaning_id": "menjalankan (usaha)",
+  "meaning_en": "run (a business)",
+  "pos": "verb-g1",
+  "example": "そふは みせを 営んでいます。(Kakek menjalankan toko.)",
+  "tags": [
+   "n4-m6",
+   "bahasa-hormat-bisnis",
+   "L26"
+  ],
+  "module": "n4-m6",
+  "example_en": "そふは みせを 営んでいます。(My grandfather runs a shop.)"
+ },
+ {
+  "word": "かいぎ",
+  "reading": "かいぎ",
+  "meaning_id": "rapat",
+  "meaning_en": "meeting",
+  "pos": "noun",
+  "example": "3じから かいぎが あります。(Ada rapat dari jam 3.)",
+  "tags": [
+   "n4-m6",
+   "bahasa-hormat-bisnis",
+   "L26"
+  ],
+  "module": "n4-m6",
+  "example_en": "3じから かいぎが あります。(There is a meeting from 3 o'clock.)"
+ },
+ {
+  "word": "しりょう",
+  "reading": "しりょう",
+  "meaning_id": "materi, dokumen",
+  "meaning_en": "documents, materials",
+  "pos": "noun",
+  "example": "かいぎの しりょうを よみました。(Saya membaca materi rapat.)",
+  "tags": [
+   "n4-m6",
+   "bahasa-hormat-bisnis",
+   "L26"
+  ],
+  "module": "n4-m6",
+  "example_en": "かいぎの しりょうを よみました。(I read the meeting materials.)"
+ },
+ {
+  "word": "もうす",
+  "reading": "もうす",
+  "meaning_id": "(merendah) berkata, bernama",
+  "meaning_en": "say (humble)",
+  "pos": "verb-g1",
+  "example": "わたしは アリと もうします。(Saya bernama Ari.)",
+  "tags": [
+   "n4-m6",
+   "bahasa-merendah-bisnis",
+   "L27"
+  ],
+  "module": "n4-m6",
+  "example_en": "わたしは アリと もうします。(My name is Ari.)"
+ },
+ {
+  "word": "まいる",
+  "reading": "まいる",
+  "meaning_id": "(merendah) datang, pergi",
+  "meaning_en": "come, go (humble)",
+  "pos": "verb-g1",
+  "example": "あした とうきょうへ まいります。(Besok saya akan pergi ke Tokyo.)",
+  "tags": [
+   "n4-m6",
+   "bahasa-merendah-bisnis",
+   "L27"
+  ],
+  "module": "n4-m6",
+  "example_en": "あした とうきょうへ まいります。(Tomorrow I will go to Tokyo.)"
+ },
+ {
+  "word": "おる",
+  "reading": "おる",
+  "meaning_id": "(merendah) ada",
+  "meaning_en": "be (humble)",
+  "pos": "verb-g1",
+  "example": "じむしょに おります。(Saya ada di kantor.)",
+  "tags": [
+   "n4-m6",
+   "bahasa-merendah-bisnis",
+   "L27"
+  ],
+  "module": "n4-m6",
+  "example_en": "じむしょに おります。(I am at the office.)"
+ },
+ {
+  "word": "はいけんする",
+  "reading": "はいけんする",
+  "meaning_id": "(merendah) melihat",
+  "meaning_en": "see (humble)",
+  "pos": "verb-g3",
+  "example": "きのう さくひんを はいけんしました。(Kemarin saya melihat karyanya.)",
+  "tags": [
+   "n4-m6",
+   "bahasa-merendah-bisnis",
+   "L27"
+  ],
+  "module": "n4-m6",
+  "example_en": "きのう さくひんを はいけんしました。(Yesterday I saw his work.)"
+ },
+ {
+  "word": "はいしゃくする",
+  "reading": "はいしゃくする",
+  "meaning_id": "(merendah) meminjam",
+  "meaning_en": "borrow (humble)",
+  "pos": "verb-g3",
+  "example": "じしょを はいしゃくしてもいいですか。(Bolehkah saya meminjam kamus?)",
+  "tags": [
+   "n4-m6",
+   "bahasa-merendah-bisnis",
+   "L27"
+  ],
+  "module": "n4-m6",
+  "example_en": "じしょを はいしゃくしてもいいですか。(May I borrow your dictionary?)"
+ },
+ {
+  "word": "ぞんじる",
+  "reading": "ぞんじる",
+  "meaning_id": "(merendah) tahu, berpikir",
+  "meaning_en": "know, think (humble)",
+  "pos": "verb-g2",
+  "example": "さとうさんの でんわばんごうを ぞんじております。(Saya mengetahui nomor telepon Saito.)",
+  "tags": [
+   "n4-m6",
+   "bahasa-merendah-bisnis",
+   "L27"
+  ],
+  "module": "n4-m6",
+  "example_en": "さとうさんの でんわばんごうを ぞんじております。(I know Mr. Sato's phone number.)"
+ },
+ {
+  "word": "うかがう",
+  "reading": "うかがう",
+  "meaning_id": "(merendah) bertanya, berkunjung",
+  "meaning_en": "ask, visit (humble)",
+  "pos": "verb-g1",
+  "example": "あした おたくへ うかがいます。(Besok saya akan berkunjung ke rumah Anda.)",
+  "tags": [
+   "n4-m6",
+   "bahasa-merendah-bisnis",
+   "L27"
+  ],
+  "module": "n4-m6",
+  "example_en": "あした おたくへ うかがいます。(Tomorrow I will visit your home.)"
+ },
+ {
+  "word": "業",
+  "reading": "ぎょう",
+  "meaning_id": "usaha, pekerjaan",
+  "meaning_en": "business, work",
+  "pos": "noun",
+  "example": "ちちの 業は のうぎょうです。(Usaha ayah adalah pertanian.)",
+  "tags": [
+   "n4-m6",
+   "bahasa-merendah-bisnis",
+   "L27"
+  ],
+  "module": "n4-m6",
+  "example_en": "ちちの 業は のうぎょうです。(My father's business is farming.)"
+ },
+ {
+  "word": "株",
+  "reading": "かぶ",
+  "meaning_id": "saham",
+  "meaning_en": "stock, shares",
+  "pos": "noun",
+  "example": "株を かった。(Saya membeli saham.)",
+  "tags": [
+   "n4-m6",
+   "bahasa-merendah-bisnis",
+   "L27"
+  ],
+  "module": "n4-m6",
+  "example_en": "株を かった。(I bought some stocks.)"
+ },
+ {
+  "word": "ごあんない",
+  "reading": "ごあんない",
+  "meaning_id": "pengarahan, pemanduan",
+  "meaning_en": "guidance",
+  "pos": "noun",
+  "example": "ごあんないありがとうございます。(Terima kasih atas pengarahannya.)",
+  "tags": [
+   "n4-m6",
+   "bahasa-merendah-bisnis",
+   "L27"
+  ],
+  "module": "n4-m6",
+  "example_en": "ごあんないありがとうございます。(Thank you for the guidance.)"
+ },
+ {
+  "word": "いただく",
+  "reading": "いただく",
+  "meaning_id": "(merendah) menerima",
+  "meaning_en": "receive (humble)",
+  "pos": "verb-g1",
+  "example": "プレゼントを いただきました。(Saya menerima hadiah.)",
+  "tags": [
+   "n4-m6",
+   "permintaan-dan-terima-kasih-formal",
+   "L28"
+  ],
+  "module": "n4-m6",
+  "example_en": "プレゼントを いただきました。(I received a present.)"
+ },
+ {
+  "word": "税",
+  "reading": "ぜい",
+  "meaning_id": "pajak",
+  "meaning_en": "tax",
+  "pos": "noun",
+  "example": "ことしは 税が あがった。(Tahun ini pajak naik.)",
+  "tags": [
+   "n4-m6",
+   "permintaan-dan-terima-kasih-formal",
+   "L28"
+  ],
+  "module": "n4-m6",
+  "example_en": "ことしは 税が あがった。(Taxes went up this year.)"
+ },
+ {
+  "word": "給",
+  "reading": "きゅう",
+  "meaning_id": "upah, gaji",
+  "meaning_en": "salary, wages",
+  "pos": "noun",
+  "example": "まいげつ 25にちに 給が はいります。(Setiap bulan tanggal 25 gaji masuk.)",
+  "tags": [
+   "n4-m6",
+   "permintaan-dan-terima-kasih-formal",
+   "L28"
+  ],
+  "module": "n4-m6",
+  "example_en": "まいげつ 25にちに 給が はいります。(My salary is paid on the 25th of every month.)"
+ },
+ {
+  "word": "雇う",
+  "reading": "やとう",
+  "meaning_id": "mempekerjakan",
+  "meaning_en": "employ",
+  "pos": "verb-g1",
+  "example": "かいしゃは あたらしい ひとを 雇った。(Perusahaan mempekerjakan orang baru.)",
+  "tags": [
+   "n4-m6",
+   "permintaan-dan-terima-kasih-formal",
+   "L28"
+  ],
+  "module": "n4-m6",
+  "example_en": "かいしゃは あたらしい ひとを 雇った。(The company hired new people.)"
+ },
+ {
+  "word": "もうしこむ",
+  "reading": "もうしこむ",
+  "meaning_id": "mendaftar",
+  "meaning_en": "apply",
+  "pos": "verb-g1",
+  "example": "しけんに もうしこみました。(Saya mendaftar ujian.)",
+  "tags": [
+   "n4-m6",
+   "permintaan-dan-terima-kasih-formal",
+   "L28"
+  ],
+  "module": "n4-m6",
+  "example_en": "しけんに もうしこみました。(I applied for the exam.)"
+ },
+ {
+  "word": "収支",
+  "reading": "しゅうし",
+  "meaning_id": "pemasukan dan pengeluaran",
+  "meaning_en": "income and expenses",
+  "pos": "noun",
+  "example": "こんげつの 収支を しらべた。(Saya memeriksa pemasukan dan pengeluaran bulan ini.)",
+  "tags": [
+   "n4-m6",
+   "percakapan-telepon",
+   "L29"
+  ],
+  "module": "n4-m6",
+  "example_en": "こんげつの 収支を しらべた。(I checked this month's income and expenses.)"
+ },
+ {
+  "word": "収める",
+  "reading": "おさめる",
+  "meaning_id": "membayar, menyimpan",
+  "meaning_en": "pay, store",
+  "pos": "verb-g2",
+  "example": "ぜいきんを 収めなければならない。(Kita harus membayar pajak.)",
+  "tags": [
+   "n4-m6",
+   "percakapan-telepon",
+   "L29"
+  ],
+  "module": "n4-m6",
+  "example_en": "ぜいきんを 収めなければならない。(We must pay our taxes.)"
+ },
+ {
+  "word": "支える",
+  "reading": "ささえる",
+  "meaning_id": "menopang, mendukung",
+  "meaning_en": "support",
+  "pos": "verb-g2",
+  "example": "ともだちを 支えたい。(Saya ingin mendukung teman.)",
+  "tags": [
+   "n4-m6",
+   "percakapan-telepon",
+   "L29"
+  ],
+  "module": "n4-m6",
+  "example_en": "ともだちを 支えたい。(I want to support my friend.)"
+ },
+ {
+  "word": "でございます",
+  "reading": "でございます",
+  "meaning_id": "(formal) adalah",
+  "meaning_en": "be (formal)",
+  "pos": "expression",
+  "example": "わたしは ABCしょうじの さとうでございます。(Saya Saito dari ABC Shoji.)",
+  "tags": [
+   "n4-m6",
+   "percakapan-telepon",
+   "L29"
+  ],
+  "module": "n4-m6",
+  "example_en": "わたしは ABCしょうじの さとうでございます。(I am Sato from ABC Shoji.)"
+ },
+ {
+  "word": "おそれいります",
+  "reading": "おそれいります",
+  "meaning_id": "mohon maaf (sopan)",
+  "meaning_en": "I'm sorry (formal)",
+  "pos": "expression",
+  "example": "おそれいりますが、でんわばんごうを おしえてください。(Mohon maaf, tolong beritahu nomor teleponnya.)",
+  "tags": [
+   "n4-m6",
+   "percakapan-telepon",
+   "L29"
+  ],
+  "module": "n4-m6",
+  "example_en": "おそれいりますが、でんわばんごうを おしえてください。(Excuse me, could you please tell me your phone number?)"
+ },
+ {
+  "word": "しょうしょうおまちくださいませ",
+  "reading": "しょうしょうおまちくださいませ",
+  "meaning_id": "mohon tunggu sebentar",
+  "meaning_en": "please wait a moment",
+  "pos": "expression",
+  "example": "しょうしょうおまちくださいませ。かくにんします。(Mohon tunggu sebentar. Saya akan memeriksa.)",
+  "tags": [
+   "n4-m6",
+   "percakapan-telepon",
+   "L29"
+  ],
+  "module": "n4-m6",
+  "example_en": "しょうしょうおまちくださいませ。かくにんします。(Please wait a moment. I will check.)"
+ },
+ {
+  "word": "もうしつたえます",
+  "reading": "もうしつたえます",
+  "meaning_id": "akan saya sampaikan",
+  "meaning_en": "I will convey it",
+  "pos": "expression",
+  "example": "でんごんを もうしつたえます。(Saya akan menyampaikan pesan itu.)",
+  "tags": [
+   "n4-m6",
+   "percakapan-telepon",
+   "L29"
+  ],
+  "module": "n4-m6",
+  "example_en": "でんごんを もうしつたえます。(I will convey the message.)"
+ },
+ {
+  "word": "かけなおします",
+  "reading": "かけなおします",
+  "meaning_id": "akan menelepon kembali",
+  "meaning_en": "I will call back",
+  "pos": "expression",
+  "example": "あとで かけなおします。(Nanti saya telepon kembali.)",
+  "tags": [
+   "n4-m6",
+   "percakapan-telepon",
+   "L29"
+  ],
+  "module": "n4-m6",
+  "example_en": "あとで かけなおします。(I will call you back later.)"
+ },
+ {
+  "word": "でんごん",
+  "reading": "でんごん",
+  "meaning_id": "pesan titipan",
+  "meaning_en": "message left for someone",
+  "pos": "noun",
+  "example": "でんごんが あります。(Ada pesan titipan.)",
+  "tags": [
+   "n4-m6",
+   "percakapan-telepon",
+   "L29"
+  ],
+  "module": "n4-m6",
+  "example_en": "でんごんが あります。(There is a message for you.)"
+ },
+ {
+  "word": "ぶしょ",
+  "reading": "ぶしょ",
+  "meaning_id": "divisi",
+  "meaning_en": "department",
+  "pos": "noun",
+  "example": "かれは けいりぶしょの ぶちょうです。(Dia kepala divisi akuntansi.)",
+  "tags": [
+   "n4-m6",
+   "percakapan-telepon",
+   "L29"
+  ],
+  "module": "n4-m6",
+  "example_en": "かれは けいりぶしょの ぶちょうです。(He is the head of the accounting department.)"
+ },
+ {
+  "word": "たんとうしゃ",
+  "reading": "たんとうしゃ",
+  "meaning_id": "penanggung jawab",
+  "meaning_en": "person in charge",
+  "pos": "noun",
+  "example": "たんとうしゃに れんらくします。(Saya akan menghubungi penanggung jawabnya.)",
+  "tags": [
+   "n4-m6",
+   "percakapan-telepon",
+   "L29"
+  ],
+  "module": "n4-m6",
+  "example_en": "たんとうしゃに れんらくします。(I will contact the person in charge.)"
+ },
+ {
+  "word": "勤める",
+  "reading": "つとめる",
+  "meaning_id": "bekerja (di)",
+  "meaning_en": "work (at)",
+  "pos": "verb-g2",
+  "example": "ぎんこうに 勤めています。(Saya bekerja di bank.)",
+  "tags": [
+   "n4-m6",
+   "email-dan-dokumen-kerja",
+   "L30"
+  ],
+  "module": "n4-m6",
+  "example_en": "ぎんこうに 勤めています。(I work at a bank.)"
+ },
+ {
+  "word": "退く",
+  "reading": "しりぞく",
+  "meaning_id": "mundur, menyingkir",
+  "meaning_en": "withdraw, step back",
+  "pos": "verb-g1",
+  "example": "ぶちょうが その けいかくから 退いた。(Kepala bagian mundur dari rencana itu.)",
+  "tags": [
+   "n4-m6",
+   "email-dan-dokumen-kerja",
+   "L30"
+  ],
+  "module": "n4-m6",
+  "example_en": "ぶちょうが その けいかくから 退いた。(The department head withdrew from that plan.)"
+ },
+ {
+  "word": "退勤",
+  "reading": "たいきん",
+  "meaning_id": "pulang kerja",
+  "meaning_en": "leaving work",
+  "pos": "noun",
+  "example": "たいきんは 18じです。(Pulang kerja jam 18.)",
+  "tags": [
+   "n4-m6",
+   "email-dan-dokumen-kerja",
+   "L30"
+  ],
+  "module": "n4-m6",
+  "example_en": "たいきんは 18じです。(Work ends at 18:00.)"
+ },
+ {
+  "word": "ごれんらく",
+  "reading": "ごれんらく",
+  "meaning_id": "(hormat) kabar, hubungan",
+  "meaning_en": "contact (honorific)",
+  "pos": "noun",
+  "example": "ごれんらくを おまちしております。(Saya menunggu kabar Anda.)",
+  "tags": [
+   "n4-m6",
+   "email-dan-dokumen-kerja",
+   "L30"
+  ],
+  "module": "n4-m6",
+  "example_en": "ごれんらくを おまちしております。(I look forward to hearing from you.)"
+ },
+ {
+  "word": "おじかん",
+  "reading": "おじかん",
+  "meaning_id": "(hormat) waktu",
+  "meaning_en": "time (honorific)",
+  "pos": "noun",
+  "example": "おじかんを いただき、ありがとうございます。(Terima kasih atas waktunya.)",
+  "tags": [
+   "n4-m6",
+   "email-dan-dokumen-kerja",
+   "L30"
+  ],
+  "module": "n4-m6",
+  "example_en": "おじかんを いただき、ありがとうございます。(Thank you for your time.)"
+ },
+ {
+  "word": "ごかくにん",
+  "reading": "ごかくにん",
+  "meaning_id": "(hormat) konfirmasi",
+  "meaning_en": "confirmation (honorific)",
+  "pos": "noun",
+  "example": "しりょうの ごかくにんを おねがいします。(Mohon konfirmasi materinya.)",
+  "tags": [
+   "n4-m6",
+   "email-dan-dokumen-kerja",
+   "L30"
+  ],
+  "module": "n4-m6",
+  "example_en": "しりょうの ごかくにんを おねがいします。(Please confirm the materials.)"
+ },
+ {
+  "word": "おへんじ",
+  "reading": "おへんじ",
+  "meaning_id": "(hormat) balasan",
+  "meaning_en": "reply (honorific)",
+  "pos": "noun",
+  "example": "はやい おへんじありがとうございます。(Terima kasih atas balasan cepatnya.)",
+  "tags": [
+   "n4-m6",
+   "email-dan-dokumen-kerja",
+   "L30"
+  ],
+  "module": "n4-m6",
+  "example_en": "はやい おへんじありがとうございます。(Thank you for your prompt reply.)"
+ },
+ {
+  "word": "けんめい",
+  "reading": "けんめい",
+  "meaning_id": "subjek email",
+  "meaning_en": "email subject line",
+  "pos": "noun",
+  "example": "メールの けんめいを みてください。(Tolong lihat subjek emailnya.)",
+  "tags": [
+   "n4-m6",
+   "email-dan-dokumen-kerja",
+   "L30"
+  ],
+  "module": "n4-m6",
+  "example_en": "メールの けんめいを みてください。(Please check the email subject line.)"
+ },
+ {
+  "word": "あてな",
+  "reading": "あてな",
+  "meaning_id": "alamat tujuan",
+  "meaning_en": "addressee",
+  "pos": "noun",
+  "example": "あてなを まちがえた。(Saya salah alamat tujuan.)",
+  "tags": [
+   "n4-m6",
+   "email-dan-dokumen-kerja",
+   "L30"
+  ],
+  "module": "n4-m6",
+  "example_en": "あてなを まちがえた。(I got the addressee wrong.)"
+ },
+ {
+  "word": "おせわ",
+  "reading": "おせわ",
+  "meaning_id": "bantuan (dalam salam email)",
+  "meaning_en": "assistance (in email greetings)",
+  "pos": "noun",
+  "example": "いつも おせわになっております。(Terima kasih atas bantuannya selama ini.)",
+  "tags": [
+   "n4-m6",
+   "email-dan-dokumen-kerja",
+   "L30"
+  ],
+  "module": "n4-m6",
+  "example_en": "いつも おせわになっております。(Thank you for your continued support.)"
+ },
+ {
+  "word": "もうしあげる",
+  "reading": "もうしあげる",
+  "meaning_id": "(merendah) mengatakan",
+  "meaning_en": "say (humble)",
+  "pos": "verb-g2",
+  "example": "よろしく おねがいもうしあげます。(Hormat saya.)",
+  "tags": [
+   "n4-m6",
+   "email-dan-dokumen-kerja",
+   "L30"
+  ],
+  "module": "n4-m6",
+  "example_en": "よろしく おねがいもうしあげます。(Best regards.)"
+ },
+ {
+  "word": "雪",
+  "reading": "ゆき",
+  "meaning_id": "salju",
+  "meaning_en": "snow",
+  "pos": "noun",
+  "example": "あさ、そとを みると、ゆきが ふっていました。(Pagi ini, saat melihat ke luar, salju sedang turun.)",
+  "tags": [
+   "n4-m7",
+   "cuaca-dan-penampilan",
+   "L31"
+  ],
+  "module": "n4-m7",
+  "example_en": "あさ、そとを みると、ゆきが ふっていました。(This morning, when I looked outside, it was snowing.)"
+ },
+ {
+  "word": "雲",
+  "reading": "くも",
+  "meaning_id": "awan",
+  "meaning_en": "cloud",
+  "pos": "noun",
+  "example": "そらに くろい くもが でています。(Awan hitam muncul di langit.)",
+  "tags": [
+   "n4-m7",
+   "cuaca-dan-penampilan",
+   "L31"
+  ],
+  "module": "n4-m7",
+  "example_en": "そらに くろい くもが でています。(Dark clouds have appeared in the sky.)"
+ },
+ {
+  "word": "星",
+  "reading": "ほし",
+  "meaning_id": "bintang",
+  "meaning_en": "star",
+  "pos": "noun",
+  "example": "いなかの よるの そらには ほしが たくさん みえます。(Di langit malam desa, banyak bintang terlihat.)",
+  "tags": [
+   "n4-m7",
+   "cuaca-dan-penampilan",
+   "L31"
+  ],
+  "module": "n4-m7",
+  "example_en": "いなかの よるの そらには ほしが たくさん みえます。(Many stars are visible in the countryside night sky.)"
+ },
+ {
+  "word": "島",
+  "reading": "しま",
+  "meaning_id": "pulau",
+  "meaning_en": "island",
+  "pos": "noun",
+  "example": "なつやすみに ちいさい しまへ いきたいです。(Saat libur musim panas saya ingin pergi ke pulau kecil.)",
+  "tags": [
+   "n4-m7",
+   "cuaca-dan-penampilan",
+   "L31"
+  ],
+  "module": "n4-m7",
+  "example_en": "なつやすみに ちいさい しまへ いきたいです。(During the summer vacation I want to go to a small island.)"
+ },
+ {
+  "word": "岸",
+  "reading": "きし",
+  "meaning_id": "pantai, tepi laut",
+  "meaning_en": "shore",
+  "pos": "noun",
+  "example": "きしの ちかくで こどもたちが あそんでいます。(Anak-anak bermain di dekat pantai.)",
+  "tags": [
+   "n4-m7",
+   "cuaca-dan-penampilan",
+   "L31"
+  ],
+  "module": "n4-m7",
+  "example_en": "きしの ちかくで こどもたちが あそんでいます。(The children are playing near the shore.)"
+ },
+ {
+  "word": "からい",
+  "reading": "からい",
+  "meaning_id": "pedas",
+  "meaning_en": "spicy",
+  "pos": "i-adj",
+  "example": "この カレーは からいです。(Kari ini pedas.)",
+  "tags": [
+   "n4-m7",
+   "cuaca-dan-penampilan",
+   "L31"
+  ],
+  "module": "n4-m7",
+  "example_en": "この カレーは からいです。(This curry is spicy.)"
+ },
+ {
+  "word": "波",
+  "reading": "なみ",
+  "meaning_id": "ombak",
+  "meaning_en": "wave",
+  "pos": "noun",
+  "example": "きょうの なみは たかいそうです。(Katanya ombak hari ini tinggi.)",
+  "tags": [
+   "n4-m7",
+   "kabar-dan-gosip",
+   "L32"
+  ],
+  "module": "n4-m7",
+  "example_en": "きょうの なみは たかいそうです。(They say the waves are high today.)"
+ },
+ {
+  "word": "岩",
+  "reading": "いわ",
+  "meaning_id": "batu karang",
+  "meaning_en": "rock",
+  "pos": "noun",
+  "example": "かいがんに おおきい いわが あります。(Di pantai ada batu karang besar.)",
+  "tags": [
+   "n4-m7",
+   "kabar-dan-gosip",
+   "L32"
+  ],
+  "module": "n4-m7",
+  "example_en": "かいがんに おおきい いわが あります。(There is a big rock on the coast.)"
+ },
+ {
+  "word": "桜",
+  "reading": "さくら",
+  "meaning_id": "bunga sakura",
+  "meaning_en": "cherry blossom",
+  "pos": "noun",
+  "example": "さくらが もう さいたそうです。(Katanya sakura sudah mekar.)",
+  "tags": [
+   "n4-m7",
+   "kabar-dan-gosip",
+   "L32"
+  ],
+  "module": "n4-m7",
+  "example_en": "さくらが もう さいたそうです。(They say the cherry blossoms have already bloomed.)"
+ },
+ {
+  "word": "梅",
+  "reading": "うめ",
+  "meaning_id": "buah / bunga plum",
+  "meaning_en": "plum",
+  "pos": "noun",
+  "example": "にわに うめの きを うえました。(Saya menanam pohon plum di taman.)",
+  "tags": [
+   "n4-m7",
+   "kabar-dan-gosip",
+   "L32"
+  ],
+  "module": "n4-m7",
+  "example_en": "にわに うめの きを うえました。(I planted a plum tree in the garden.)"
+ },
+ {
+  "word": "たより",
+  "reading": "たより",
+  "meaning_id": "kabar, berita (dari seseorang)",
+  "meaning_en": "news (from someone)",
+  "pos": "noun",
+  "example": "ともだちから ひさしぶりに たよりが きました。(Kabar datang dari teman setelah sekian lama.)",
+  "tags": [
+   "n4-m7",
+   "kabar-dan-gosip",
+   "L32"
+  ],
+  "module": "n4-m7",
+  "example_en": "ともだちから ひさしぶりに たよりが きました。(News came from my friend after a long time.)"
+ },
+ {
+  "word": "メール",
+  "reading": "メール",
+  "meaning_id": "surel, email",
+  "meaning_en": "email",
+  "pos": "noun",
+  "example": "かいしゃから メールが とどきました。(Surel tiba dari perusahaan.)",
+  "tags": [
+   "n4-m7",
+   "kabar-dan-gosip",
+   "L32"
+  ],
+  "module": "n4-m7",
+  "example_en": "かいしゃから メールが とどきました。(An email arrived from the company.)"
+ },
+ {
+  "word": "たしか",
+  "reading": "たしか",
+  "meaning_id": "kalau tidak salah",
+  "meaning_en": "if i remember correctly",
+  "pos": "adverb",
+  "example": "たしか、あしたは やすみです。(Kalau tidak salah, besok libur.)",
+  "tags": [
+   "n4-m7",
+   "kabar-dan-gosip",
+   "L32"
+  ],
+  "module": "n4-m7",
+  "example_en": "たしか、あしたは やすみです。(If I remember correctly, tomorrow is a holiday.)"
+ },
+ {
+  "word": "ほんとう",
+  "reading": "ほんとう",
+  "meaning_id": "sungguh, benar",
+  "meaning_en": "true",
+  "pos": "na-adj",
+  "example": "それは ほんとうですか。(Apakah itu benar?)",
+  "tags": [
+   "n4-m7",
+   "kabar-dan-gosip",
+   "L32"
+  ],
+  "module": "n4-m7",
+  "example_en": "それは ほんとうですか。(Is that true?)"
+ },
+ {
+  "word": "暖かい",
+  "reading": "あたたかい",
+  "meaning_id": "hangat",
+  "meaning_en": "warm",
+  "pos": "i-adj",
+  "example": "はるの ひざしは あたたかいです。(Sinar matahari musim semi hangat.)",
+  "tags": [
+   "n4-m7",
+   "kesan-dan-ciri-khas",
+   "L33"
+  ],
+  "module": "n4-m7",
+  "example_en": "はるの ひざしは あたたかいです。(The spring sunshine is warm.)"
+ },
+ {
+  "word": "涼しい",
+  "reading": "すずしい",
+  "meaning_id": "sejuk",
+  "meaning_en": "cool",
+  "pos": "i-adj",
+  "example": "やまの あさは すずしいです。(Pagi di gunung sejuk.)",
+  "tags": [
+   "n4-m7",
+   "kesan-dan-ciri-khas",
+   "L33"
+  ],
+  "module": "n4-m7",
+  "example_en": "やまの あさは すずしいです。(Mornings in the mountains are cool.)"
+ },
+ {
+  "word": "霧",
+  "reading": "きり",
+  "meaning_id": "kabut",
+  "meaning_en": "fog",
+  "pos": "noun",
+  "example": "あさ、やまに きりが でていました。(Pagi hari, kabut muncul di gunung.)",
+  "tags": [
+   "n4-m7",
+   "kesan-dan-ciri-khas",
+   "L33"
+  ],
+  "module": "n4-m7",
+  "example_en": "あさ、やまに きりが でていました。(In the morning, fog hung over the mountains.)"
+ },
+ {
+  "word": "涙",
+  "reading": "なみだ",
+  "meaning_id": "air mata",
+  "meaning_en": "tears",
+  "pos": "noun",
+  "example": "かんどうして なみだが でました。(Terharu sampai air mata keluar.)",
+  "tags": [
+   "n4-m7",
+   "kesan-dan-ciri-khas",
+   "L33"
+  ],
+  "module": "n4-m7",
+  "example_en": "かんどうして なみだが でました。(I was so moved that tears came out.)"
+ },
+ {
+  "word": "汗",
+  "reading": "あせ",
+  "meaning_id": "keringat",
+  "meaning_en": "sweat",
+  "pos": "noun",
+  "example": "あつくて あせを かきました。(Panas sampai berkeringat.)",
+  "tags": [
+   "n4-m7",
+   "kesan-dan-ciri-khas",
+   "L33"
+  ],
+  "module": "n4-m7",
+  "example_en": "あつくて あせを かきました。(It was so hot I sweated.)"
+ },
+ {
+  "word": "かんじる",
+  "reading": "かんじる",
+  "meaning_id": "merasa",
+  "meaning_en": "to feel",
+  "pos": "verb-g2",
+  "example": "へやが すこし さむいと かんじます。(Saya merasa kamar sedikit dingin.)",
+  "tags": [
+   "n4-m7",
+   "kesan-dan-ciri-khas",
+   "L33"
+  ],
+  "module": "n4-m7",
+  "example_en": "へやが すこし さむいと かんじます。(I feel that the room is a little cold.)"
+ },
+ {
+  "word": "ふんいき",
+  "reading": "ふんいき",
+  "meaning_id": "suasana",
+  "meaning_en": "atmosphere",
+  "pos": "noun",
+  "example": "この みせの ふんいきが すきです。(Saya suka suasana toko ini.)",
+  "tags": [
+   "n4-m7",
+   "kesan-dan-ciri-khas",
+   "L33"
+  ],
+  "module": "n4-m7",
+  "example_en": "この みせの ふんいきが すきです。(I like the atmosphere of this shop.)"
+ },
+ {
+  "word": "そっくり",
+  "reading": "そっくり",
+  "meaning_id": "mirip sekali",
+  "meaning_en": "very similar",
+  "pos": "na-adj",
+  "example": "かれは おとうさんに そっくりです。(Dia mirip sekali dengan ayahnya.)",
+  "tags": [
+   "n4-m7",
+   "kesan-dan-ciri-khas",
+   "L33"
+  ],
+  "module": "n4-m7",
+  "example_en": "かれは おとうさんに そっくりです。(He looks just like his father.)"
+ },
+ {
+  "word": "まるで",
+  "reading": "まるで",
+  "meaning_id": "seolah-olah",
+  "meaning_en": "as if",
+  "pos": "adverb",
+  "example": "まるで ゆめみたいです。(Rasanya seperti mimpi.)",
+  "tags": [
+   "n4-m7",
+   "kesan-dan-ciri-khas",
+   "L33"
+  ],
+  "module": "n4-m7",
+  "example_en": "まるで ゆめみたいです。(It's like a dream.)"
+ },
+ {
+  "word": "つかれる",
+  "reading": "つかれる",
+  "meaning_id": "lelah",
+  "meaning_en": "to get tired",
+  "pos": "verb-g2",
+  "example": "ながい かいぎで つかれました。(Saya lelah karena rapat panjang.)",
+  "tags": [
+   "n4-m7",
+   "kesan-dan-ciri-khas",
+   "L33"
+  ],
+  "module": "n4-m7",
+  "example_en": "ながい かいぎで つかれました。(I got tired from the long meeting.)"
+ },
+ {
+  "word": "息",
+  "reading": "いき",
+  "meaning_id": "napas",
+  "meaning_en": "breath",
+  "pos": "noun",
+  "example": "いきを とめて およぎました。(Saya berenang sambil menahan napas.)",
+  "tags": [
+   "n4-m7",
+   "kesimpulan-dan-keyakinan",
+   "L34"
+  ],
+  "module": "n4-m7",
+  "example_en": "いきを とめて およぎました。(I swam holding my breath.)"
+ },
+ {
+  "word": "怒る",
+  "reading": "おこる",
+  "meaning_id": "marah",
+  "meaning_en": "to get angry",
+  "pos": "verb-g1",
+  "example": "ちちは めったに おこりません。(Ayah jarang marah.)",
+  "tags": [
+   "n4-m7",
+   "kesimpulan-dan-keyakinan",
+   "L34"
+  ],
+  "module": "n4-m7",
+  "example_en": "ちちは めったに おこりません。(My father rarely gets angry.)"
+ },
+ {
+  "word": "悲しい",
+  "reading": "かなしい",
+  "meaning_id": "sedih",
+  "meaning_en": "sad",
+  "pos": "i-adj",
+  "example": "かなしい えいがを みて なきました。(Saya menangis menonton film sedih.)",
+  "tags": [
+   "n4-m7",
+   "kesimpulan-dan-keyakinan",
+   "L34"
+  ],
+  "module": "n4-m7",
+  "example_en": "かなしい えいがを みて なきました。(I cried watching a sad movie.)"
+ },
+ {
+  "word": "喜ぶ",
+  "reading": "よろこぶ",
+  "meaning_id": "bergembira",
+  "meaning_en": "to rejoice",
+  "pos": "verb-g1",
+  "example": "プレゼントを もらって よろこびました。(Saya bergembira menerima hadiah.)",
+  "tags": [
+   "n4-m7",
+   "kesimpulan-dan-keyakinan",
+   "L34"
+  ],
+  "module": "n4-m7",
+  "example_en": "プレゼントを もらって よろこびました。(I was delighted to receive the present.)"
+ },
+ {
+  "word": "恋",
+  "reading": "こい",
+  "meaning_id": "cinta, asmara",
+  "meaning_en": "romantic love",
+  "pos": "noun",
+  "example": "はじめての こいを わすれません。(Saya tidak akan melupakan cinta pertama.)",
+  "tags": [
+   "n4-m7",
+   "kesimpulan-dan-keyakinan",
+   "L34"
+  ],
+  "module": "n4-m7",
+  "example_en": "はじめての こいを わすれません。(I'll never forget my first love.)"
+ },
+ {
+  "word": "しょうこ",
+  "reading": "しょうこ",
+  "meaning_id": "bukti",
+  "meaning_en": "evidence",
+  "pos": "noun",
+  "example": "しょうこを みせてください。(Tolong tunjukkan buktinya.)",
+  "tags": [
+   "n4-m7",
+   "kesimpulan-dan-keyakinan",
+   "L34"
+  ],
+  "module": "n4-m7",
+  "example_en": "しょうこを みせてください。(Please show me the evidence.)"
+ },
+ {
+  "word": "かならず",
+  "reading": "かならず",
+  "meaning_id": "pasti",
+  "meaning_en": "definitely",
+  "pos": "adverb",
+  "example": "かならず 8じに おきます。(Saya pasti bangun jam delapan.)",
+  "tags": [
+   "n4-m7",
+   "kesimpulan-dan-keyakinan",
+   "L34"
+  ],
+  "module": "n4-m7",
+  "example_en": "かならず 8じに おきます。(I'll definitely wake up at eight.)"
+ },
+ {
+  "word": "まじめ",
+  "reading": "まじめ",
+  "meaning_id": "rajin, serius",
+  "meaning_en": "serious, diligent",
+  "pos": "na-adj",
+  "example": "かれは まじめな がくせいです。(Dia murid yang rajin.)",
+  "tags": [
+   "n4-m7",
+   "kesimpulan-dan-keyakinan",
+   "L34"
+  ],
+  "module": "n4-m7",
+  "example_en": "かれは まじめな がくせいです。(He is a diligent student.)"
+ },
+ {
+  "word": "愛",
+  "reading": "あい",
+  "meaning_id": "cinta, kasih sayang",
+  "meaning_en": "love",
+  "pos": "noun",
+  "example": "ははの あいを かんじます。(Saya merasakan cinta ibu.)",
+  "tags": [
+   "n4-m7",
+   "nasihat-dan-nilai",
+   "L35"
+  ],
+  "module": "n4-m7",
+  "example_en": "ははの あいを かんじます。(I feel my mother's love.)"
+ },
+ {
+  "word": "勇",
+  "reading": "ゆう",
+  "meaning_id": "keberanian",
+  "meaning_en": "courage",
+  "pos": "noun",
+  "example": "ゆうきを だして はなしました。(Saya memberanikan diri dan berbicara.)",
+  "tags": [
+   "n4-m7",
+   "nasihat-dan-nilai",
+   "L35"
+  ],
+  "module": "n4-m7",
+  "example_en": "ゆうきを だして はなしました。(I mustered up my courage and spoke.)"
+ },
+ {
+  "word": "肺",
+  "reading": "はい",
+  "meaning_id": "paru-paru",
+  "meaning_en": "lungs",
+  "pos": "noun",
+  "example": "たばこは はいに わるいです。(Rokok buruk untuk paru-paru.)",
+  "tags": [
+   "n4-m7",
+   "nasihat-dan-nilai",
+   "L35"
+  ],
+  "module": "n4-m7",
+  "example_en": "たばこは はいに わるいです。(Cigarettes are bad for the lungs.)"
+ },
+ {
+  "word": "眠い",
+  "reading": "ねむい",
+  "meaning_id": "mengantuk",
+  "meaning_en": "sleepy",
+  "pos": "i-adj",
+  "example": "ねむいですから、はやく ねます。(Karena mengantuk, saya tidur lebih awal.)",
+  "tags": [
+   "n4-m7",
+   "nasihat-dan-nilai",
+   "L35"
+  ],
+  "module": "n4-m7",
+  "example_en": "ねむいですから、はやく ねます。(Because I'm sleepy, I'll go to bed early.)"
+ },
+ {
+  "word": "まもる",
+  "reading": "まもる",
+  "meaning_id": "menepati, menjaga",
+  "meaning_en": "to keep, to protect",
+  "pos": "verb-g1",
+  "example": "こうつうの ルールを まもります。(Saya menaati aturan lalu lintas.)",
+  "tags": [
+   "n4-m7",
+   "nasihat-dan-nilai",
+   "L35"
+  ],
+  "module": "n4-m7",
+  "example_en": "こうつうの ルールを まもります。(I follow the traffic rules.)"
+ },
+ {
+  "word": "そんけい",
+  "reading": "そんけい",
+  "meaning_id": "hormat",
+  "meaning_en": "respect",
+  "pos": "noun",
+  "example": "りょうしんを そんけいしています。(Saya menghormati orang tua.)",
+  "tags": [
+   "n4-m7",
+   "nasihat-dan-nilai",
+   "L35"
+  ],
+  "module": "n4-m7",
+  "example_en": "りょうしんを そんけいしています。(I respect my parents.)"
+ },
+ {
+  "word": "たばこ",
+  "reading": "たばこ",
+  "meaning_id": "rokok",
+  "meaning_en": "cigarette",
+  "pos": "noun",
+  "example": "たばこを すうべきでは ありません。(Seharusnya tidak merokok.)",
+  "tags": [
+   "n4-m7",
+   "nasihat-dan-nilai",
+   "L35"
+  ],
+  "module": "n4-m7",
+  "example_en": "たばこを すうべきでは ありません。(You shouldn't smoke.)"
+ },
+ {
+  "word": "むかし",
+  "reading": "むかし",
+  "meaning_id": "zaman dulu",
+  "meaning_en": "old days",
+  "pos": "noun",
+  "example": "むかしは かわで およいだものです。(Dulu, orang berenang di sungai.)",
+  "tags": [
+   "n4-m7",
+   "nasihat-dan-nilai",
+   "L35"
+  ],
+  "module": "n4-m7",
+  "example_en": "むかしは かわで およいだものです。(In the old days, people used to swim in the river.)"
+ },
+ {
+  "word": "お酒",
+  "reading": "さけ",
+  "meaning_id": "minuman beralkohol",
+  "meaning_en": "alcohol",
+  "pos": "noun",
+  "example": "おさけは のみすぎないで ください。(Jangan minum alkohol berlebihan.)",
+  "tags": [
+   "n4-m8",
+   "makanan-dan-kebiasaan",
+   "L36"
+  ],
+  "module": "n4-m8",
+  "example_en": "おさけは のみすぎないで ください。(Please don't drink too much alcohol.)"
+ },
+ {
+  "word": "酢",
+  "reading": "す",
+  "meaning_id": "cuka",
+  "meaning_en": "vinegar",
+  "pos": "noun",
+  "example": "この りょうりに すを すこし いれます。(Saya memasukkan sedikit cuka ke masakan ini.)",
+  "tags": [
+   "n4-m8",
+   "makanan-dan-kebiasaan",
+   "L36"
+  ],
+  "module": "n4-m8",
+  "example_en": "この りょうりに すを すこし いれます。(I'll add a little vinegar to this dish.)"
+ },
+ {
+  "word": "寝る",
+  "reading": "ねる",
+  "meaning_id": "tidur",
+  "meaning_en": "to sleep",
+  "pos": "verb-g2",
+  "example": "きのうは 10じに ねました。(Kemarin saya tidur jam sepuluh.)",
+  "tags": [
+   "n4-m8",
+   "makanan-dan-kebiasaan",
+   "L36"
+  ],
+  "module": "n4-m8",
+  "example_en": "きのうは 10じに ねました。(Yesterday I went to bed at ten.)"
+ },
+ {
+  "word": "史",
+  "reading": "し",
+  "meaning_id": "sejarah",
+  "meaning_en": "history",
+  "pos": "noun",
+  "example": "れきしの じゅぎょうが すきです。(Saya suka pelajaran sejarah.)",
+  "tags": [
+   "n4-m8",
+   "makanan-dan-kebiasaan",
+   "L36"
+  ],
+  "module": "n4-m8",
+  "example_en": "れきしの じゅぎょうが すきです。(I like history class.)"
+ },
+ {
+  "word": "司る",
+  "reading": "つかさどる",
+  "meaning_id": "mengatur, mengelola",
+  "meaning_en": "to manage",
+  "pos": "verb-g1",
+  "example": "ぶちょうが その しごとを つかさどっています。(Kepala bagian mengelola pekerjaan itu.)",
+  "tags": [
+   "n4-m8",
+   "makanan-dan-kebiasaan",
+   "L36"
+  ],
+  "module": "n4-m8",
+  "example_en": "ぶちょうが その しごとを つかさどっています。(The department head is in charge of that work.)"
+ },
+ {
+  "word": "児",
+  "reading": "じ",
+  "meaning_id": "anak (bentuk formal)",
+  "meaning_en": "child (formal)",
+  "pos": "noun",
+  "example": "じの けんこうを まもるべきです。(Kesehatan anak seharusnya dijaga.)",
+  "tags": [
+   "n4-m8",
+   "makanan-dan-kebiasaan",
+   "L36"
+  ],
+  "module": "n4-m8",
+  "example_en": "じの けんこうを まもるべきです。(Children's health should be protected.)"
+ },
+ {
+  "word": "治す",
+  "reading": "なおす",
+  "meaning_id": "menyembuhkan, mengobati",
+  "meaning_en": "to cure",
+  "pos": "verb-g1",
+  "example": "くすりで かぜを なおしました。(Saya menyembuhkan flu dengan obat.)",
+  "tags": [
+   "n4-m8",
+   "makanan-dan-kebiasaan",
+   "L36"
+  ],
+  "module": "n4-m8",
+  "example_en": "くすりで かぜを なおしました。(I cured my cold with medicine.)"
+ },
+ {
+  "word": "種",
+  "reading": "たね",
+  "meaning_id": "biji, benih",
+  "meaning_en": "seed",
+  "pos": "noun",
+  "example": "はるに はなの たねを まきます。(Musim semi saya menanam biji bunga.)",
+  "tags": [
+   "n4-m8",
+   "makanan-dan-kebiasaan",
+   "L36"
+  ],
+  "module": "n4-m8",
+  "example_en": "はるに はなの たねを まきます。(In spring I sow flower seeds.)"
+ },
+ {
+  "word": "周り",
+  "reading": "まわり",
+  "meaning_id": "sekitar",
+  "meaning_en": "surroundings",
+  "pos": "noun",
+  "example": "まわりに だれも いませんでした。(Tidak ada siapa pun di sekitar.)",
+  "tags": [
+   "n4-m8",
+   "makanan-dan-kebiasaan",
+   "L36"
+  ],
+  "module": "n4-m8",
+  "example_en": "まわりに だれも いませんでした。(There was no one around.)"
+ },
+ {
+  "word": "祝う",
+  "reading": "いわう",
+  "meaning_id": "merayakan",
+  "meaning_en": "to celebrate",
+  "pos": "verb-g1",
+  "example": "ともだちの けっこんを いわいました。(Saya merayakan pernikahan teman.)",
+  "tags": [
+   "n4-m8",
+   "makanan-dan-kebiasaan",
+   "L36"
+  ],
+  "module": "n4-m8",
+  "example_en": "ともだちの けっこんを いわいました。(I celebrated my friend's wedding.)"
+ },
+ {
+  "word": "やさい",
+  "reading": "やさい",
+  "meaning_id": "sayur",
+  "meaning_en": "vegetables",
+  "pos": "noun",
+  "example": "やさいを たくさん たべすぎました。(Saya makan sayur terlalu banyak.)",
+  "tags": [
+   "n4-m8",
+   "makanan-dan-kebiasaan",
+   "L36"
+  ],
+  "module": "n4-m8",
+  "example_en": "やさいを たくさん たべすぎました。(I ate too many vegetables.)"
+ },
+ {
+  "word": "あまい",
+  "reading": "あまい",
+  "meaning_id": "manis",
+  "meaning_en": "sweet",
+  "pos": "i-adj",
+  "example": "この ケーキは あますぎます。(Kue ini terlalu manis.)",
+  "tags": [
+   "n4-m8",
+   "makanan-dan-kebiasaan",
+   "L36"
+  ],
+  "module": "n4-m8",
+  "example_en": "この ケーキは あますぎます。(This cake is too sweet.)"
+ },
+ {
+  "word": "起きる",
+  "reading": "おきる",
+  "meaning_id": "bangun (dari tidur)",
+  "meaning_en": "to wake up",
+  "pos": "verb-g2",
+  "example": "まいあさ 6じに おきます。(Setiap pagi saya bangun jam enam.)",
+  "tags": [
+   "n4-m8",
+   "alat-dan-pekerjaan-rumah",
+   "L37"
+  ],
+  "module": "n4-m8",
+  "example_en": "まいあさ 6じに おきます。(I wake up at six every morning.)"
+ },
+ {
+  "word": "台所",
+  "reading": "だいどころ",
+  "meaning_id": "dapur",
+  "meaning_en": "kitchen",
+  "pos": "noun",
+  "example": "だいどころで あさごはんを つくります。(Saya membuat sarapan di dapur.)",
+  "tags": [
+   "n4-m8",
+   "alat-dan-pekerjaan-rumah",
+   "L37"
+  ],
+  "module": "n4-m8",
+  "example_en": "だいどころで あさごはんを つくります。(I make breakfast in the kitchen.)"
+ },
+ {
+  "word": "掃除",
+  "reading": "そうじ",
+  "meaning_id": "bersih-bersih",
+  "meaning_en": "cleaning",
+  "pos": "noun",
+  "example": "しゅうまつに へやの そうじを します。(Akhir pekan saya membersihkan kamar.)",
+  "tags": [
+   "n4-m8",
+   "alat-dan-pekerjaan-rumah",
+   "L37"
+  ],
+  "module": "n4-m8",
+  "example_en": "しゅうまつに へやの そうじを します。(On weekends I clean my room.)"
+ },
+ {
+  "word": "鏡",
+  "reading": "かがみ",
+  "meaning_id": "cermin",
+  "meaning_en": "mirror",
+  "pos": "noun",
+  "example": "かがみを みて かみを なおしました。(Saya melihat cermin dan merapikan rambut.)",
+  "tags": [
+   "n4-m8",
+   "alat-dan-pekerjaan-rumah",
+   "L37"
+  ],
+  "module": "n4-m8",
+  "example_en": "かがみを みて かみを なおしました。(I looked in the mirror and fixed my hair.)"
+ },
+ {
+  "word": "順",
+  "reading": "じゅん",
+  "meaning_id": "urutan, giliran",
+  "meaning_en": "order, turn",
+  "pos": "noun",
+  "example": "じゅんばんを まって ください。(Tolong tunggu giliran.)",
+  "tags": [
+   "n4-m8",
+   "alat-dan-pekerjaan-rumah",
+   "L37"
+  ],
+  "module": "n4-m8",
+  "example_en": "じゅんばんを まって ください。(Please wait your turn.)"
+ },
+ {
+  "word": "初めて",
+  "reading": "はじめて",
+  "meaning_id": "pertama kali",
+  "meaning_en": "first time",
+  "pos": "adverb",
+  "example": "はじめて にほんへ いきました。(Saya pergi ke Jepang untuk pertama kali.)",
+  "tags": [
+   "n4-m8",
+   "alat-dan-pekerjaan-rumah",
+   "L37"
+  ],
+  "module": "n4-m8",
+  "example_en": "はじめて にほんへ いきました。(I went to Japan for the first time.)"
+ },
+ {
+  "word": "所",
+  "reading": "ところ",
+  "meaning_id": "tempat",
+  "meaning_en": "place",
+  "pos": "noun",
+  "example": "ここは しずかな ところです。(Ini tempat yang tenang.)",
+  "tags": [
+   "n4-m8",
+   "alat-dan-pekerjaan-rumah",
+   "L37"
+  ],
+  "module": "n4-m8",
+  "example_en": "ここは しずかな ところです。(This is a quiet place.)"
+ },
+ {
+  "word": "署",
+  "reading": "しょ",
+  "meaning_id": "kantor (dinas)",
+  "meaning_en": "office (government)",
+  "pos": "noun",
+  "example": "けいさつしょは えきの ちかくに あります。(Kantor polisi ada di dekat stasiun.)",
+  "tags": [
+   "n4-m8",
+   "alat-dan-pekerjaan-rumah",
+   "L37"
+  ],
+  "module": "n4-m8",
+  "example_en": "けいさつしょは えきの ちかくに あります。(The police station is near the station.)"
+ },
+ {
+  "word": "助ける",
+  "reading": "たすける",
+  "meaning_id": "menolong",
+  "meaning_en": "to help",
+  "pos": "verb-g2",
+  "example": "こまっている ひとを たすけます。(Saya menolong orang yang kesulitan.)",
+  "tags": [
+   "n4-m8",
+   "alat-dan-pekerjaan-rumah",
+   "L37"
+  ],
+  "module": "n4-m8",
+  "example_en": "こまっている ひとを たすけます。(I help people in trouble.)"
+ },
+ {
+  "word": "昭",
+  "reading": "しょう",
+  "meaning_id": "terang (nama era)",
+  "meaning_en": "bright (era name)",
+  "pos": "noun",
+  "example": "しょうわは にほんの がんごうの ひとつです。(Showa adalah salah satu nama era Jepang.)",
+  "tags": [
+   "n4-m8",
+   "alat-dan-pekerjaan-rumah",
+   "L37"
+  ],
+  "module": "n4-m8",
+  "example_en": "しょうわは にほんの がんごうの ひとつです。(Showa is one of Japan's era names.)"
+ },
+ {
+  "word": "そうじき",
+  "reading": "そうじき",
+  "meaning_id": "penyedot debu",
+  "meaning_en": "vacuum cleaner",
+  "pos": "noun",
+  "example": "そうじきで へやを そうじしました。(Saya membersihkan kamar dengan penyedot debu.)",
+  "tags": [
+   "n4-m8",
+   "alat-dan-pekerjaan-rumah",
+   "L37"
+  ],
+  "module": "n4-m8",
+  "example_en": "そうじきで へやを そうじしました。(I cleaned the room with a vacuum cleaner.)"
+ },
+ {
+  "word": "験",
+  "reading": "けん",
+  "meaning_id": "ujian",
+  "meaning_en": "exam",
+  "pos": "noun",
+  "example": "しけんは らいしゅうです。(Ujian minggu depan.)",
+  "tags": [
+   "n4-m8",
+   "petunjuk-dan-perjalanan",
+   "L38"
+  ],
+  "module": "n4-m8",
+  "example_en": "しけんは らいしゅうです。(The exam is next week.)"
+ },
+ {
+  "word": "査",
+  "reading": "さ",
+  "meaning_id": "pemeriksaan (survei)",
+  "meaning_en": "inspection (survey)",
+  "pos": "noun",
+  "example": "ちょうさの けっかを せんせいに はなします。(Saya menceritakan hasil survei kepada guru.)",
+  "tags": [
+   "n4-m8",
+   "petunjuk-dan-perjalanan",
+   "L38"
+  ],
+  "module": "n4-m8",
+  "example_en": "ちょうさの けっかを せんせいに はなします。(I'll tell the teacher the survey results.)"
+ },
+ {
+  "word": "報じる",
+  "reading": "ほうじる",
+  "meaning_id": "melaporkan",
+  "meaning_en": "to report",
+  "pos": "verb-g2",
+  "example": "しんぶんが じこを ほうじました。(Koran melaporkan kecelakaan itu.)",
+  "tags": [
+   "n4-m8",
+   "petunjuk-dan-perjalanan",
+   "L38"
+  ],
+  "module": "n4-m8",
+  "example_en": "しんぶんが じこを ほうじました。(The newspaper reported the accident.)"
+ },
+ {
+  "word": "刊",
+  "reading": "かん",
+  "meaning_id": "terbitan",
+  "meaning_en": "publication",
+  "pos": "noun",
+  "example": "しゅうかんしを かいました。(Saya membeli majalah mingguan.)",
+  "tags": [
+   "n4-m8",
+   "petunjuk-dan-perjalanan",
+   "L38"
+  ],
+  "module": "n4-m8",
+  "example_en": "しゅうかんしを かいました。(I bought a weekly magazine.)"
+ },
+ {
+  "word": "映る",
+  "reading": "うつる",
+  "meaning_id": "terpantul, tampak",
+  "meaning_en": "to be reflected",
+  "pos": "verb-g1",
+  "example": "がめんに かおが うつっています。(Wajah terpantul di layar.)",
+  "tags": [
+   "n4-m8",
+   "petunjuk-dan-perjalanan",
+   "L38"
+  ],
+  "module": "n4-m8",
+  "example_en": "がめんに かおが うつっています。(My face is reflected on the screen.)"
+ },
+ {
+  "word": "商い",
+  "reading": "あきない",
+  "meaning_id": "dagang, bisnis",
+  "meaning_en": "trade, business",
+  "pos": "noun",
+  "example": "むかし、ちちは あきないを していました。(Dulu, ayah berdagang.)",
+  "tags": [
+   "n4-m8",
+   "petunjuk-dan-perjalanan",
+   "L38"
+  ],
+  "module": "n4-m8",
+  "example_en": "むかし、ちちは あきないを していました。(In the old days, my father was in business.)"
+ },
+ {
+  "word": "勝つ",
+  "reading": "かつ",
+  "meaning_id": "menang",
+  "meaning_en": "to win",
+  "pos": "verb-g1",
+  "example": "しあいに かちたいです。(Saya ingin menang dalam pertandingan.)",
+  "tags": [
+   "n4-m8",
+   "petunjuk-dan-perjalanan",
+   "L38"
+  ],
+  "module": "n4-m8",
+  "example_en": "しあいに かちたいです。(I want to win the match.)"
+ },
+ {
+  "word": "植える",
+  "reading": "うえる",
+  "meaning_id": "menanam",
+  "meaning_en": "to plant",
+  "pos": "verb-g2",
+  "example": "にわに はなを うえました。(Saya menanam bunga di taman.)",
+  "tags": [
+   "n4-m8",
+   "petunjuk-dan-perjalanan",
+   "L38"
+  ],
+  "module": "n4-m8",
+  "example_en": "にわに はなを うえました。(I planted flowers in the garden.)"
+ },
+ {
+  "word": "信じる",
+  "reading": "しんじる",
+  "meaning_id": "percaya",
+  "meaning_en": "to believe",
+  "pos": "verb-g2",
+  "example": "かれの ことばを しんじます。(Saya percaya kata-katanya.)",
+  "tags": [
+   "n4-m8",
+   "petunjuk-dan-perjalanan",
+   "L38"
+  ],
+  "module": "n4-m8",
+  "example_en": "かれの ことばを しんじます。(I believe his words.)"
+ },
+ {
+  "word": "森",
+  "reading": "もり",
+  "meaning_id": "hutan",
+  "meaning_en": "forest",
+  "pos": "noun",
+  "example": "もりの なかで とりが ないています。(Burung berkicau di hutan.)",
+  "tags": [
+   "n4-m8",
+   "petunjuk-dan-perjalanan",
+   "L38"
+  ],
+  "module": "n4-m8",
+  "example_en": "もりの なかで とりが ないています。(Birds are chirping in the forest.)"
+ },
+ {
+  "word": "図",
+  "reading": "ず",
+  "meaning_id": "gambar, diagram",
+  "meaning_en": "diagram, picture",
+  "pos": "noun",
+  "example": "ずを みて ください。(Tolong lihat gambarnya.)",
+  "tags": [
+   "n4-m8",
+   "petunjuk-dan-perjalanan",
+   "L38"
+  ],
+  "module": "n4-m8",
+  "example_en": "ずを みて ください。(Please look at the diagram.)"
+ },
+ {
+  "word": "方",
+  "reading": "かた",
+  "meaning_id": "cara",
+  "meaning_en": "way (of doing)",
+  "pos": "noun",
+  "example": "かんじの かきかたを おしえて ください。(Tolong ajarkan cara menulis kanji.)",
+  "tags": [
+   "n4-m8",
+   "petunjuk-dan-perjalanan",
+   "L38"
+  ],
+  "module": "n4-m8",
+  "example_en": "かんじの かきかたを おしえて ください。(Please teach me how to write kanji.)"
+ },
+ {
+  "word": "ちず",
+  "reading": "ちず",
+  "meaning_id": "peta",
+  "meaning_en": "map",
+  "pos": "noun",
+  "example": "ちずを みて みちを さがします。(Saya melihat peta dan mencari jalan.)",
+  "tags": [
+   "n4-m8",
+   "petunjuk-dan-perjalanan",
+   "L38"
+  ],
+  "module": "n4-m8",
+  "example_en": "ちずを みて みちを さがします。(I'll look at the map and find the way.)"
+ },
+ {
+  "word": "誌",
+  "reading": "し",
+  "meaning_id": "majalah, tulisan terbitan",
+  "meaning_en": "magazine",
+  "pos": "noun",
+  "example": "ざっしを かったばかりです。(Saya baru saja membeli majalah.)",
+  "tags": [
+   "n4-m8",
+   "waktu-yang-presisi",
+   "L39"
+  ],
+  "module": "n4-m8",
+  "example_en": "ざっしを かったばかりです。(I just bought a magazine.)"
+ },
+ {
+  "word": "典",
+  "reading": "てん",
+  "meaning_id": "kamus, rujukan",
+  "meaning_en": "dictionary, reference",
+  "pos": "noun",
+  "example": "じてんで ことばの いみを しらべます。(Saya mencari arti kata di kamus.)",
+  "tags": [
+   "n4-m8",
+   "waktu-yang-presisi",
+   "L39"
+  ],
+  "module": "n4-m8",
+  "example_en": "じてんで ことばの いみを しらべます。(I'll look up the word's meaning in the dictionary.)"
+ },
+ {
+  "word": "試す",
+  "reading": "ためす",
+  "meaning_id": "mencoba",
+  "meaning_en": "to try",
+  "pos": "verb-g1",
+  "example": "あたらしい ほうほうを ためします。(Saya mencoba cara baru.)",
+  "tags": [
+   "n4-m8",
+   "waktu-yang-presisi",
+   "L39"
+  ],
+  "module": "n4-m8",
+  "example_en": "あたらしい ほうほうを ためします。(I'll try a new method.)"
+ },
+ {
+  "word": "章",
+  "reading": "しょう",
+  "meaning_id": "bab",
+  "meaning_en": "chapter",
+  "pos": "noun",
+  "example": "この ほんは 10しょう あります。(Buku ini ada sepuluh bab.)",
+  "tags": [
+   "n4-m8",
+   "waktu-yang-presisi",
+   "L39"
+  ],
+  "module": "n4-m8",
+  "example_en": "この ほんは 10しょう あります。(This book has ten chapters.)"
+ },
+ {
+  "word": "節",
+  "reading": "せつ",
+  "meaning_id": "bagian; musim",
+  "meaning_en": "section; season",
+  "pos": "noun",
+  "example": "せつぶんには まめを まきます。(Saat Setsubun, saya melempar kacang.)",
+  "tags": [
+   "n4-m8",
+   "waktu-yang-presisi",
+   "L39"
+  ],
+  "module": "n4-m8",
+  "example_en": "せつぶんには まめを まきます。(On Setsubun, we throw beans.)"
+ },
+ {
+  "word": "吹く",
+  "reading": "ふく",
+  "meaning_id": "bertiup",
+  "meaning_en": "to blow",
+  "pos": "verb-g1",
+  "example": "つよい かぜが ふいています。(Angin kencang bertiup.)",
+  "tags": [
+   "n4-m8",
+   "waktu-yang-presisi",
+   "L39"
+  ],
+  "module": "n4-m8",
+  "example_en": "つよい かぜが ふいています。(A strong wind is blowing.)"
+ },
+ {
+  "word": "酔う",
+  "reading": "よう",
+  "meaning_id": "mabuk",
+  "meaning_en": "to get drunk",
+  "pos": "verb-g1",
+  "example": "おさけを のみすぎて よいました。(Kebanyakan minum alkohol sampai mabuk.)",
+  "tags": [
+   "n4-m8",
+   "waktu-yang-presisi",
+   "L39"
+  ],
+  "module": "n4-m8",
+  "example_en": "おさけを のみすぎて よいました。(I drank too much and got drunk.)"
+ },
+ {
+  "word": "数える",
+  "reading": "かぞえる",
+  "meaning_id": "menghitung",
+  "meaning_en": "to count",
+  "pos": "verb-g2",
+  "example": "ほしの かずを かぞえました。(Saya menghitung jumlah bintang.)",
+  "tags": [
+   "n4-m8",
+   "waktu-yang-presisi",
+   "L39"
+  ],
+  "module": "n4-m8",
+  "example_en": "ほしの かずを かぞえました。(I counted the stars.)"
+ },
+ {
+  "word": "世",
+  "reading": "よ",
+  "meaning_id": "dunia, zaman",
+  "meaning_en": "world, age",
+  "pos": "noun",
+  "example": "よの なかは ひろいです。(Dunia ini luas.)",
+  "tags": [
+   "n4-m8",
+   "waktu-yang-presisi",
+   "L39"
+  ],
+  "module": "n4-m8",
+  "example_en": "よの なかは ひろいです。(The world is wide.)"
+ },
+ {
+  "word": "接する",
+  "reading": "せっする",
+  "meaning_id": "berhubungan, bersentuhan",
+  "meaning_en": "to come in contact with",
+  "pos": "verb-g3",
+  "example": "がいこくの ぶんかに せっする きかいが ふえました。(Kesempatan bersentuhan dengan budaya asing bertambah.)",
+  "tags": [
+   "n4-m8",
+   "waktu-yang-presisi",
+   "L39"
+  ],
+  "module": "n4-m8",
+  "example_en": "がいこくの ぶんかに せっする きかいが ふえました。(Opportunities to come into contact with foreign cultures have increased.)"
+ },
+ {
+  "word": "折る",
+  "reading": "おる",
+  "meaning_id": "melipat",
+  "meaning_en": "to fold",
+  "pos": "verb-g1",
+  "example": "かみを はんぶんに おりました。(Saya melipat kertas menjadi dua.)",
+  "tags": [
+   "n4-m8",
+   "waktu-yang-presisi",
+   "L39"
+  ],
+  "module": "n4-m8",
+  "example_en": "かみを はんぶんに おりました。(I folded the paper in half.)"
+ },
+ {
+  "word": "設ける",
+  "reading": "もうける",
+  "meaning_id": "memasang, mengadakan",
+  "meaning_en": "to set up",
+  "pos": "verb-g2",
+  "example": "えきの まえに みせを もうけました。(Saya membuka toko di depan stasiun.)",
+  "tags": [
+   "n4-m8",
+   "waktu-yang-presisi",
+   "L39"
+  ],
+  "module": "n4-m8",
+  "example_en": "えきの まえに みせを もうけました。(I opened a shop in front of the station.)"
+ },
+ {
+  "word": "たったいま",
+  "reading": "たったいま",
+  "meaning_id": "baru saja",
+  "meaning_en": "just now",
+  "pos": "adverb",
+  "example": "たったいま かえってきたところです。(Saya baru saja sampai — momen kepulangannya.)",
+  "tags": [
+   "n4-m8",
+   "waktu-yang-presisi",
+   "L39"
+  ],
+  "module": "n4-m8",
+  "example_en": "たったいま かえってきたところです。(I just got home.)"
+ },
+ {
+  "word": "もうすぐ",
+  "reading": "もうすぐ",
+  "meaning_id": "sebentar lagi",
+  "meaning_en": "soon",
+  "pos": "adverb",
+  "example": "もうすぐ でかけるところです。(Saya baru akan pergi sebentar lagi.)",
+  "tags": [
+   "n4-m8",
+   "waktu-yang-presisi",
+   "L39"
+  ],
+  "module": "n4-m8",
+  "example_en": "もうすぐ でかけるところです。(I'm about to go out.)"
+ },
+ {
+  "word": "航",
+  "reading": "こう",
+  "meaning_id": "penerbangan",
+  "meaning_en": "aviation",
+  "pos": "noun",
+  "example": "こうくうがいしゃで はたらいています。(Saya bekerja di perusahaan penerbangan.)",
+  "tags": [
+   "n4-m8",
+   "kesempatan-dan-keterbatasan",
+   "L40"
+  ],
+  "module": "n4-m8",
+  "example_en": "こうくうがいしゃで はたらいています。(I work at an airline.)"
+ },
+ {
+  "word": "船",
+  "reading": "ふね",
+  "meaning_id": "kapal",
+  "meaning_en": "ship",
+  "pos": "noun",
+  "example": "ふねで しまへ いきました。(Saya pergi ke pulau dengan kapal.)",
+  "tags": [
+   "n4-m8",
+   "kesempatan-dan-keterbatasan",
+   "L40"
+  ],
+  "module": "n4-m8",
+  "example_en": "ふねで しまへ いきました。(I went to the island by ship.)"
+ },
+ {
+  "word": "陸",
+  "reading": "りく",
+  "meaning_id": "darat",
+  "meaning_en": "land",
+  "pos": "noun",
+  "example": "りくから ふねが みえます。(Kapal terlihat dari darat.)",
+  "tags": [
+   "n4-m8",
+   "kesempatan-dan-keterbatasan",
+   "L40"
+  ],
+  "module": "n4-m8",
+  "example_en": "りくから ふねが みえます。(The ship is visible from land.)"
+ },
+ {
+  "word": "割る",
+  "reading": "わる",
+  "meaning_id": "membelah, memecah",
+  "meaning_en": "to break, to split",
+  "pos": "verb-g1",
+  "example": "たまごを わって りょうりします。(Saya memecah telur untuk memasak.)",
+  "tags": [
+   "n4-m8",
+   "kesempatan-dan-keterbatasan",
+   "L40"
+  ],
+  "module": "n4-m8",
+  "example_en": "たまごを わって りょうりします。(I'll crack the eggs and cook.)"
+ },
+ {
+  "word": "倍",
+  "reading": "ばい",
+  "meaning_id": "kali lipat",
+  "meaning_en": "times (multiple)",
+  "pos": "noun",
+  "example": "ねだんが にばいに なりました。(Harganya menjadi dua kali lipat.)",
+  "tags": [
+   "n4-m8",
+   "kesempatan-dan-keterbatasan",
+   "L40"
+  ],
+  "module": "n4-m8",
+  "example_en": "ねだんが にばいに なりました。(The price has doubled.)"
+ },
+ {
+  "word": "戦う",
+  "reading": "たたかう",
+  "meaning_id": "berjuang, berperang",
+  "meaning_en": "to fight",
+  "pos": "verb-g1",
+  "example": "びょうきと たたかっています。(Dia berjuang melawan penyakit.)",
+  "tags": [
+   "n4-m8",
+   "kesempatan-dan-keterbatasan",
+   "L40"
+  ],
+  "module": "n4-m8",
+  "example_en": "びょうきと たたかっています。(He is fighting his illness.)"
+ },
+ {
+  "word": "善い",
+  "reading": "よい",
+  "meaning_id": "baik",
+  "meaning_en": "good",
+  "pos": "i-adj",
+  "example": "よい てんきですね。(Cuaca bagus ya.)",
+  "tags": [
+   "n4-m8",
+   "kesempatan-dan-keterbatasan",
+   "L40"
+  ],
+  "module": "n4-m8",
+  "example_en": "よい てんきですね。(Nice weather, isn't it?)"
+ },
+ {
+  "word": "祖",
+  "reading": "そ",
+  "meaning_id": "leluhur, kakek",
+  "meaning_en": "ancestor",
+  "pos": "noun",
+  "example": "そふは げんきです。(Kakek sehat.)",
+  "tags": [
+   "n4-m8",
+   "kesempatan-dan-keterbatasan",
+   "L40"
+  ],
+  "module": "n4-m8",
+  "example_en": "そふは げんきです。(My grandfather is well.)"
+ },
+ {
+  "word": "素",
+  "reading": "す",
+  "meaning_id": "polos, alami",
+  "meaning_en": "plain, natural",
+  "pos": "na-adj",
+  "example": "すの じぶんで いたいです。(Saya ingin menjadi diri saya yang apa adanya.)",
+  "tags": [
+   "n4-m8",
+   "kesempatan-dan-keterbatasan",
+   "L40"
+  ],
+  "module": "n4-m8",
+  "example_en": "すの じぶんで いたいです。(I want to be my natural self.)"
+ },
+ {
+  "word": "倉",
+  "reading": "そう",
+  "meaning_id": "gudang",
+  "meaning_en": "warehouse",
+  "pos": "noun",
+  "example": "そうこに にもつを おきました。(Saya menaruh barang di gudang.)",
+  "tags": [
+   "n4-m8",
+   "kesempatan-dan-keterbatasan",
+   "L40"
+  ],
+  "module": "n4-m8",
+  "example_en": "そうこに にもつを おきました。(I put the luggage in the warehouse.)"
+ },
+ {
+  "word": "捜す",
+  "reading": "さがす",
+  "meaning_id": "mencari",
+  "meaning_en": "to search",
+  "pos": "verb-g1",
+  "example": "なくした かぎを さがしています。(Saya mencari kunci yang hilang.)",
+  "tags": [
+   "n4-m8",
+   "kesempatan-dan-keterbatasan",
+   "L40"
+  ],
+  "module": "n4-m8",
+  "example_en": "なくした かぎを さがしています。(I'm looking for the lost key.)"
+ },
+ {
+  "word": "展",
+  "reading": "てん",
+  "meaning_id": "pameran",
+  "meaning_en": "exhibition",
+  "pos": "noun",
+  "example": "てんじかいへ いきました。(Saya pergi ke pameran.)",
+  "tags": [
+   "n4-m8",
+   "kesempatan-dan-keterbatasan",
+   "L40"
+  ],
+  "module": "n4-m8",
+  "example_en": "てんじかいへ いきました。(I went to the exhibition.)"
+ },
+ {
+  "word": "訳",
+  "reading": "わけ",
+  "meaning_id": "alasan",
+  "meaning_en": "reason",
+  "pos": "noun",
+  "example": "おくれた わけを はなしました。(Saya menjelaskan alasan keterlambatan.)",
+  "tags": [
+   "n4-m8",
+   "kesempatan-dan-keterbatasan",
+   "L40"
+  ],
+  "module": "n4-m8",
+  "example_en": "おくれた わけを はなしました。(I explained the reason for being late.)"
+ },
+ {
+  "word": "億",
+  "reading": "おく",
+  "meaning_id": "seratus juta",
+  "meaning_en": "one hundred million",
+  "pos": "noun",
+  "example": "いちおくえんは たいきんです。(Seratus juta yen adalah uang besar.)",
+  "tags": [
+   "n4-m8",
+   "kesempatan-dan-keterbatasan",
+   "L40"
+  ],
+  "module": "n4-m8",
+  "example_en": "いちおくえんは たいきんです。(A hundred million yen is a lot of money.)"
+ },
+ {
+  "word": "間",
+  "reading": "あいだ",
+  "meaning_id": "jeda, antara",
+  "meaning_en": "interval, while",
+  "pos": "noun",
+  "example": "でんしゃに のっている あいだに ほんを よみました。(Selama naik kereta, saya membaca buku.)",
+  "tags": [
+   "n4-m8",
+   "kesempatan-dan-keterbatasan",
+   "L40"
+  ],
+  "module": "n4-m8",
+  "example_en": "でんしゃに のっている あいだに ほんを よみました。(I read a book while riding the train.)"
+ },
+ {
+  "example": "けさ、がっこうからおしらせがとどきました。(Pagi ini, pengumuman dari sekolah tiba.)",
+  "meaning_en": "notice, announcement",
+  "meaning_id": "pengumuman",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "おしらせ",
+  "tags": [
+   "n4-m9",
+   "pengumuman-email-daur-ulang",
+   "L41"
+  ],
+  "word": "お知らせ",
+  "example_en": "けさ、がっこうからおしらせがとどきました。(This morning, a notice arrived from the school.)"
+ },
+ {
+  "example": "しめきりのまえにもうしこんでください。(Tolong daftar sebelum tenggat waktu.)",
+  "meaning_en": "to apply, register",
+  "meaning_id": "mendaftar",
+  "module": "n4-m9",
+  "pos": "verb-g1",
+  "reading": "もうしこむ",
+  "tags": [
+   "n4-m9",
+   "pengumuman-email-daur-ulang",
+   "L41"
+  ],
+  "word": "申し込む",
+  "example_en": "しめきりのまえにもうしこんでください。(Please apply before the deadline.)"
+ },
+ {
+  "example": "さんかひはひとりごせんルピアです。(Biaya partisipasinya 5.000 rupiah per orang.)",
+  "meaning_en": "participation fee",
+  "meaning_id": "biaya partisipasi",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "さんかひ",
+  "tags": [
+   "n4-m9",
+   "pengumuman-email-daur-ulang",
+   "L41"
+  ],
+  "word": "参加費",
+  "example_en": "さんかひはひとりごせんルピアです。(The participation fee is five thousand rupiah per person.)"
+ },
+ {
+  "example": "ボランティアをぼしゅうしています。(Kami sedang membuka pendaftaran relawan.)",
+  "meaning_en": "to recruit, invite applications",
+  "meaning_id": "membuka pendaftaran",
+  "module": "n4-m9",
+  "pos": "verb-g3",
+  "reading": "ぼしゅうする",
+  "tags": [
+   "n4-m9",
+   "pengumuman-email-daur-ulang",
+   "L41"
+  ],
+  "word": "募集する",
+  "example_en": "ボランティアをぼしゅうしています。(We are recruiting volunteers.)"
+ },
+ {
+  "example": "ホテルをインターネットでよやくしました。(Saya memesan hotel lewat internet.)",
+  "meaning_en": "to reserve, book",
+  "meaning_id": "memesan",
+  "module": "n4-m9",
+  "pos": "verb-g3",
+  "reading": "よやくする",
+  "tags": [
+   "n4-m9",
+   "pengumuman-email-daur-ulang",
+   "L41"
+  ],
+  "word": "予約する",
+  "example_en": "ホテルをインターネットでよやくしました。(I booked the hotel online.)"
+ },
+ {
+  "example": "あしたのごごはあいていますか。(Apakah besok sore Anda luang?)",
+  "meaning_en": "to be free, vacant",
+  "meaning_id": "kosong; luang",
+  "module": "n4-m9",
+  "pos": "verb-g1",
+  "reading": "あいている",
+  "tags": [
+   "n4-m9",
+   "pengumuman-email-daur-ulang",
+   "L41"
+  ],
+  "word": "空いている",
+  "example_en": "あしたのごごはあいていますか。(Are you free tomorrow afternoon?)"
+ },
+ {
+  "example": "メールのへんじをまっています。(Saya sedang menunggu balasan email.)",
+  "meaning_en": "reply",
+  "meaning_id": "balasan",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "へんじ",
+  "tags": [
+   "n4-m9",
+   "pengumuman-email-daur-ulang",
+   "L41"
+  ],
+  "word": "返事",
+  "example_en": "メールのへんじをまっています。(I'm waiting for a reply to the email.)"
+ },
+ {
+  "example": "けんめいをみてからメールをよみます。(Saya melihat subjek emailnya dulu, baru membaca isinya.)",
+  "meaning_en": "subject line",
+  "meaning_id": "subjek email",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "けんめい",
+  "tags": [
+   "n4-m9",
+   "pengumuman-email-daur-ulang",
+   "L41"
+  ],
+  "word": "件名",
+  "example_en": "けんめいをみてからメールをよみます。(I check the subject line first, then read the email.)"
+ },
+ {
+  "example": "よていをへんこうしました。(Saya mengubah rencana.)",
+  "meaning_en": "to change, modify",
+  "meaning_id": "mengubah",
+  "module": "n4-m9",
+  "pos": "verb-g3",
+  "reading": "へんこうする",
+  "tags": [
+   "n4-m9",
+   "pengumuman-email-daur-ulang",
+   "L41"
+  ],
+  "word": "変更する",
+  "example_en": "よていをへんこうしました。(I changed the plan.)"
+ },
+ {
+  "example": "あめのよほうなので、しあいをえんきします。(Karena prakiraan hujan, pertandingan ditunda.)",
+  "meaning_en": "to postpone",
+  "meaning_id": "menunda",
+  "module": "n4-m9",
+  "pos": "verb-g3",
+  "reading": "えんきする",
+  "tags": [
+   "n4-m9",
+   "pengumuman-email-daur-ulang",
+   "L41"
+  ],
+  "word": "延期する",
+  "example_en": "あめのよほうなので、しあいをえんきします。(Because of the rain forecast, the match is postponed.)"
+ },
+ {
+  "example": "しんぶんでおもしろいきじをよみました。(Saya membaca artikel menarik di koran.)",
+  "meaning_en": "article",
+  "meaning_id": "artikel",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "きじ",
+  "tags": [
+   "n4-m9",
+   "artikel-jadwal-daur-ulang",
+   "L42"
+  ],
+  "word": "記事",
+  "example_en": "しんぶんでおもしろいきじをよみました。(I read an interesting article in the newspaper.)"
+ },
+ {
+  "example": "このぶんしょうのようてんをまとめましょう。(Mari kita rangkum poin-poin penting teks ini.)",
+  "meaning_en": "main point",
+  "meaning_id": "poin penting",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "ようてん",
+  "tags": [
+   "n4-m9",
+   "artikel-jadwal-daur-ulang",
+   "L42"
+  ],
+  "word": "要点",
+  "example_en": "このぶんしょうのようてんをまとめましょう。(Let's summarize the main points of this text.)"
+ },
+ {
+  "example": "ワルンはにぎやかです。いっぽう、きっさてんはしずかです。(Warung itu ramai. Di sisi lain, kedai kopi itu tenang.)",
+  "meaning_en": "on the other hand",
+  "meaning_id": "di sisi lain",
+  "module": "n4-m9",
+  "pos": "conjunction",
+  "reading": "いっぽう",
+  "tags": [
+   "n4-m9",
+   "artikel-jadwal-daur-ulang",
+   "L42"
+  ],
+  "word": "一方",
+  "example_en": "ワルンはにぎやかです。いっぽう、きっさてんはしずかです。(The warung is lively. On the other hand, the cafe is quiet.)"
+ },
+ {
+  "example": "このみせはふんいきがいいですね。(Suasana toko ini enak ya.)",
+  "meaning_en": "atmosphere",
+  "meaning_id": "suasana",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "ふんいき",
+  "tags": [
+   "n4-m9",
+   "artikel-jadwal-daur-ulang",
+   "L42"
+  ],
+  "word": "雰囲気",
+  "example_en": "このみせはふんいきがいいですね。(This shop has a nice atmosphere, doesn't it?)"
+ },
+ {
+  "example": "せんせいはていねいにおしえてくれました。(Guru mengajari saya dengan teliti.)",
+  "meaning_en": "polite, careful",
+  "meaning_id": "teliti, saksama",
+  "module": "n4-m9",
+  "pos": "na-adj",
+  "reading": "ていねい",
+  "tags": [
+   "n4-m9",
+   "artikel-jadwal-daur-ulang",
+   "L42"
+  ],
+  "word": "丁寧",
+  "example_en": "せんせいはていねいにおしえてくれました。(The teacher taught me carefully.)"
+ },
+ {
+  "example": "これはでんとうてきなりょうりです。(Ini masakan tradisional.)",
+  "meaning_en": "traditional",
+  "meaning_id": "tradisional",
+  "module": "n4-m9",
+  "pos": "na-adj",
+  "reading": "でんとうてき",
+  "tags": [
+   "n4-m9",
+   "artikel-jadwal-daur-ulang",
+   "L42"
+  ],
+  "word": "伝統的",
+  "example_en": "これはでんとうてきなりょうりです。(This is a traditional dish.)"
+ },
+ {
+  "example": "さいきん、にほんごをべんきょうするひとがふえています。(Akhir-akhir ini, orang yang belajar bahasa Jepang bertambah.)",
+  "meaning_en": "to increase",
+  "meaning_id": "bertambah",
+  "module": "n4-m9",
+  "pos": "verb-g2",
+  "reading": "ふえる",
+  "tags": [
+   "n4-m9",
+   "artikel-jadwal-daur-ulang",
+   "L42"
+  ],
+  "word": "増える",
+  "example_en": "さいきん、にほんごをべんきょうするひとがふえています。(Lately, the number of people studying Japanese is increasing.)"
+ },
+ {
+  "example": "ふたつのしゃしんをくらべてください。(Tolong bandingkan dua foto ini.)",
+  "meaning_en": "to compare",
+  "meaning_id": "membandingkan",
+  "module": "n4-m9",
+  "pos": "verb-g2",
+  "reading": "くらべる",
+  "tags": [
+   "n4-m9",
+   "artikel-jadwal-daur-ulang",
+   "L42"
+  ],
+  "word": "比べる",
+  "example_en": "ふたつのしゃしんをくらべてください。(Please compare the two photos.)"
+ },
+ {
+  "example": "このまちのとくちょうはうみがちかいことです。(Ciri khas kota ini adalah dekat dengan laut.)",
+  "meaning_en": "characteristic",
+  "meaning_id": "ciri khas",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "とくちょう",
+  "tags": [
+   "n4-m9",
+   "artikel-jadwal-daur-ulang",
+   "L42"
+  ],
+  "word": "特徴",
+  "example_en": "このまちのとくちょうはうみがちかいことです。(This town's characteristic is that it is close to the sea.)"
+ },
+ {
+  "example": "このもんだいのちゅうしんはおかねです。(Inti masalah ini adalah uang.)",
+  "meaning_en": "center, core",
+  "meaning_id": "pusat; inti",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "ちゅうしん",
+  "tags": [
+   "n4-m9",
+   "artikel-jadwal-daur-ulang",
+   "L42"
+  ],
+  "word": "中心",
+  "example_en": "このもんだいのちゅうしんはおかねです。(The core of this problem is money.)"
+ },
+ {
+  "example": "このかばんはふくにあいます。(Tas ini cocok dengan pakaian.)",
+  "meaning_en": "to match, suit",
+  "meaning_id": "cocok",
+  "module": "n4-m9",
+  "pos": "verb-g1",
+  "reading": "あう",
+  "tags": [
+   "n4-m9",
+   "artikel-jadwal-daur-ulang",
+   "L42"
+  ],
+  "word": "合う",
+  "example_en": "このかばんはふくにあいます。(This bag matches the clothes.)"
+ },
+ {
+  "example": "かぞくとのじかんをたいせつにしています。(Saya menghargai waktu bersama keluarga.)",
+  "meaning_en": "to value, treasure",
+  "meaning_id": "menghargai",
+  "module": "n4-m9",
+  "pos": "verb-g3",
+  "reading": "たいせつにする",
+  "tags": [
+   "n4-m9",
+   "artikel-jadwal-daur-ulang",
+   "L42"
+  ],
+  "word": "大切にする",
+  "example_en": "かぞくとのじかんをたいせつにしています。(I value my time with my family.)"
+ },
+ {
+  "example": "あしたのてんきよほうをみましたか。(Sudah lihat prakiraan cuaca besok?)",
+  "meaning_en": "forecast",
+  "meaning_id": "prakiraan",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "よほう",
+  "tags": [
+   "n4-m9",
+   "percakapan-sehari-hari-daur-ulang",
+   "L43"
+  ],
+  "word": "予報",
+  "example_en": "あしたのてんきよほうをみましたか。(Have you seen tomorrow's weather forecast?)"
+ },
+ {
+  "example": "えきのまえでまちあわせしましょう。(Mari bertemu di depan stasiun.)",
+  "meaning_en": "meeting arrangement",
+  "meaning_id": "janji bertemu",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "まちあわせ",
+  "tags": [
+   "n4-m9",
+   "percakapan-sehari-hari-daur-ulang",
+   "L43"
+  ],
+  "word": "待ち合わせ",
+  "example_en": "えきのまえでまちあわせしましょう。(Let's meet in front of the station.)"
+ },
+ {
+  "example": "としょかんのほんをへんきゃくしました。(Saya mengembalikan buku perpustakaan.)",
+  "meaning_en": "to return (something)",
+  "meaning_id": "mengembalikan",
+  "module": "n4-m9",
+  "pos": "verb-g3",
+  "reading": "へんきゃくする",
+  "tags": [
+   "n4-m9",
+   "percakapan-sehari-hari-daur-ulang",
+   "L43"
+  ],
+  "word": "返却する",
+  "example_en": "としょかんのほんをへんきゃくしました。(I returned the library book.)"
+ },
+ {
+  "example": "えきでおしらせをほうそうしています。(Di stasiun sedang mengumumkan pemberitahuan.)",
+  "meaning_en": "to broadcast, announce",
+  "meaning_id": "mengumumkan (via pengeras suara)",
+  "module": "n4-m9",
+  "pos": "verb-g3",
+  "reading": "ほうそうする",
+  "tags": [
+   "n4-m9",
+   "percakapan-sehari-hari-daur-ulang",
+   "L43"
+  ],
+  "word": "放送する",
+  "example_en": "えきでおしらせをほうそうしています。(They are broadcasting announcements at the station.)"
+ },
+ {
+  "example": "りょこうのよさんはひとりじゅうまんルピアです。(Anggaran perjalanannya 100 ribu rupiah per orang.)",
+  "meaning_en": "budget",
+  "meaning_id": "anggaran",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "よさん",
+  "tags": [
+   "n4-m9",
+   "percakapan-sehari-hari-daur-ulang",
+   "L43"
+  ],
+  "word": "予算",
+  "example_en": "りょこうのよさんはひとりじゅうまんルピアです。(The trip budget is 100 thousand rupiah per person.)"
+ },
+ {
+  "example": "かいぎでひをけっていしました。(Di rapat, harinya diputuskan.)",
+  "meaning_en": "to decide",
+  "meaning_id": "memutuskan",
+  "module": "n4-m9",
+  "pos": "verb-g3",
+  "reading": "けっていする",
+  "tags": [
+   "n4-m9",
+   "percakapan-sehari-hari-daur-ulang",
+   "L43"
+  ],
+  "word": "決定する",
+  "example_en": "かいぎでひをけっていしました。(The date was decided at the meeting.)"
+ },
+ {
+  "example": "でんわばんごうをかくにんしてください。(Tolong pastikan nomor teleponnya.)",
+  "meaning_en": "to confirm",
+  "meaning_id": "memastikan",
+  "module": "n4-m9",
+  "pos": "verb-g3",
+  "reading": "かくにんする",
+  "tags": [
+   "n4-m9",
+   "percakapan-sehari-hari-daur-ulang",
+   "L43"
+  ],
+  "word": "確認する",
+  "example_en": "でんわばんごうをかくにんしてください。(Please confirm the phone number.)"
+ },
+ {
+  "example": "はやくちだったので、ぜんぶききとれませんでした。(Karena bicaranya cepat, saya tidak bisa menangkap semuanya.)",
+  "meaning_en": "to catch (by listening)",
+  "meaning_id": "menangkap (dengan pendengaran)",
+  "module": "n4-m9",
+  "pos": "verb-g1",
+  "reading": "ききとる",
+  "tags": [
+   "n4-m9",
+   "percakapan-sehari-hari-daur-ulang",
+   "L43"
+  ],
+  "word": "聞き取る",
+  "example_en": "はやくちだったので、ぜんぶききとれませんでした。(She spoke so fast that I couldn't catch everything.)"
+ },
+ {
+  "example": "じゅうようなことはメモしておきます。(Hal penting saya catat dulu.)",
+  "meaning_en": "to take notes",
+  "meaning_id": "mencatat",
+  "module": "n4-m9",
+  "pos": "verb-g3",
+  "reading": "メモする",
+  "tags": [
+   "n4-m9",
+   "percakapan-sehari-hari-daur-ulang",
+   "L43"
+  ],
+  "word": "メモする",
+  "example_en": "じゅうようなことはメモしておきます。(I take notes of important things.)"
+ },
+ {
+  "example": "ちょうおんにきをつけてはなしましょう。(Mari bicara dengan memperhatikan vokal panjang.)",
+  "meaning_en": "long vowel",
+  "meaning_id": "vokal panjang",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "ちょうおん",
+  "tags": [
+   "n4-m9",
+   "pasangan-kata-pengecoh",
+   "L44"
+  ],
+  "word": "長音",
+  "example_en": "ちょうおんにきをつけてはなしましょう。(Let's speak while paying attention to long vowels.)"
+ },
+ {
+  "example": "そくおんのあることばはむずかしいです。(Kata yang ada konsonan gandanya sulit.)",
+  "meaning_en": "double consonant",
+  "meaning_id": "konsonan ganda (っ)",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "そくおん",
+  "tags": [
+   "n4-m9",
+   "pasangan-kata-pengecoh",
+   "L44"
+  ],
+  "word": "促音",
+  "example_en": "そくおんのあることばはむずかしいです。(Words with double consonants are difficult.)"
+ },
+ {
+  "example": "そんけいごはほかのひとにつかいます。(Bahasa hormat dipakai untuk orang lain.)",
+  "meaning_en": "honorific language",
+  "meaning_id": "bahasa hormat (untuk orang lain)",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "そんけいご",
+  "tags": [
+   "n4-m9",
+   "pasangan-kata-pengecoh",
+   "L44"
+  ],
+  "word": "尊敬語",
+  "example_en": "そんけいごはほかのひとにつかいます。(Honorific language is used for other people.)"
+ },
+ {
+  "example": "けんじょうごはじぶんのことにつかいます。(Bahasa merendah dipakai untuk diri sendiri.)",
+  "meaning_en": "humble language",
+  "meaning_id": "bahasa merendah (untuk diri sendiri)",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "けんじょうご",
+  "tags": [
+   "n4-m9",
+   "pasangan-kata-pengecoh",
+   "L44"
+  ],
+  "word": "謙譲語",
+  "example_en": "けんじょうごはじぶんのことにつかいます。(Humble language is used for oneself.)"
+ },
+ {
+  "example": "せんせい、このしゃしんをごらんになりましたか。(Guru, sudah melihat foto ini?)",
+  "meaning_en": "to see, look (honorific)",
+  "meaning_id": "melihat (hormat)",
+  "module": "n4-m9",
+  "pos": "verb-g1",
+  "reading": "ごらんになる",
+  "tags": [
+   "n4-m9",
+   "pasangan-kata-pengecoh",
+   "L44"
+  ],
+  "word": "ご覧になる",
+  "example_en": "せんせい、このしゃしんをごらんになりましたか。(Teacher, have you seen this photo?)"
+ },
+ {
+  "example": "りょうほうともおいしかったです。(Keduanya enak.)",
+  "meaning_en": "both",
+  "meaning_id": "kedua-duanya",
+  "module": "n4-m9",
+  "pos": "pronoun",
+  "reading": "りょうほう",
+  "tags": [
+   "n4-m9",
+   "pasangan-kata-pengecoh",
+   "L44"
+  ],
+  "word": "両方",
+  "example_en": "りょうほうともおいしかったです。(Both were delicious.)"
+ },
+ {
+  "example": "どちらもしりません。(Saya tidak tahu keduanya.)",
+  "meaning_en": "neither, both (negative)",
+  "meaning_id": "keduanya (tidak ...)",
+  "module": "n4-m9",
+  "pos": "pronoun",
+  "reading": "どちらも",
+  "tags": [
+   "n4-m9",
+   "pasangan-kata-pengecoh",
+   "L44"
+  ],
+  "word": "どちらも",
+  "example_en": "どちらもしりません。(I know neither.)"
+ },
+ {
+  "example": "よやくをとりけしました。(Saya membatalkan reservasi.)",
+  "meaning_en": "to cancel",
+  "meaning_id": "membatalkan",
+  "module": "n4-m9",
+  "pos": "verb-g1",
+  "reading": "とりけす",
+  "tags": [
+   "n4-m9",
+   "pasangan-kata-pengecoh",
+   "L44"
+  ],
+  "word": "取り消す",
+  "example_en": "よやくをとりけしました。(I canceled the reservation.)"
+ },
+ {
+  "example": "むずかしいことばをやさしくいいかえてください。(Tolong ungkapkan ulang kata yang sulit dengan bahasa yang mudah.)",
+  "meaning_en": "to rephrase",
+  "meaning_id": "mengungkapkan ulang",
+  "module": "n4-m9",
+  "pos": "verb-g2",
+  "reading": "いいかえる",
+  "tags": [
+   "n4-m9",
+   "pasangan-kata-pengecoh",
+   "L44"
+  ],
+  "word": "言い換える",
+  "example_en": "むずかしいことばをやさしくいいかえてください。(Please rephrase the difficult words in simpler language.)"
+ },
+ {
+  "example": "じかんはいぶんをきめてからもんだいをときます。(Saya menentukan alokasi waktu dulu, baru mengerjakan soal.)",
+  "meaning_en": "time allocation",
+  "meaning_id": "alokasi waktu",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "じかんはいぶん",
+  "tags": [
+   "n4-m9",
+   "campuran-semua-seksi",
+   "L45"
+  ],
+  "word": "時間配分",
+  "example_en": "じかんはいぶんをきめてからもんだいをときます。(I decide on the time allocation first, then solve the questions.)"
+ },
+ {
+  "example": "おわったら、みなおしのじかんをとりましょう。(Setelah selesai, mari sisihkan waktu untuk pemeriksaan ulang.)",
+  "meaning_en": "review, recheck",
+  "meaning_id": "pemeriksaan ulang",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "みなおし",
+  "tags": [
+   "n4-m9",
+   "campuran-semua-seksi",
+   "L45"
+  ],
+  "word": "見直し",
+  "example_en": "おわったら、みなおしのじかんをとりましょう。(When you're done, let's set aside time to review.)"
+ },
+ {
+  "example": "わからないもんだいにしるしをつけます。(Saya menandai soal yang tidak saya pahami.)",
+  "meaning_en": "to mark",
+  "meaning_id": "menandai",
+  "module": "n4-m9",
+  "pos": "verb-g2",
+  "reading": "しるしをつける",
+  "tags": [
+   "n4-m9",
+   "campuran-semua-seksi",
+   "L45"
+  ],
+  "word": "印をつける",
+  "example_en": "わからないもんだいにしるしをつけます。(I mark the questions I don't understand.)"
+ },
+ {
+  "example": "むずかしいもんだいはとばして、あとでもどります。(Soal yang sulit saya lewati, nanti saya kembali lagi.)",
+  "meaning_en": "to skip",
+  "meaning_id": "melewatkan (soal)",
+  "module": "n4-m9",
+  "pos": "verb-g1",
+  "reading": "とばす",
+  "tags": [
+   "n4-m9",
+   "campuran-semua-seksi",
+   "L45"
+  ],
+  "word": "飛ばす",
+  "example_en": "むずかしいもんだいはとばして、あとでもどります。(I skip the difficult questions and come back to them later.)"
+ },
+ {
+  "example": "こたえにまよったらはやくつぎへいきましょう。(Kalau ragu dengan jawaban, cepat lanjut ke soal berikutnya.)",
+  "meaning_en": "to hesitate, be puzzled",
+  "meaning_id": "ragu-ragu",
+  "module": "n4-m9",
+  "pos": "verb-g1",
+  "reading": "まよう",
+  "tags": [
+   "n4-m9",
+   "campuran-semua-seksi",
+   "L45"
+  ],
+  "word": "迷う",
+  "example_en": "こたえにまよったらはやくつぎへいきましょう。(If you're unsure about an answer, move on to the next one quickly.)"
+ },
+ {
+  "example": "ゆうせんじゅんいをきめてべんきょうします。(Saya belajar setelah menentukan urutan prioritas.)",
+  "meaning_en": "order of priority",
+  "meaning_id": "urutan prioritas",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "ゆうせんじゅんい",
+  "tags": [
+   "n4-m9",
+   "campuran-semua-seksi",
+   "L45"
+  ],
+  "word": "優先順位",
+  "example_en": "ゆうせんじゅんいをきめてべんきょうします。(I set the order of priorities, then study.)"
+ },
+ {
+  "example": "しけんちゅうはしゅうちゅうしてください。(Saat ujian, berkonsentrasilah.)",
+  "meaning_en": "to concentrate",
+  "meaning_id": "berkonsentrasi",
+  "module": "n4-m9",
+  "pos": "verb-g3",
+  "reading": "しゅうちゅうする",
+  "tags": [
+   "n4-m9",
+   "campuran-semua-seksi",
+   "L45"
+  ],
+  "word": "集中する",
+  "example_en": "しけんちゅうはしゅうちゅうしてください。(Please concentrate during the exam.)"
+ },
+ {
+  "example": "ほんばんではきんちょうしないようにしましょう。(Di ujian sesungguhnya, usahakan tidak gugup.)",
+  "meaning_en": "the real thing, actual exam",
+  "meaning_id": "ujian sesungguhnya",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "ほんばん",
+  "tags": [
+   "n4-m9",
+   "campuran-semua-seksi",
+   "L45"
+  ],
+  "word": "本番",
+  "example_en": "ほんばんではきんちょうしないようにしましょう。(On the actual day, let's try not to get nervous.)"
+ },
+ {
+  "example": "このしけんにはでやすいけいこうがあります。(Ujian ini punya pola soal yang sering keluar.)",
+  "meaning_en": "tendency, trend",
+  "meaning_id": "kecenderungan; pola",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "けいこう",
+  "tags": [
+   "n4-m9",
+   "campuran-semua-seksi",
+   "L45"
+  ],
+  "word": "傾向",
+  "example_en": "このしけんにはでやすいけいこうがあります。(This exam has trends in the questions that often appear.)"
+ },
+ {
+  "example": "まいにちすこしずつふくしゅうします。(Setiap hari saya mengulang materi sedikit demi sedikit.)",
+  "meaning_en": "review (of material)",
+  "meaning_id": "pengulangan materi",
+  "module": "n4-m9",
+  "pos": "noun",
+  "reading": "ふくしゅう",
+  "tags": [
+   "n4-m9",
+   "campuran-semua-seksi",
+   "L45"
+  ],
+  "word": "復習",
+  "example_en": "まいにちすこしずつふくしゅうします。(I review a little each day.)"
+ },
+ {
+  "example": "しゅうまつにもぎしけんをうけます。(Akhir pekan ini saya ikut simulasi ujian.)",
+  "meaning_en": "mock exam",
+  "meaning_id": "simulasi ujian",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "もぎしけん",
+  "tags": [
+   "n4-m10",
+   "strategi-ujian",
+   "L46"
+  ],
+  "word": "模擬試験",
+  "example_en": "しゅうまつにもぎしけんをうけます。(I will take a mock exam this weekend.)"
+ },
+ {
+  "example": "まちがえたもんだいのかいせつをよみます。(Saya membaca pembahasan soal yang salah.)",
+  "meaning_en": "explanation",
+  "meaning_id": "pembahasan",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "かいせつ",
+  "tags": [
+   "n4-m10",
+   "strategi-ujian",
+   "L46"
+  ],
+  "word": "解説",
+  "example_en": "まちがえたもんだいのかいせつをよみます。(I read the explanations for the questions I got wrong.)"
+ },
+ {
+  "example": "セクションのあいだはいちじていしできます。(Di antara seksi boleh jeda sementara.)",
+  "meaning_en": "temporary pause",
+  "meaning_id": "jeda sementara",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "いちじていし",
+  "tags": [
+   "n4-m10",
+   "strategi-ujian",
+   "L46"
+  ],
+  "word": "一時停止",
+  "example_en": "セクションのあいだはいちじていしできます。(You can pause temporarily between sections.)"
+ },
+ {
+  "example": "もくひょうてんはきゅうじゅうてんです。(Skor target saya 90 poin.)",
+  "meaning_en": "target score",
+  "meaning_id": "skor target",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "もくひょうてん",
+  "tags": [
+   "n4-m10",
+   "strategi-ujian",
+   "L46"
+  ],
+  "word": "目標点",
+  "example_en": "もくひょうてんはきゅうじゅうてんです。(My target score is 90 points.)"
+ },
+ {
+  "example": "ごとうをノートにかきましょう。(Mari tulis jawaban yang salah di buku catatan.)",
+  "meaning_en": "wrong answer",
+  "meaning_id": "jawaban salah",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "ごとう",
+  "tags": [
+   "n4-m10",
+   "strategi-ujian",
+   "L46"
+  ],
+  "word": "誤答",
+  "example_en": "ごとうをノートにかきましょう。(Let's write the wrong answers in a notebook.)"
+ },
+ {
+  "example": "じぶんのじつりょくをはあくしましょう。(Mari pahami kemampuan diri sendiri.)",
+  "meaning_en": "to grasp",
+  "meaning_id": "memahami (situasi)",
+  "module": "n4-m10",
+  "pos": "verb-g3",
+  "reading": "はあくする",
+  "tags": [
+   "n4-m10",
+   "strategi-ujian",
+   "L46"
+  ],
+  "word": "把握する",
+  "example_en": "じぶんのじつりょくをはあくしましょう。(Let's get a clear grasp of our true abilities.)"
+ },
+ {
+  "example": "かいぜんてんをみっつかきました。(Saya menulis tiga poin perbaikan.)",
+  "meaning_en": "point for improvement",
+  "meaning_id": "poin perbaikan",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "かいぜんてん",
+  "tags": [
+   "n4-m10",
+   "strategi-ujian",
+   "L46"
+  ],
+  "word": "改善点",
+  "example_en": "かいぜんてんをみっつかきました。(I wrote down three points for improvement.)"
+ },
+ {
+  "example": "しけんのあとでふりかえりをします。(Setelah ujian saya melakukan evaluasi.)",
+  "meaning_en": "reflection, review",
+  "meaning_id": "evaluasi",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "ふりかえり",
+  "tags": [
+   "n4-m10",
+   "strategi-ujian",
+   "L46"
+  ],
+  "word": "振り返り",
+  "example_en": "しけんのあとでふりかえりをします。(After the exam, I reflect on it.)"
+ },
+ {
+  "example": "じつりょくがついてきました。(Kemampuan sebenarnya saya mulai meningkat.)",
+  "meaning_en": "true ability",
+  "meaning_id": "kemampuan sebenarnya",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "じつりょく",
+  "tags": [
+   "n4-m10",
+   "strategi-ujian",
+   "L46"
+  ],
+  "word": "実力",
+  "example_en": "じつりょくがついてきました。(My true ability is starting to improve.)"
+ },
+ {
+  "example": "「たら」と「ば」をこんどうしやすいです。(Saya mudah tertukar antara tara dan ba.)",
+  "meaning_en": "to confuse, mix up",
+  "meaning_id": "tertukar; tercampur",
+  "module": "n4-m10",
+  "pos": "verb-g3",
+  "reading": "こんどうする",
+  "tags": [
+   "n4-m10",
+   "kata-lemah-pribadi",
+   "L47"
+  ],
+  "word": "混同する",
+  "example_en": "「たら」と「ば」をこんどうしやすいです。(I easily mix up 'tara' and 'ba'.)"
+ },
+ {
+  "example": "じょうけんけいにはよっつのパターンがあります。(Bentuk kondisional ada empat pola.)",
+  "meaning_en": "conditional form",
+  "meaning_id": "bentuk kondisional",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "じょうけんけい",
+  "tags": [
+   "n4-m10",
+   "kata-lemah-pribadi",
+   "L47"
+  ],
+  "word": "条件形",
+  "example_en": "じょうけんけいにはよっつのパターンがあります。(There are four patterns of conditional forms.)"
+ },
+ {
+  "example": "うけみとかのうけいをべんきょうしました。(Saya mempelajari pasif dan bentuk potensial.)",
+  "meaning_en": "passive voice",
+  "meaning_id": "pasif",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "うけみ",
+  "tags": [
+   "n4-m10",
+   "kata-lemah-pribadi",
+   "L47"
+  ],
+  "word": "受身",
+  "example_en": "うけみとかのうけいをべんきょうしました。(I studied the passive and potential forms.)"
+ },
+ {
+  "example": "かのうけいのつくりかたをおぼえましょう。(Mari hafalkan cara membuat bentuk potensial.)",
+  "meaning_en": "potential form",
+  "meaning_id": "bentuk potensial",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "かのうけい",
+  "tags": [
+   "n4-m10",
+   "kata-lemah-pribadi",
+   "L47"
+  ],
+  "word": "可能形",
+  "example_en": "かのうけいのつくりかたをおぼえましょう。(Let's memorize how to form the potential form.)"
+ },
+ {
+  "example": "でんぶんの「そうだ」はふつうけいにつきます。(Souda hearsay menempel pada bentuk biasa.)",
+  "meaning_en": "hearsay",
+  "meaning_id": "katanya (hearsay)",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "でんぶん",
+  "tags": [
+   "n4-m10",
+   "kata-lemah-pribadi",
+   "L47"
+  ],
+  "word": "伝聞",
+  "example_en": "でんぶんの「そうだ」はふつうけいにつきます。(The hearsay 'sou da' attaches to the plain form.)"
+ },
+ {
+  "example": "ようたいの「そうだ」はますけいからつくります。(Souda penampakan dibuat dari bentuk masu.)",
+  "meaning_en": "appearance",
+  "meaning_id": "kelihatannya (penampakan)",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "ようたい",
+  "tags": [
+   "n4-m10",
+   "kata-lemah-pribadi",
+   "L47"
+  ],
+  "word": "様態",
+  "example_en": "ようたいの「そうだ」はますけいからつくります。(The appearance 'sou da' is formed from the masu form.)"
+ },
+ {
+  "example": "じょしのつかいわけはむずかしいです。(Pembedaan pemakaian partikel itu sulit.)",
+  "meaning_en": "particle",
+  "meaning_id": "partikel",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "じょし",
+  "tags": [
+   "n4-m10",
+   "kata-lemah-pribadi",
+   "L47"
+  ],
+  "word": "助詞",
+  "example_en": "じょしのつかいわけはむずかしいです。(Distinguishing particle usage is difficult.)"
+ },
+ {
+  "example": "「に」と「で」のつかいわけをれんしゅうします。(Saya melatih pembedaan pemakaian ni dan de.)",
+  "meaning_en": "proper use, distinction",
+  "meaning_id": "pembedaan pemakaian",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "つかいわけ",
+  "tags": [
+   "n4-m10",
+   "kata-lemah-pribadi",
+   "L47"
+  ],
+  "word": "使い分け",
+  "example_en": "「に」と「で」のつかいわけをれんしゅうします。(I practice distinguishing the uses of 'ni' and 'de'.)"
+ },
+ {
+  "example": "「あく」はじどうしです。(Aku adalah kata kerja intransitif.)",
+  "meaning_en": "intransitive verb",
+  "meaning_id": "kata kerja intransitif",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "じどうし",
+  "tags": [
+   "n4-m10",
+   "kata-lemah-pribadi",
+   "L47"
+  ],
+  "word": "自動詞",
+  "example_en": "「あく」はじどうしです。('Aku' is an intransitive verb.)"
+ },
+ {
+  "example": "「あける」はたどうしです。(Akeru adalah kata kerja transitif.)",
+  "meaning_en": "transitive verb",
+  "meaning_id": "kata kerja transitif",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "たどうし",
+  "tags": [
+   "n4-m10",
+   "kata-lemah-pribadi",
+   "L47"
+  ],
+  "word": "他動詞",
+  "example_en": "「あける」はたどうしです。('Akeru' is a transitive verb.)"
+ },
+ {
+  "example": "かいとうようしにこたえをかきます。(Saya menulis jawaban di lembar jawab.)",
+  "meaning_en": "answer sheet",
+  "meaning_id": "lembar jawab",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "かいとうようし",
+  "tags": [
+   "n4-m10",
+   "simulasi-penuh",
+   "L48"
+  ],
+  "word": "解答用紙",
+  "example_en": "かいとうようしにこたえをかきます。(I write my answers on the answer sheet.)"
+ },
+ {
+  "example": "じかんぎれにならないようにしましょう。(Usahakan jangan sampai kehabisan waktu.)",
+  "meaning_en": "running out of time",
+  "meaning_id": "kehabisan waktu",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "じかんぎれ",
+  "tags": [
+   "n4-m10",
+   "simulasi-penuh",
+   "L48"
+  ],
+  "word": "時間切れ",
+  "example_en": "じかんぎれにならないようにしましょう。(Let's make sure not to run out of time.)"
+ },
+ {
+  "example": "もちものをまえのばんにじゅんびします。(Saya menyiapkan barang bawaan malam sebelumnya.)",
+  "meaning_en": "belongings",
+  "meaning_id": "barang bawaan",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "もちもの",
+  "tags": [
+   "n4-m10",
+   "simulasi-penuh",
+   "L48"
+  ],
+  "word": "持ち物",
+  "example_en": "もちものをまえのばんにじゅんびします。(I prepare my belongings the night before.)"
+ },
+ {
+  "example": "じゅけんひょうをわすれないでください。(Jangan lupa kartu ujiannya.)",
+  "meaning_en": "exam admission ticket",
+  "meaning_id": "kartu ujian",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "じゅけんひょう",
+  "tags": [
+   "n4-m10",
+   "simulasi-penuh",
+   "L48"
+  ],
+  "word": "受験票",
+  "example_en": "じゅけんひょうをわすれないでください。(Please don't forget your exam admission ticket.)"
+ },
+ {
+  "example": "みぶんしょうをもっていきます。(Saya akan membawa kartu identitas.)",
+  "meaning_en": "ID card",
+  "meaning_id": "kartu identitas",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "みぶんしょう",
+  "tags": [
+   "n4-m10",
+   "simulasi-penuh",
+   "L48"
+  ],
+  "word": "身分証",
+  "example_en": "みぶんしょうをもっていきます。(I will bring my ID card.)"
+ },
+ {
+  "example": "あさはしゅうちゅうりょくがいちばんたかいです。(Pagi hari daya konsentrasi paling tinggi.)",
+  "meaning_en": "concentration",
+  "meaning_id": "daya konsentrasi",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "しゅうちゅうりょく",
+  "tags": [
+   "n4-m10",
+   "simulasi-penuh",
+   "L48"
+  ],
+  "word": "集中力",
+  "example_en": "あさはしゅうちゅうりょくがいちばんたかいです。(My concentration is highest in the morning.)"
+ },
+ {
+  "example": "しんこきゅうをしてからもんだいをよみます。(Saya menarik napas dalam dulu, baru membaca soal.)",
+  "meaning_en": "deep breath",
+  "meaning_id": "napas dalam",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "しんこきゅう",
+  "tags": [
+   "n4-m10",
+   "simulasi-penuh",
+   "L48"
+  ],
+  "word": "深呼吸",
+  "example_en": "しんこきゅうをしてからもんだいをよみます。(I take a deep breath before reading the questions.)"
+ },
+ {
+  "example": "おわったらこたえをみなおします。(Setelah selesai saya memeriksa ulang jawaban.)",
+  "meaning_en": "to recheck",
+  "meaning_id": "memeriksa ulang",
+  "module": "n4-m10",
+  "pos": "verb-g1",
+  "reading": "みなおす",
+  "tags": [
+   "n4-m10",
+   "simulasi-penuh",
+   "L48"
+  ],
+  "word": "見直す",
+  "example_en": "おわったらこたえをみなおします。(When I'm done, I recheck my answers.)"
+ },
+ {
+  "example": "きんちょうしたときはしんこきゅうをしましょう。(Saat gugup, mari tarik napas dalam.)",
+  "meaning_en": "nervousness",
+  "meaning_id": "tegang; gugup",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "きんちょう",
+  "tags": [
+   "n4-m10",
+   "simulasi-penuh",
+   "L48"
+  ],
+  "word": "緊張",
+  "example_en": "きんちょうしたときはしんこきゅうをしましょう。(When you're nervous, take a deep breath.)"
+ },
+ {
+  "example": "こうしきなもんだいでれんしゅうします。(Saya berlatih dengan soal resmi.)",
+  "meaning_en": "official",
+  "meaning_id": "resmi",
+  "module": "n4-m10",
+  "pos": "na-adj",
+  "reading": "こうしき",
+  "tags": [
+   "n4-m10",
+   "kalibrasi-skor",
+   "L49"
+  ],
+  "word": "公式",
+  "example_en": "こうしきなもんだいでれんしゅうします。(I practice with official questions.)"
+ },
+ {
+  "example": "ごうかくのきじゅんはきゅうじゅうてんです。(Standar kelulusan adalah 90 poin.)",
+  "meaning_en": "standard, criterion",
+  "meaning_id": "standar; patokan",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "きじゅん",
+  "tags": [
+   "n4-m10",
+   "kalibrasi-skor",
+   "L49"
+  ],
+  "word": "基準",
+  "example_en": "ごうかくのきじゅんはきゅうじゅうてんです。(The passing standard is 90 points.)"
+ },
+ {
+  "example": "ふたつのスコアをひかくします。(Saya membandingkan dua skor.)",
+  "meaning_en": "to compare",
+  "meaning_id": "membandingkan",
+  "module": "n4-m10",
+  "pos": "verb-g3",
+  "reading": "ひかくする",
+  "tags": [
+   "n4-m10",
+   "kalibrasi-skor",
+   "L49"
+  ],
+  "word": "比較する",
+  "example_en": "ふたつのスコアをひかくします。(I compare the two scores.)"
+ },
+ {
+  "example": "スコアがもくひょうをうわまわりました。(Skornya melampaui target.)",
+  "meaning_en": "to exceed",
+  "meaning_id": "melampaui",
+  "module": "n4-m10",
+  "pos": "verb-g1",
+  "reading": "うわまわる",
+  "tags": [
+   "n4-m10",
+   "kalibrasi-skor",
+   "L49"
+  ],
+  "word": "上回る",
+  "example_en": "スコアがもくひょうをうわまわりました。(My score exceeded the target.)"
+ },
+ {
+  "example": "ちょうかいのてんすうがきじゅんをしたまわりました。(Nilai listening berada di bawah standar.)",
+  "meaning_en": "to fall below",
+  "meaning_id": "berada di bawah",
+  "module": "n4-m10",
+  "pos": "verb-g1",
+  "reading": "したまわる",
+  "tags": [
+   "n4-m10",
+   "kalibrasi-skor",
+   "L49"
+  ],
+  "word": "下回る",
+  "example_en": "ちょうかいのてんすうがきじゅんをしたまわりました。(My listening score fell below the standard.)"
+ },
+ {
+  "example": "スコアがあんていしてきました。(Skor mulai stabil.)",
+  "meaning_en": "to stabilize",
+  "meaning_id": "stabil",
+  "module": "n4-m10",
+  "pos": "verb-g3",
+  "reading": "あんていする",
+  "tags": [
+   "n4-m10",
+   "kalibrasi-skor",
+   "L49"
+  ],
+  "word": "安定する",
+  "example_en": "スコアがあんていしてきました。(My score is starting to stabilize.)"
+ },
+ {
+  "example": "セクションごとのばらつきがおおきいです。(Variasi antar seksi besar.)",
+  "meaning_en": "variation, spread",
+  "meaning_id": "variasi; penyebaran",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "ばらつき",
+  "tags": [
+   "n4-m10",
+   "kalibrasi-skor",
+   "L49"
+  ],
+  "word": "ばらつき",
+  "example_en": "セクションごとのばらつきがおおきいです。(There is large variation across sections.)"
+ },
+ {
+  "example": "もうごうかくけんにはいっています。(Saya sudah masuk zona lulus.)",
+  "meaning_en": "passing zone",
+  "meaning_id": "zona lulus",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "ごうかくけん",
+  "tags": [
+   "n4-m10",
+   "kalibrasi-skor",
+   "L49"
+  ],
+  "word": "合格圏",
+  "example_en": "もうごうかくけんにはいっています。(I'm already in the passing zone.)"
+ },
+ {
+  "example": "ちょうかいセクションはようちゅういです。(Seksi listening perlu perhatian.)",
+  "meaning_en": "needs attention",
+  "meaning_id": "perlu perhatian",
+  "module": "n4-m10",
+  "pos": "na-adj",
+  "reading": "ようちゅうい",
+  "tags": [
+   "n4-m10",
+   "kalibrasi-skor",
+   "L49"
+  ],
+  "word": "要注意",
+  "example_en": "ちょうかいセクションはようちゅういです。(The listening section needs attention.)"
+ },
+ {
+  "example": "あとはびちょうせいだけです。(Sisanya tinggal penyesuaian kecil.)",
+  "meaning_en": "fine adjustment",
+  "meaning_id": "penyesuaian kecil",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "びちょうせい",
+  "tags": [
+   "n4-m10",
+   "kalibrasi-skor",
+   "L49"
+  ],
+  "word": "微調整",
+  "example_en": "あとはびちょうせいだけです。(All that's left is fine-tuning.)"
+ },
+ {
+  "example": "このひょうをめやすにしてください。(Jadikan tabel ini sebagai patokan.)",
+  "meaning_en": "guideline, benchmark",
+  "meaning_id": "patokan; acuan",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "めやす",
+  "tags": [
+   "n4-m10",
+   "kalibrasi-skor",
+   "L49"
+  ],
+  "word": "目安",
+  "example_en": "このひょうをめやすにしてください。(Please use this table as a guideline.)"
+ },
+ {
+  "example": "さが10パーセントいないならだいじょうぶです。(Kalau selisihnya dalam 10 persen, tidak masalah.)",
+  "meaning_en": "difference",
+  "meaning_id": "selisih",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "さ",
+  "tags": [
+   "n4-m10",
+   "kalibrasi-skor",
+   "L49"
+  ],
+  "word": "差",
+  "example_en": "さが10パーセントいないならだいじょうぶです。(If the difference is within 10 percent, it's fine.)"
+ },
+ {
+  "example": "しゅっぱつのまえにさいしゅうかくにんをします。(Sebelum berangkat saya melakukan pemeriksaan terakhir.)",
+  "meaning_en": "final check",
+  "meaning_id": "pemeriksaan terakhir",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "さいしゅうかくにん",
+  "tags": [
+   "n4-m10",
+   "sapuan-akhir-frekuensi-tinggi",
+   "L50"
+  ],
+  "word": "最終確認",
+  "example_en": "しゅっぱつのまえにさいしゅうかくにんをします。(I do a final check before departure.)"
+ },
+ {
+  "example": "しけんのぜんじつははやくねます。(Sehari sebelum ujian saya tidur lebih awal.)",
+  "meaning_en": "the day before",
+  "meaning_id": "sehari sebelum",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "ぜんじつ",
+  "tags": [
+   "n4-m10",
+   "sapuan-akhir-frekuensi-tinggi",
+   "L50"
+  ],
+  "word": "前日",
+  "example_en": "しけんのぜんじつははやくねます。(I go to bed early the day before the exam.)"
+ },
+ {
+  "example": "とうじつのあさはゆっくりたべます。(Pagi hari-H saya makan dengan santai.)",
+  "meaning_en": "the day itself",
+  "meaning_id": "hari-H",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "とうじつ",
+  "tags": [
+   "n4-m10",
+   "sapuan-akhir-frekuensi-tinggi",
+   "L50"
+  ],
+  "word": "当日",
+  "example_en": "とうじつのあさはゆっくりたべます。(On the morning of the day itself, I eat leisurely.)"
+ },
+ {
+  "example": "すいみんをじゅうぶんにとりましょう。(Mari tidur yang cukup.)",
+  "meaning_en": "sleep",
+  "meaning_id": "tidur",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "すいみん",
+  "tags": [
+   "n4-m10",
+   "sapuan-akhir-frekuensi-tinggi",
+   "L50"
+  ],
+  "word": "睡眠",
+  "example_en": "すいみんをじゅうぶんにとりましょう。(Let's get enough sleep.)"
+ },
+ {
+  "example": "こころがまえがたいせつです。(Kesiapan mental itu penting.)",
+  "meaning_en": "mental readiness",
+  "meaning_id": "kesiapan mental",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "こころがまえ",
+  "tags": [
+   "n4-m10",
+   "sapuan-akhir-frekuensi-tinggi",
+   "L50"
+  ],
+  "word": "心構え",
+  "example_en": "こころがまえがたいせつです。(Mental readiness is important.)"
+ },
+ {
+  "example": "ひんしゅつのたんごをふくしゅうします。(Saya mengulang kosakata yang sering muncul.)",
+  "meaning_en": "frequent appearance",
+  "meaning_id": "sering muncul",
+  "module": "n4-m10",
+  "pos": "noun",
+  "reading": "ひんしゅつ",
+  "tags": [
+   "n4-m10",
+   "sapuan-akhir-frekuensi-tinggi",
+   "L50"
+  ],
+  "word": "頻出",
+  "example_en": "ひんしゅつのたんごをふくしゅうします。(I review the words that appear frequently.)"
+ },
+ {
+  "example": "じぶんにじしんをもちましょう。(Mari percaya pada diri sendiri.)",
+  "meaning_en": "to be confident",
+  "meaning_id": "percaya diri",
+  "module": "n4-m10",
+  "pos": "verb-g1",
+  "reading": "じしんをもつ",
+  "tags": [
+   "n4-m10",
+   "sapuan-akhir-frekuensi-tinggi",
+   "L50"
+  ],
+  "word": "自信を持つ",
+  "example_en": "じぶんにじしんをもちましょう。(Let's have confidence in ourselves.)"
+ },
+ {
+  "example": "じかんによゆうをもってでかけます。(Saya berangkat dengan memberi kelonggaran waktu.)",
+  "meaning_en": "to allow leeway",
+  "meaning_id": "memberi kelonggaran",
+  "module": "n4-m10",
+  "pos": "verb-g1",
+  "reading": "よゆうをもつ",
+  "tags": [
+   "n4-m10",
+   "sapuan-akhir-frekuensi-tinggi",
+   "L50"
+  ],
+  "word": "余裕を持つ",
+  "example_en": "じかんによゆうをもってでかけます。(I leave with plenty of time to spare.)"
+ }
+]

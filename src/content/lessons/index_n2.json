@@ -1,0 +1,944 @@
+{
+ "level": "N2",
+ "modules": {
+  "n2-m1": {
+   "lessons": "1-5",
+   "title_en": "Limits, essence & full である体",
+   "title_id": "Batasan, hakikat, dan である体 penuh"
+  },
+  "n2-m2": {
+   "lessons": "6-10",
+   "title_en": "Expectation, possibility & judgment",
+   "title_id": "Dugaan, kemungkinan, dan penilaian"
+  },
+  "n2-m3": {
+   "lessons": "11-15",
+   "title_en": "Formal conditions, concession & viewpoint",
+   "title_id": "Syarat, konsesi, dan sudut pandang formal"
+  },
+  "n2-m4": {
+   "lessons": "16-20",
+   "title_en": "Irresistible emotion & emphasis",
+   "title_id": "Emosi tak tertahankan dan penekanan"
+  },
+  "n2-m5": {
+   "lessons": "21-25",
+   "title_en": "Manner, state & impression",
+   "title_id": "Cara, keadaan, dan kesan"
+  },
+  "n2-m6": {
+   "lessons": "26-30",
+   "title_en": "Formal business keigo: documents & email",
+   "title_id": "Keigo bisnis formal: dokumen dan email"
+  },
+  "n2-m7": {
+   "lessons": "31-35",
+   "title_en": "Newspaper Japanese 1: headlines & reports",
+   "title_id": "Bahasa koran 1: headline dan kabar"
+  },
+  "n2-m8": {
+   "lessons": "36-40",
+   "title_en": "Formal logic & conjunctions",
+   "title_id": "Logika formal dan konjungsi"
+  },
+  "n2-m9": {
+   "lessons": "41-45",
+   "title_en": "Reading speed & listening stamina",
+   "title_id": "Kecepatan baca dan stamina dengar"
+  },
+  "n2-m10": {
+   "lessons": "46-50",
+   "title_en": "Full mock exam & final review",
+   "title_id": "Full mock exam dan review final"
+  }
+ },
+ "lessons": [
+  {
+   "n": 1,
+   "code": "L01",
+   "module": "n2-m1",
+   "title_en": "Not merely: 〜にほかならない and 〜にすぎない",
+   "title_id": "Bukan sekadar: 〜にほかならない/〜にすぎない",
+   "grammar": [
+    "Pola 1: 〜にほかならない (tak lain adalah)",
+    "Pola 2: 〜にすぎない (tidak lebih dari)"
+   ],
+   "vocab_theme": "Politik, hukum, dan pemerintahan",
+   "kanji": [
+    "擁",
+    "護",
+    "弾",
+    "劾",
+    "院",
+    "邦",
+    "交",
+    "隣"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 2,
+   "code": "L02",
+   "module": "n2-m1",
+   "title_en": "Worthy or not: 〜に足る and 〜に足りない",
+   "title_id": "Layak atau tidak: 〜に足る/〜に足りない",
+   "grammar": [
+    "Pola 3: 〜に足る (layak, pantas)",
+    "Pola 4: 〜に足りない (tidak layak)"
+   ],
+   "vocab_theme": "Hukum dan peradilan",
+   "kanji": [
+    "准",
+    "勾",
+    "留",
+    "諮",
+    "頒",
+    "罷"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 3,
+   "code": "L03",
+   "module": "n2-m1",
+   "title_en": "Standing the test: 〜に堪える and 〜に堪えない",
+   "title_id": "Tahan uji: 〜に堪える/〜に堪えない",
+   "grammar": [
+    "Pola 5: 〜に堪える (tahan, layak uji)",
+    "Pola 6: 〜に堪えない (tak tahan, tak layak uji)"
+   ],
+   "vocab_theme": "Kritik seni dan kebebasan berpendapat",
+   "kanji": [
+    "贖",
+    "讒",
+    "言",
+    "尉",
+    "僉",
+    "曹"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 4,
+   "code": "L04",
+   "module": "n2-m1",
+   "title_en": "Worth the effort: 〜甲斐がある and 〜甲斐がない",
+   "title_id": "Ada gunanya: 〜甲斐がある/〜甲斐がない",
+   "grammar": [
+    "Pola 7: 〜甲斐がある (ada gunanya, berbalas)",
+    "Pola 8: 〜甲斐がない (tiada gunanya, sia-sia)"
+   ],
+   "vocab_theme": "Usaha, ketekunan, dan hasil",
+   "kanji": [
+    "陪",
+    "勅",
+    "衡",
+    "睦"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 5,
+   "code": "L05",
+   "module": "n2-m1",
+   "title_en": "Certain, no doubt: 〜に決まっている and 〜に違いない",
+   "title_id": "Pasti, tanpa ragu: 〜に決まっている/〜に違いない",
+   "grammar": [
+    "Pola 9: 〜に決まっている (pasti — keyakinan pembicara)",
+    "Pola 10: 〜に違いない (pasti — dugaan kuat berdasar bukti)"
+   ],
+   "vocab_theme": "Penyelidikan dan penilaian",
+   "kanji": [
+    "斡",
+    "牽",
+    "宥",
+    "詔"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 6,
+   "code": "L06",
+   "module": "n2-m2",
+   "title_en": "Feared to happen: 〜おそれがある",
+   "title_id": "Dikhawatirkan terjadi: 〜おそれがある",
+   "grammar": [
+    "Pola 16: 〜おそれがある (dikhawatirkan, ada risiko)"
+   ],
+   "vocab_theme": "Penilaian dan risiko",
+   "kanji": [
+    "臆",
+    "虞",
+    "兆",
+    "偽",
+    "宜",
+    "為"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 7,
+   "code": "L07",
+   "module": "n2-m2",
+   "title_en": "It could happen: 〜かねない",
+   "title_id": "Bisa saja terjadi: 〜かねない",
+   "grammar": [
+    "Pola 17: 〜かねない (bisa saja terjadi — konotasi negatif)"
+   ],
+   "vocab_theme": "Risiko bisnis dan reputasi",
+   "kanji": [
+    "賠",
+    "徴",
+    "譲",
+    "兌",
+    "配"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 8,
+   "code": "L08",
+   "module": "n2-m2",
+   "title_en": "As if!: 〜ものか and 〜もんか",
+   "title_id": "Mana mungkin: 〜ものか/〜もんか",
+   "grammar": [
+    "Pola 18: 〜ものか / 〜もんか (penolakan retoris)"
+   ],
+   "vocab_theme": "Perdagangan dan penolakan tegas",
+   "kanji": [
+    "購",
+    "販",
+    "質",
+    "量",
+    "簡",
+    "幣"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 9,
+   "code": "L09",
+   "module": "n2-m2",
+   "title_en": "Beyond doubt: 〜に相違ない",
+   "title_id": "Tak diragukan: 〜に相違ない",
+   "grammar": [
+    "Pola 19: 〜に相違ない (tidak diragukan lagi)"
+   ],
+   "vocab_theme": "Verifikasi dan kepastian dokumen",
+   "kanji": [
+    "依",
+    "偉",
+    "威",
+    "宛",
+    "傭",
+    "俸"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 10,
+   "code": "L10",
+   "module": "n2-m2",
+   "title_en": "No other way: 〜ほかない and 〜よりほかない",
+   "title_id": "Tak ada jalan lain: 〜ほかない/〜よりほかない",
+   "grammar": [
+    "Pola 20: 〜ほかない (tak ada cara selain)",
+    "Pola 21: 〜よりほかない (tak ada selain — penekanan)"
+   ],
+   "vocab_theme": "Keputusan sulit dalam bisnis",
+   "kanji": [
+    "禄",
+    "股",
+    "厘",
+    "銭",
+    "賦"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 11,
+   "code": "L11",
+   "module": "n2-m3",
+   "title_en": "Concession: 〜にしろ・〜にせよ・〜であれ",
+   "title_id": "Sekalipun: 〜にしろ/〜にせよ/〜であれ",
+   "grammar": [
+    "〜にしろ・〜にせよ・〜であれ (pola 31–32)"
+   ],
+   "vocab_theme": "Argumen dan opini",
+   "kanji": [
+    "須",
+    "打",
+    "登",
+    "線"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 12,
+   "code": "L12",
+   "module": "n2-m3",
+   "title_en": "Depending on: 〜いかん",
+   "title_id": "Tergantung: 〜いかん",
+   "grammar": [
+    "〜いかん (pola 33)",
+    "〜いかんにかかわらず・〜いかんによらず (pola 34–35)"
+   ],
+   "vocab_theme": "Hasil dan penilaian",
+   "kanji": [
+    "辿"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 13,
+   "code": "L13",
+   "module": "n2-m3",
+   "title_en": "Regardless of: 〜を問わず・〜にかかわらず・〜によらず",
+   "title_id": "Tanpa memandang: 〜を問わず/〜にかかわらず",
+   "grammar": [
+    "〜を問わず・〜にかかわらず・〜によらず (pola 36–38)"
+   ],
+   "vocab_theme": "Syarat dan atribut",
+   "kanji": [],
+   "duration_min": 15
+  },
+  {
+   "n": 14,
+   "code": "L14",
+   "module": "n2-m3",
+   "title_en": "Judging from: 〜からして・〜からすると",
+   "title_id": "Dilihat dari: 〜からして/〜からすると",
+   "grammar": [
+    "〜からして・〜からすると (pola 39–42)"
+   ],
+   "vocab_theme": "Penilaian dan sudut pandang",
+   "kanji": [
+    "遡",
+    "望"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 15,
+   "code": "L15",
+   "module": "n2-m3",
+   "title_en": "Formal concession: 〜といえども",
+   "title_id": "Konsesi formal: review + 〜といえども",
+   "grammar": [
+    "〜といえども (pola 45)",
+    "review: 〜としたら・〜とすれば・〜にしても (N3)"
+   ],
+   "vocab_theme": "Konsesi formal",
+   "kanji": [],
+   "duration_min": 15
+  },
+  {
+   "n": 16,
+   "code": "L16",
+   "module": "n2-m4",
+   "title_en": "Irresistible feelings: 〜をきんじえない",
+   "title_id": "Tak tertahankan: 〜を禁じ得ない",
+   "grammar": [
+    "〜をきんじえない (pola 46–47)"
+   ],
+   "vocab_theme": "Emosi",
+   "kanji": [],
+   "duration_min": 15
+  },
+  {
+   "n": 17,
+   "code": "L17",
+   "module": "n2-m4",
+   "title_en": "Unceasing feelings: 〜てやまない",
+   "title_id": "Terus menghantui: 〜てやまない",
+   "grammar": [
+    "〜てやまない (pola 48)"
+   ],
+   "vocab_theme": "Perasaan dan harapan",
+   "kanji": [],
+   "duration_min": 15
+  },
+  {
+   "n": 18,
+   "code": "L18",
+   "module": "n2-m4",
+   "title_en": "Bound to happen: 〜ずにはおかない",
+   "title_id": "Pasti akan: 〜ずにはおかない",
+   "grammar": [
+    "〜ずにはおかない・〜ないではおかない・〜ずにはすまない (pola 49–51)"
+   ],
+   "vocab_theme": "Kepastian dan tekad",
+   "kanji": [],
+   "duration_min": 15
+  },
+  {
+   "n": 19,
+   "code": "L19",
+   "module": "n2-m4",
+   "title_en": "As if 1: 〜んばかり",
+   "title_id": "Seakan-akan 1: 〜んばかり",
+   "grammar": [
+    "〜んばかり (pola 52–54)"
+   ],
+   "vocab_theme": "Ungkapan 'seakan-akan",
+   "kanji": [],
+   "duration_min": 15
+  },
+  {
+   "n": 20,
+   "code": "L20",
+   "module": "n2-m4",
+   "title_en": "As if saying: 〜とばかり",
+   "title_id": "Seakan-akan 2: 〜とばかり",
+   "grammar": [
+    "〜とばかり (pola 55–56)"
+   ],
+   "vocab_theme": "Ujaran dan sikap tersirat",
+   "kanji": [],
+   "duration_min": 15
+  },
+  {
+   "n": 21,
+   "code": "L21",
+   "module": "n2-m5",
+   "title_en": "Either…or: 〜なり〜なり",
+   "title_id": "Entah-entah: 〜なり〜なり",
+   "grammar": [
+    "pola 61: 〜なり〜なり (N + なり + N + なり)"
+   ],
+   "vocab_theme": "Keadaan tubuh & kesehatan",
+   "kanji": [
+    "腺",
+    "腫",
+    "瘍",
+    "癌",
+    "痺",
+    "眩",
+    "瞼",
+    "瞑",
+    "睫",
+    "頤",
+    "齬"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 22,
+   "code": "L22",
+   "module": "n2-m5",
+   "title_en": "On the side: 〜かたわら",
+   "title_id": "Di samping itu: 〜かたわら",
+   "grammar": [
+    "pola 62: 〜かたわら (N + のかたわら)"
+   ],
+   "vocab_theme": "Keadaan & kondisi",
+   "kanji": [
+    "髄",
+    "腱",
+    "腑",
+    "腔",
+    "膏",
+    "齦",
+    "齲",
+    "歯",
+    "髭",
+    "鬚",
+    "狡"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 23,
+   "code": "L23",
+   "module": "n2-m5",
+   "title_en": "No sooner…than: 〜そばから",
+   "title_id": "Begitu… langsung: 〜そばから",
+   "grammar": [
+    "pola 63: 〜そばから (V kamus + そばから)"
+   ],
+   "vocab_theme": "Sifat & watak",
+   "kanji": [
+    "奸",
+    "佞",
+    "諂",
+    "諛",
+    "媚",
+    "傲",
+    "慢",
+    "倨",
+    "驕",
+    "奢",
+    "僭"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 24,
+   "code": "L24",
+   "module": "n2-m5",
+   "title_en": "In progress: 〜つつある",
+   "title_id": "Sedang berlangsung: 〜つつある",
+   "grammar": [
+    "pola 64: 〜つつある (V-masu stem + つつある)"
+   ],
+   "vocab_theme": "Perasaan & perubahan",
+   "kanji": [
+    "越",
+    "悍",
+    "愎",
+    "慓",
+    "慄",
+    "怨",
+    "念",
+    "忌",
+    "懊",
+    "悩",
+    "悋"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 25,
+   "code": "L25",
+   "module": "n2-m5",
+   "title_en": "Looks and impressions: 〜ざま・〜ぶり・〜じみる",
+   "title_id": "Penampilan & kesan: 〜ざま/〜ぶり/〜じみる",
+   "grammar": [
+    "pola 65: 〜ざま (penampilan; keadaan)",
+    "pola 66–67: 〜ぶり (gaya)・〜じみる (bernuansa)"
+   ],
+   "vocab_theme": "Kesan & keadaan abstrak",
+   "kanji": [
+    "忖",
+    "慟",
+    "悼",
+    "戚",
+    "渾",
+    "然",
+    "厖",
+    "汎",
+    "杳",
+    "冥",
+    "王"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 26,
+   "code": "L26",
+   "module": "n2-m6",
+   "title_en": "Receiving humbly: ご〜いただく",
+   "title_id": "Menerima dengan hormat: ご〜いただく",
+   "grammar": [
+    "pola 76: ご〜いただく (謙譲語II)"
+   ],
+   "vocab_theme": "Dokumen & formalitas bisnis",
+   "kanji": [
+    "啓",
+    "謹",
+    "粛",
+    "凛"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 27,
+   "code": "L27",
+   "module": "n2-m6",
+   "title_en": "Formal humility: お〜申し上げる・拝〜",
+   "title_id": "Merendah formal: お〜申し上げる/拝〜",
+   "grammar": [
+    "pola 77: お〜申し上げる (謙譲語II)",
+    "pola 78: 拝〜 (拝見・拝読・拝受)"
+   ],
+   "vocab_theme": "Keigo merendah formal",
+   "kanji": [
+    "厳",
+    "恪",
+    "恭",
+    "欽"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 28,
+   "code": "L28",
+   "module": "n2-m6",
+   "title_en": "Business email 1: structure and 謹啓/敬具",
+   "title_id": "Email bisnis 1: struktur & 謹啓/敬具",
+   "grammar": [
+    "pola 88: 謹啓/敬具 (pembuka-penutup surat)",
+    "pola 89: struktur email formal Jepang"
+   ],
+   "vocab_theme": "Email bisnis",
+   "kanji": [
+    "稽",
+    "謁",
+    "奏",
+    "綸"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 29,
+   "code": "L29",
+   "module": "n2-m6",
+   "title_en": "Business email 2: 記/以上 and 丁重語",
+   "title_id": "Email bisnis 2: 記/以上 & 丁重語",
+   "grammar": [
+    "pola 89: 記/以上 (format dokumen)",
+    "pola 84–87, 90: 丁重語・前略/草々"
+   ],
+   "vocab_theme": "Dokumen & memo bisnis",
+   "kanji": [
+    "謄",
+    "憑",
+    "孜",
+    "兢"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 30,
+   "code": "L30",
+   "module": "n2-m6",
+   "title_en": "Formal phone calls and meetings: role-play",
+   "title_id": "Telepon & rapat formal: role-play",
+   "grammar": [
+    "pola 79–83: keigo dalam role-play telepon & rapat"
+   ],
+   "vocab_theme": "Telepon & rapat formal",
+   "kanji": [
+    "翹",
+    "懃",
+    "勲"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 31,
+   "code": "L31",
+   "module": "n2-m7",
+   "title_en": "Newspaper passive headlines",
+   "title_id": "Headline pasif: 受身 koran",
+   "grammar": [
+    "pola 91: headline pasif (〜される見通しだ)"
+   ],
+   "vocab_theme": "Berita dan pemerintahan",
+   "kanji": [
+    "覇",
+    "翌",
+    "曰",
+    "様",
+    "海",
+    "洋",
+    "笑",
+    "汐"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 32,
+   "code": "L32",
+   "module": "n2-m7",
+   "title_en": "Hearsay: 〜模様だ and 〜とのことだ",
+   "title_id": "Kabarnya: 〜模様だ/〜とのことだ",
+   "grammar": [
+    "pola 92: 〜模様だ (kabarnya — dari pengamatan)",
+    "pola 93: 〜とのことだ (menurut kabar yang diterima)"
+   ],
+   "vocab_theme": "Kabar, cuaca, dan perkiraan",
+   "kanji": [
+    "霖",
+    "凪",
+    "汐",
+    "浪",
+    "箏",
+    "雅",
+    "様"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 33,
+   "code": "L33",
+   "module": "n2-m7",
+   "title_en": "Considered and designated: 〜ものとみられる",
+   "title_id": "Dianggap & ditetapkan: 〜ものとみられる",
+   "grammar": [
+    "pola 94–96: 〜ものとみられる・〜ものとされている・〜ものと思われる"
+   ],
+   "vocab_theme": "Laporan, analisis, dan penilaian",
+   "kanji": [
+    "嘲",
+    "弄",
+    "弓",
+    "尺",
+    "涛",
+    "漕"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 34,
+   "code": "L34",
+   "module": "n2-m7",
+   "title_en": "Citing parties and sources in the news",
+   "title_id": "Pihak & sumber: 〜方/によると",
+   "grammar": [
+    "pola 97: 〜方 (pihak)",
+    "pola 98: 〜によると・〜によれば (menurut — review N3)"
+   ],
+   "vocab_theme": "Pihak, lembaga, dan atribusi sumber",
+   "kanji": [
+    "渚",
+    "啼",
+    "嗤"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 35,
+   "code": "L35",
+   "module": "n2-m7",
+   "title_en": "Reading the newspaper: full 800-character article",
+   "title_id": "Baca koran: artikel penuh 800 aksara",
+   "grammar": [
+    "pola 99–101 (review N3): 〜をめぐって・〜にわたって・〜を通じて",
+    "pola 102–105 (review N3): 〜に伴って・〜を機に・〜を皮切りに・〜に際して"
+   ],
+   "vocab_theme": "Kosakata artikel festival",
+   "kanji": [
+    "霖",
+    "如",
+    "琵"
+   ],
+   "duration_min": 20
+  },
+  {
+   "n": 36,
+   "code": "L36",
+   "module": "n2-m8",
+   "title_en": "Therefore: よって and したがって",
+   "title_id": "Oleh karena itu: よって/したがって",
+   "grammar": [
+    "pola 106: よって (oleh karena itu — formal tulis)",
+    "pola 111: したがって (dengan demikian — review N3)"
+   ],
+   "vocab_theme": "Logika dan esai",
+   "kanji": [
+    "野",
+    "沃",
+    "帯",
+    "蓋",
+    "泊",
+    "津",
+    "湊",
+    "若"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 37,
+   "code": "L37",
+   "module": "n2-m8",
+   "title_en": "Regarding: ついては",
+   "title_id": "Mengenai: ついては",
+   "grammar": [
+    "pola 107: ついては (mengenai — dokumen formal)"
+   ],
+   "vocab_theme": "Dokumen dan surat resmi",
+   "kanji": [
+    "臍",
+    "楠",
+    "杜",
+    "鮫",
+    "錨",
+    "轟"
+   ],
+   "duration_min": 15
+  },
+  {
+   "n": 38,
+   "code": "L38",
+   "module": "n2-m8",
+   "title_en": "At once and even: 〜にして",
+   "title_id": "Sekaligus & bahkan: 〜にして",
+   "grammar": [
+    "pola 108: 〜にして (sekaligus; bahkan)"
+   ],
+   "vocab_theme": "Usia, jabatan, dan peran ganda",
+   "kanji": [],
+   "duration_min": 15
+  },
+  {
+   "n": 39,
+   "code": "L39",
+   "module": "n2-m8",
+   "title_en": "In terms of: 〜上での and 〜上では",
+   "title_id": "Dalam hal: 〜上での/〜上では",
+   "grammar": [
+    "pola 109–110: 〜上での・〜上では (dalam hal)"
+   ],
+   "vocab_theme": "Aturan, kontrak, dan formalitas",
+   "kanji": [],
+   "duration_min": 15
+  },
+  {
+   "n": 40,
+   "code": "L40",
+   "module": "n2-m8",
+   "title_en": "Argumentative essay: 長文・主張理解 drill",
+   "title_id": "Esai argumen: drill 長文・主張理解",
+   "grammar": [
+    "pola 112–115 (review N3): つまり・ただし・なぜなら・すなわち",
+    "pola 116–120 (review N3): 〜に対して・〜に関して・〜について・〜といった・〜を限りに"
+   ],
+   "vocab_theme": "Kosakata esai argumentatif",
+   "kanji": [],
+   "duration_min": 20
+  },
+  {
+   "n": 41,
+   "code": "L41",
+   "module": "n2-m9",
+   "title_en": "Opinion reading: finding the author's view",
+   "title_id": "Membaca opini: temukan pendapat penulis",
+   "grammar": [
+    "Strategi menemukan pendapat penulis (主張理解)"
+   ],
+   "vocab_theme": "Kosakata kunci teks opini",
+   "kanji": [
+    "努",
+    "哲",
+    "巡",
+    "敢"
+   ],
+   "duration_min": 20
+  },
+  {
+   "n": 42,
+   "code": "L42",
+   "module": "n2-m9",
+   "title_en": "Information retrieval: speed drill",
+   "title_id": "Pencarian informasi: drill cepat",
+   "grammar": [
+    "Drill pencarian informasi berwaktu (情報検索)"
+   ],
+   "vocab_theme": "Kosakata pengumuman & jadwal",
+   "kanji": [
+    "授",
+    "巡",
+    "努"
+   ],
+   "duration_min": 20
+  },
+  {
+   "n": 43,
+   "code": "L43",
+   "module": "n2-m9",
+   "title_en": "Integrated comprehension: two texts",
+   "title_id": "Pemahaman terpadu: dua teks, dua pendapat",
+   "grammar": [
+    "Strategi統合理解 (membandingkan dua teks)"
+   ],
+   "vocab_theme": "Kosakata kunci dua teks",
+   "kanji": [
+    "努",
+    "敢"
+   ],
+   "duration_min": 20
+  },
+  {
+   "n": 44,
+   "code": "L44",
+   "module": "n2-m9",
+   "title_en": "Listening stamina: 50 minutes, one play",
+   "title_id": "Stamina mendengar: 50 menit putar-sekali",
+   "grammar": [
+    "Protokol latihan mendengar putar-sekali"
+   ],
+   "vocab_theme": "Kosakata instruksi latihan mendengar",
+   "kanji": [],
+   "duration_min": 20
+  },
+  {
+   "n": 45,
+   "code": "L45",
+   "module": "n2-m9",
+   "title_en": "Half-mock: a timed 105-minute block",
+   "title_id": "Half-mock: blok 105 menit berwaktu",
+   "grammar": [
+    "Alokasi waktu seksi N2 (105 menit)"
+   ],
+   "vocab_theme": "Kosakata strategi ujian",
+   "kanji": [],
+   "duration_min": 20
+  },
+  {
+   "n": 46,
+   "code": "L46",
+   "module": "n2-m10",
+   "title_en": "Full mock 1 (Study mode)",
+   "title_id": "Full mock 1 (mode Study)",
+   "grammar": [
+    "Strategi mode Study"
+   ],
+   "vocab_theme": "Strategi ujian",
+   "kanji": [],
+   "duration_min": 20
+  },
+  {
+   "n": 47,
+   "code": "L47",
+   "module": "n2-m10",
+   "title_en": "Error clinic and repair",
+   "title_id": "Klinik kesalahan & perbaikan",
+   "grammar": [
+    "Analisis kesalahan per strand"
+   ],
+   "vocab_theme": "Kosakata analisis kesalahan",
+   "kanji": [],
+   "duration_min": 20
+  },
+  {
+   "n": 48,
+   "code": "L48",
+   "module": "n2-m10",
+   "title_en": "Full mock 2 (Real mode)",
+   "title_id": "Full mock 2 (mode Real)",
+   "grammar": [
+    "Checklist mode Real"
+   ],
+   "vocab_theme": "Disiplin ujian",
+   "kanji": [],
+   "duration_min": 20
+  },
+  {
+   "n": 49,
+   "code": "L49",
+   "module": "n2-m10",
+   "title_en": "Full mock 3 (Real mode) + official benchmark",
+   "title_id": "Full mock 3 (mode Real) + jangkar resmi",
+   "grammar": [
+    "Kalibrasi dengan contoh soal resmi JLPT"
+   ],
+   "vocab_theme": "Kalibrasi skor",
+   "kanji": [],
+   "duration_min": 20
+  },
+  {
+   "n": 50,
+   "code": "L50",
+   "module": "n2-m10",
+   "title_en": "Readiness check & exam-day plan",
+   "title_id": "Cek kesiapan & rencana hari-H",
+   "grammar": [
+    "Kriteria kesiapan N2"
+   ],
+   "vocab_theme": "Kesiapan ujian",
+   "kanji": [],
+   "duration_min": 20
+  }
+ ]
+}
