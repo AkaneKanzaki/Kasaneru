@@ -1,0 +1,43 @@
+# Local development only - NEVER commit secrets to public repo
+# For Railway: set env vars in Railway dashboard, this file is ignored
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: kasaneru-db
+    environment:
+      POSTGRES_USER: kasaneru
+      POSTGRES_PASSWORD: kasaneru_dev_password
+      POSTGRES_DB: kasaneru
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U kasaneru"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build: .
+    container_name: kasaneru-api
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DATABASE_URL: jdbc:postgresql://postgres:5432/kasaneru
+      DATABASE_USER: kasaneru
+      DATABASE_PASSWORD: kasaneru_dev_password
+      JWT_SECRET: "yB7kN9mP2xQ8vL5tJ3rW6sD1cF4gH9iO0uE7aB2nM5yC8dK1pL4qR9sT2vW6xZ3aB5cD8eF1gH4iJ7kL0mN3oP6qR9sT2uV5wX8yZ1aC4bD7eF0gH3iJ6kL8mN1oP4qR7sT0uV3wX6yZ"
+      SERVER_PORT: 8080
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./src:/app/src
+      - ./pom.xml:/app/pom.xml
+    command: mvn spring-boot:run
+
+volumes:
+  postgres_data:

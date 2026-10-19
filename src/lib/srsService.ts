@@ -2,7 +2,9 @@
 // src/content/vocab/{n5..n1}.json, review state lives in the local store.
 //
 // Grade mapping (UI): Lagi=0, Sulit=3, Bisa=4, Mudah=5.
+// Reviews queue for backend sync when authenticated.
 import { addXp, getProgress, saveProgress, touchActivity, type SrsState } from './store';
+import { addReviewForSync } from './syncService';
 
 const MIN_EASE = 1.3;
 const DEFAULT_EASE = 2.5;
@@ -166,6 +168,14 @@ export async function review({ cardId, quality }: ReviewOpts): Promise<void> {
   p.srs[cardId] = { ef: ease, interval, reps, due: dueAt.toISOString() };
   saveProgress();
   addXp(2);
+
+  // Queue for backend sync if authenticated
+  try {
+    await addReviewForSync(cardId, quality);
+  } catch (err) {
+    console.warn('Failed to queue review for sync:', err);
+    // Continue even if sync queue fails — local review still applies
+  }
 }
 
 /**

@@ -4,6 +4,7 @@ import { SplashScreen } from '@capacitor/splash-screen';
 import { App as CapApp } from '@capacitor/app';
 import { ThemeProvider } from './lib/theme';
 import { LanguageProvider } from './lib/i18n';
+import { AuthProvider } from './lib/authContext';
 import { touchActivity } from './lib/store';
 import Layout from './components/Layout';
 import Splash from './components/Splash';
@@ -57,6 +58,7 @@ export default function App() {
   return (
     <ThemeProvider>
       <LanguageProvider>
+        <AuthProvider>
         {!splashGone && <Splash visible={splashVisible} />}
         {onboarded ? (
           <HashRouter>
@@ -80,6 +82,7 @@ export default function App() {
         ) : (
           <Onboarding onDone={() => setOnboarded(true)} />
         )}
+        </AuthProvider>
       </LanguageProvider>
     </ThemeProvider>
   );

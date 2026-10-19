@@ -3,6 +3,8 @@ import { Link } from 'react-router-dom';
 import { useStrings } from '../lib/i18n';
 import type { Lang } from '../lib/strings/en';
 import { useTheme } from '../lib/theme';
+import { useAuth } from '../lib/authContext';
+import { useSync } from '../lib/useSync';
 import { GITHUB_REPO_URL } from '../lib/site';
 import { buildLabel } from '../lib/buildInfo';
 import { setSfxEnabled, sfxEnabled } from '../lib/sfx';
@@ -136,6 +138,9 @@ export default function Profile() {
               </button>
             </div>
           </div>
+
+          {/* Sync */}
+          <SyncCard />
 
           {/* Statistik */}
           <div className="stat-row" style={{ gridTemplateColumns: 'repeat(2, 1fr)' }}>
@@ -334,6 +339,88 @@ function OnOff(props: { on: boolean; onChange: (v: boolean) => void; label: stri
       >
         切 {S.soundOff}
       </button>
+    </div>
+  );
+}
+
+function SyncCard() {
+  const { S } = useStrings();
+  const auth = useAuth();
+  const sync = useSync();
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
+  const [mode, setMode] = useState<'login' | 'register'>('login');
+  const [localNotice, setLocalNotice] = useState<string | null>(null);
+  const [localErr, setLocalErr] = useState(false);
+
+  const handleAuth = async () => {
+    setLocalNotice(null);
+    setLocalErr(false);
+    auth.clearError();
+    sync.clearError();
+    try {
+      if (mode === 'login') await auth.login(email.trim(), password);
+      else await auth.register(email.trim(), password);
+      setLocalNotice(S.syncSuccess);
+      setEmail('');
+      setPassword('');
+    } catch (e) {
+      const msg = auth.error || sync.syncError || String(e);
+      if (msg.includes('already')) setLocalNotice(S.authAlreadyExists);
+      else if (msg.includes('400') || msg.includes('Invalid')) setLocalNotice(S.authInvalidInput);
+      else setLocalNotice(S.authFailed);
+      setLocalErr(true);
+    }
+  };
+
+  const handleSync = async () => {
+    setLocalNotice(null);
+    setLocalErr(false);
+    try {
+      await sync.sync();
+      setLocalNotice(S.syncSuccess);
+    } catch {
+      setLocalNotice(S.syncFailed);
+      setLocalErr(true);
+    }
+  };
+
+  if (auth.isAuthenticated) {
+    return (
+      <div className="card stack">
+        <strong style={{ display: 'block' }}>{S.syncTitle}</strong>
+        <p className="muted" style={{ margin: 0, fontSize: 13 }}>{S.syncLoggedInDesc}</p>
+        <p className="muted" style={{ margin: 0, fontSize: 13 }}>{S.loggedInAs}: <strong>{auth.email}</strong></p>
+        <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', alignItems: 'center' }}>
+          <button type="button" className="btn-primary" style={{ width: 'auto' }} onClick={handleSync} disabled={sync.isSyncing}>
+            {sync.isSyncing ? S.syncing : S.syncNow}
+          </button>
+          {sync.hasPending && <span className="muted" style={{ fontSize: 12 }}>{S.hasPendingSync}</span>}
+          {sync.lastSyncAt != null && <span className="muted" style={{ fontSize: 12 }}>{S.lastSyncAt}: {new Date(sync.lastSyncAt).toLocaleTimeString()}</span>}
+        </div>
+        {localNotice && <p className={localErr ? 'error-box' : 'muted'} style={{ margin: 0, fontSize: 13 }}>{localNotice}</p>}
+        {sync.syncError && <p className="error-box" style={{ margin: 0, fontSize: 13 }}>{sync.syncError}</p>}
+        <button type="button" className="btn-secondary" style={{ width: 'auto' }} onClick={() => void auth.logout()}>{S.logout}</button>
+      </div>
+    );
+  }
+
+  return (
+    <div className="card stack">
+      <strong style={{ display: 'block' }}>{S.syncTitle}</strong>
+      <p className="muted" style={{ margin: 0, fontSize: 13 }}>{S.syncDesc}</p>
+      <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+        <button type="button" className={'chip' + (mode === 'login' ? ' active' : '')} onClick={() => setMode('login')}>{S.login}</button>
+        <button type="button" className={'chip' + (mode === 'register' ? ' active' : '')} onClick={() => setMode('register')}>{S.register}</button>
+      </div>
+      <input className="input" type="email" placeholder={S.emailPlaceholder} value={email} onChange={(e) => setEmail(e.target.value)} autoComplete="email" />
+      <input className="input" type="password" placeholder={S.passwordPlaceholder} value={password} onChange={(e) => setPassword(e.target.value)} autoComplete={mode === 'login' ? 'current-password' : 'new-password'} />
+      <button type="button" className="btn-primary" style={{ width: 'auto' }} onClick={handleAuth} disabled={auth.isLoading || !email.trim() || !password.trim()}>
+        {auth.isLoading ? S.syncing : mode === 'login' ? S.login : S.register}
+      </button>
+      {localNotice && <p className={localErr ? 'error-box' : 'muted'} style={{ margin: 0, fontSize: 13 }}>{localNotice}</p>}
+      {auth.error && <p className="error-box" style={{ margin: 0, fontSize: 13 }}>{auth.error}</p>}
+      {!auth.isAuthenticated && <p className="muted" style={{ margin: 0, fontSize: 12 }}>{S.notAuthenticated}</p>}
     </div>
   );
 }
