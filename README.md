@@ -4,7 +4,7 @@
 that takes you from zero to JLPT N1, built with **Vite + React + TypeScript +
 Capacitor** — one codebase for Web and Android.
 
-**Local-first & open source:** no backend required. All content is bundled with
+**Local & open source:** no backend required. All content is bundled with
 the app and all progress stays on your device. Works fully offline.
 
 **Optional sync:** create an account to sync progress across devices
@@ -28,8 +28,8 @@ the app and all progress stays on your device. Works fully offline.
 | Frontend | React 19 + TypeScript + Vite |
 | Routing | react-router-dom (HashRouter — Capacitor-compatible) |
 | Storage | localStorage (progress), bundled JSON/Markdown (content) |
-| Backend (optional) | Spring Boot 3.3.5 + JPA + Flyway + JWT (Docker on Railway) |
-| Database (optional) | PostgreSQL 16 (Neon serverless, free tier) |
+| Backend (optional) | Spring Boot 3.3.5 + JPA + Flyway + JWT |
+| Database (optional) | PostgreSQL 16 |
 | Android | Capacitor (native APK via WebView) |
 | Markdown | react-markdown + remark-gfm |
 
@@ -144,7 +144,7 @@ Every `npm run build` automatically re-applies all Android customizations
 
 ## 🔒 Privacy & compliance
 
-Kasaneru is **local-first**: all progress stays on the user's device by
+Kasaneru is **local**: all progress stays on the user's device by
 default and works fully offline with no account.
 
 **Optional cloud sync:** the Profile screen offers an Account & Sync card.
