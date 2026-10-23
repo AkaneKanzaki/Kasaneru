@@ -160,8 +160,7 @@ is shared with third parties beyond the sync endpoint.
   access/portability, **reset** (Profile → Reset all data) covers erasure —
   consistent with GDPR, CCPA/CPRA, LGPD, and Indonesia's PDP Law
   (UU No. 27/2022).
-- When synced, your email and progress are stored in Neon Postgres (AWS
-  Asia Pacific 1/Singapore region). Delete your account data by using
+- When synced, your email and progress are stored in Neon Postgres. Delete your account data by using
   Profile → Reset all data after signing out.
 - Exam scores are **estimates**, not official JLPT scaled scores.
 
